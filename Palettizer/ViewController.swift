@@ -80,6 +80,9 @@ class ViewController: UITableViewController {
 	}
 	
 	// TODO: write function to repsond to row selection
+	override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+		// Finish this.
+	}
 	
 	
 	
