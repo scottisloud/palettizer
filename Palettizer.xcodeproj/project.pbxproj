@@ -12,6 +12,8 @@
 		23FF56292289B06D00FCBE33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23FF56272289B06D00FCBE33 /* Main.storyboard */; };
 		23FF562B2289B06F00FCBE33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FF562A2289B06F00FCBE33 /* Assets.xcassets */; };
 		23FF562E2289B06F00FCBE33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23FF562C2289B06F00FCBE33 /* LaunchScreen.storyboard */; };
+		23FF56362289B39100FCBE33 /* colorList.json in Resources */ = {isa = PBXBuildFile; fileRef = 23FF56352289B39100FCBE33 /* colorList.json */; };
+		23FF56382289B43600FCBE33 /* PantoneColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FF56372289B43600FCBE33 /* PantoneColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		23FF562A2289B06F00FCBE33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23FF562D2289B06F00FCBE33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23FF562F2289B06F00FCBE33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23FF56352289B39100FCBE33 /* colorList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colorList.json; sourceTree = "<group>"; };
+		23FF56372289B43600FCBE33 /* PantoneColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PantoneColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				23FF56232289B06D00FCBE33 /* AppDelegate.swift */,
 				23FF56252289B06D00FCBE33 /* ViewController.swift */,
+				23FF56372289B43600FCBE33 /* PantoneColor.swift */,
 				23FF56272289B06D00FCBE33 /* Main.storyboard */,
 				23FF562A2289B06F00FCBE33 /* Assets.xcassets */,
 				23FF562C2289B06F00FCBE33 /* LaunchScreen.storyboard */,
 				23FF562F2289B06F00FCBE33 /* Info.plist */,
+				23FF56352289B39100FCBE33 /* colorList.json */,
 			);
 			path = Palettizer;
 			sourceTree = "<group>";
@@ -125,6 +131,7 @@
 				23FF562E2289B06F00FCBE33 /* LaunchScreen.storyboard in Resources */,
 				23FF562B2289B06F00FCBE33 /* Assets.xcassets in Resources */,
 				23FF56292289B06D00FCBE33 /* Main.storyboard in Resources */,
+				23FF56362289B39100FCBE33 /* colorList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23FF56262289B06D00FCBE33 /* ViewController.swift in Sources */,
+				23FF56382289B43600FCBE33 /* PantoneColor.swift in Sources */,
 				23FF56242289B06D00FCBE33 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
