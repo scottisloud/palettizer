@@ -58,8 +58,6 @@ class ViewController: UITableViewController {
 		}
 	}
 	
-	
-	
 	// BUILD TABLE
 	override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
 		return listedColors.count
@@ -79,12 +77,15 @@ class ViewController: UITableViewController {
 		return cell
 	}
 	
-	// TODO: write function to repsond to row selection
 	override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-		// Finish this.
+		if let vc = storyboard?.instantiateViewController(withIdentifier: "colorDetail") as? ColorDetailView {
+			
+			vc.selectedColorHex = listedColors[indexPath.row].value
+			vc.selectedColorName = listedColors[indexPath.row].name
+			
+			navigationController?.pushViewController(vc, animated: true)
+		}
 	}
-	
-	
 	
 	// ERRORS
 	func showErrors(_ errorType: String) {
