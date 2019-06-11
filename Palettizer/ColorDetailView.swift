@@ -35,7 +35,7 @@ class ColorDetailView: UIViewController {
 			let bg = UIColor(hex: c)
 			colorChip.backgroundColor = bg
 		}
-		colorName.text = selectedColorName
+		colorName.text = selectedColorName?.capitalized
 		colorHex.text = selectedColorHex
 	}
 	

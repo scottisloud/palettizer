@@ -10,51 +10,27 @@ import UIKit
 
 class ViewController: UITableViewController {
 	
-	var listedColors = [PantoneColor]()
+	
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
-		
 		
 		// SETTING UP THE UI
 		self.title = "Palettizer"
 		navigationController?.navigationBar.prefersLargeTitles = true
 		
-		
-		
 		// GET PATH AND PARSE JSON
+
 		if let url = getPath() {
 			if let data = try? Data(contentsOf: url) {
 				parse(json: data)
+				tableView.reloadData()
 				return
 			} else {
 				showErrors("parse")
 			}
 		} else {
 			showErrors("path")
-		}
-		
-	}
-	
-	// GET PATH OF JSON
-	func getPath() -> URL? {
-		if let colorPath = Bundle.main.path(forResource: "colorList", ofType: "json") {
-			let url = URL(fileURLWithPath: colorPath)
-			
-			return url
-		} else {
-			return nil
-		}
-	}
-	
-	// HANDLE JSON
-	func parse(json: Data) {
-		let decoder = JSONDecoder()
-		if let jsoncolors = try? decoder.decode([PantoneColor].self, from: json) {
-			listedColors = jsoncolors
-			tableView.reloadData()
-		} else {
-			print("Parser's right fucked")
 		}
 	}
 	
@@ -71,7 +47,7 @@ class ViewController: UITableViewController {
 		let cell = tableView.dequeueReusableCell(withIdentifier: "color", for: indexPath)
 		let displayColor = listedColors[indexPath.row]
 		let backgroundColor = UIColor(hex: displayColor.value) // CALLS UIColor EXTENSION TO CONVERT CURRENT CELL'S HEX TO UIColor
-		cell.textLabel?.text = displayColor.name
+		cell.textLabel?.text = displayColor.name.capitalized
 		cell.detailTextLabel?.text = displayColor.value
 		cell.backgroundColor = backgroundColor
 		return cell
@@ -81,7 +57,7 @@ class ViewController: UITableViewController {
 		if let vc = storyboard?.instantiateViewController(withIdentifier: "colorDetail") as? ColorDetailView {
 			
 			vc.selectedColorHex = listedColors[indexPath.row].value
-			vc.selectedColorName = listedColors[indexPath.row].name
+			vc.selectedColorName = listedColors[indexPath.row].name.capitalized
 			
 			navigationController?.pushViewController(vc, animated: true)
 		}

@@ -1,0 +1,9242 @@
+[
+	{
+		"name": "egret",
+		"value": "#f3ece0ff"
+	},
+	{
+		"name": "snow white",
+		"value": "#f2f0ebff"
+	},
+	{
+		"name": "bright white",
+		"value": "#f4f5f0ff"
+	},
+	{
+		"name": "cloud dancer",
+		"value": "#f0eee9ff"
+	},
+	{
+		"name": "gardenia",
+		"value": "#f1e8dfff"
+	},
+	{
+		"name": "marshmallow",
+		"value": "#f0eee4ff"
+	},
+	{
+		"name": "blanc de blanc",
+		"value": "#e7e9e7ff"
+	},
+	{
+		"name": "pristine",
+		"value": "#f2e8daff"
+	},
+	{
+		"name": "whisper white",
+		"value": "#ede6dbff"
+	},
+	{
+		"name": "white asparagus",
+		"value": "#e1dbc8ff"
+	},
+	{
+		"name": "birch",
+		"value": "#ddd5c7ff"
+	},
+	{
+		"name": "turtledove",
+		"value": "#ded7c8ff"
+	},
+	{
+		"name": "bone white",
+		"value": "#d7d0c0ff"
+	},
+	{
+		"name": "silver birch",
+		"value": "#d2cfc4ff"
+	},
+	{
+		"name": "vanilla ice",
+		"value": "#f0eadaff"
+	},
+	{
+		"name": "papyrus",
+		"value": "#f5edd6ff"
+	},
+	{
+		"name": "antique white",
+		"value": "#ede3d2ff"
+	},
+	{
+		"name": "winter white",
+		"value": "#f5ecd2ff"
+	},
+	{
+		"name": "cloud cream",
+		"value": "#e6ddc5ff"
+	},
+	{
+		"name": "angora",
+		"value": "#dfd1bbff"
+	},
+	{
+		"name": "seedpearl",
+		"value": "#e6dac4ff"
+	},
+	{
+		"name": "vanilla custard",
+		"value": "#f3e0beff"
+	},
+	{
+		"name": "almond oil",
+		"value": "#f4efc1ff"
+	},
+	{
+		"name": "alabaster gleam",
+		"value": "#f0debdff"
+	},
+	{
+		"name": "vanilla",
+		"value": "#f4e1c1ff"
+	},
+	{
+		"name": "rutabaga",
+		"value": "#ecddbeff"
+	},
+	{
+		"name": "banana crepe",
+		"value": "#e7d3adff"
+	},
+	{
+		"name": "italian straw",
+		"value": "#e7d1a1ff"
+	},
+	{
+		"name": "whitecap gray",
+		"value": "#e0d5c6ff"
+	},
+	{
+		"name": "fog",
+		"value": "#d0c5b1ff"
+	},
+	{
+		"name": "white swan",
+		"value": "#e4d7c5ff"
+	},
+	{
+		"name": "sandshell",
+		"value": "#d8ccbbff"
+	},
+	{
+		"name": "tapioca",
+		"value": "#dccdbcff"
+	},
+	{
+		"name": "creme brulee",
+		"value": "#dbccb5ff"
+	},
+	{
+		"name": "parchment",
+		"value": "#dfd1beff"
+	},
+	{
+		"name": "sheer pink",
+		"value": "#f6e5dbff"
+	},
+	{
+		"name": "dew",
+		"value": "#eeded1ff"
+	},
+	{
+		"name": "powder puff",
+		"value": "#f3e0d6ff"
+	},
+	{
+		"name": "pearled ivory",
+		"value": "#f0dfccff"
+	},
+	{
+		"name": "white smoke",
+		"value": "#eddcc9ff"
+	},
+	{
+		"name": "ecru",
+		"value": "#f3dfcaff"
+	},
+	{
+		"name": "navajo",
+		"value": "#efdcc3ff"
+	},
+	{
+		"name": "almost mauve",
+		"value": "#e7dcd9ff"
+	},
+	{
+		"name": "delicacy",
+		"value": "#f5e3e2ff"
+	},
+	{
+		"name": "petal pink",
+		"value": "#f2e2e0ff"
+	},
+	{
+		"name": "bridal blush",
+		"value": "#eee2ddff"
+	},
+	{
+		"name": "cream pink",
+		"value": "#f6e4d9ff"
+	},
+	{
+		"name": "angel wing",
+		"value": "#f3dfd7ff"
+	},
+	{
+		"name": "pastel parchment",
+		"value": "#e5d9d3ff"
+	},
+	{
+		"name": "star white",
+		"value": "#efefe8ff"
+	},
+	{
+		"name": "lily white",
+		"value": "#e2e2daff"
+	},
+	{
+		"name": "vaporous gray",
+		"value": "#dfddd7ff"
+	},
+	{
+		"name": "summer shower",
+		"value": "#e5ebe3ff"
+	},
+	{
+		"name": "ice",
+		"value": "#e0e4d9ff"
+	},
+	{
+		"name": "frost",
+		"value": "#dde2d6ff"
+	},
+	{
+		"name": "icicle",
+		"value": "#dadcd0ff"
+	},
+	{
+		"name": "bit of blue",
+		"value": "#e2eaebff"
+	},
+	{
+		"name": "mystic blue",
+		"value": "#e1e3deff"
+	},
+	{
+		"name": "bluewash",
+		"value": "#e2e6e0ff"
+	},
+	{
+		"name": "spa blue",
+		"value": "#d3dedfff"
+	},
+	{
+		"name": "lightest sky",
+		"value": "#e4eadfff"
+	},
+	{
+		"name": "hint of mint",
+		"value": "#d8e8e6ff"
+	},
+	{
+		"name": "murmur",
+		"value": "#d2d8d2ff"
+	},
+	{
+		"name": "barely blue",
+		"value": "#dde0dfff"
+	},
+	{
+		"name": "blue blush",
+		"value": "#d6dbd9ff"
+	},
+	{
+		"name": "zephyr blue",
+		"value": "#d3d9d1ff"
+	},
+	{
+		"name": "blue flower",
+		"value": "#d0d9d4ff"
+	},
+	{
+		"name": "sprout green",
+		"value": "#cbd7d2ff"
+	},
+	{
+		"name": "billowing sail",
+		"value": "#d8e7e7ff"
+	},
+	{
+		"name": "hushed green",
+		"value": "#d8e9e5ff"
+	},
+	{
+		"name": "lambs wool",
+		"value": "#e5d0b1ff"
+	},
+	{
+		"name": "winter wheat",
+		"value": "#dfc09fff"
+	},
+	{
+		"name": "summer melon",
+		"value": "#ead3aeff"
+	},
+	{
+		"name": "chamomile",
+		"value": "#e8d0a7ff"
+	},
+	{
+		"name": "cornhusk",
+		"value": "#f2d6aeff"
+	},
+	{
+		"name": "apricot gelato",
+		"value": "#f5d7afff"
+	},
+	{
+		"name": "biscotti",
+		"value": "#dac7abff"
+	},
+	{
+		"name": "asparagus green",
+		"value": "#d2cdb4ff"
+	},
+	{
+		"name": "oyster white",
+		"value": "#d2caafff"
+	},
+	{
+		"name": "putty",
+		"value": "#d4cab0ff"
+	},
+	{
+		"name": "moth",
+		"value": "#d2cbafff"
+	},
+	{
+		"name": "wood ash",
+		"value": "#d7cab0ff"
+	},
+	{
+		"name": "gravel",
+		"value": "#cbbfa2ff"
+	},
+	{
+		"name": "pale khaki",
+		"value": "#bfaf92ff"
+	},
+	{
+		"name": "light gray",
+		"value": "#dad8c9ff"
+	},
+	{
+		"name": "silver green",
+		"value": "#d7d7c7ff"
+	},
+	{
+		"name": "pelican",
+		"value": "#c1bcacff"
+	},
+	{
+		"name": "overcast",
+		"value": "#c3bdabff"
+	},
+	{
+		"name": "tidal foam",
+		"value": "#bfb9a3ff"
+	},
+	{
+		"name": "agate gray",
+		"value": "#b1b09fff"
+	},
+	{
+		"name": "alfalfa",
+		"value": "#b7b59fff"
+	},
+	{
+		"name": "castle wall",
+		"value": "#c8c1abff"
+	},
+	{
+		"name": "oyster gray",
+		"value": "#cbc1aeff"
+	},
+	{
+		"name": "cement",
+		"value": "#c4b6a6ff"
+	},
+	{
+		"name": "spray green",
+		"value": "#aea692ff"
+	},
+	{
+		"name": "eucalyptus",
+		"value": "#b1a992ff"
+	},
+	{
+		"name": "twill",
+		"value": "#a79b82ff"
+	},
+	{
+		"name": "olive gray",
+		"value": "#a6997aff"
+	},
+	{
+		"name": "chinchilla",
+		"value": "#9c8e7bff"
+	},
+	{
+		"name": "seneca rock",
+		"value": "#9a927fff"
+	},
+	{
+		"name": "laurel oak",
+		"value": "#918c7eff"
+	},
+	{
+		"name": "coriander",
+		"value": "#938772ff"
+	},
+	{
+		"name": "dune",
+		"value": "#998978ff"
+	},
+	{
+		"name": "lead gray",
+		"value": "#8a7963ff"
+	},
+	{
+		"name": "covert green",
+		"value": "#80765fff"
+	},
+	{
+		"name": "oxford tan",
+		"value": "#b8a99aff"
+	},
+	{
+		"name": "plaza taupe",
+		"value": "#aea393ff"
+	},
+	{
+		"name": "tuffet",
+		"value": "#a59788ff"
+	},
+	{
+		"name": "silver mink",
+		"value": "#9f8d7cff"
+	},
+	{
+		"name": "timber wolf",
+		"value": "#8d8070ff"
+	},
+	{
+		"name": "taupe gray",
+		"value": "#8e7c71ff"
+	},
+	{
+		"name": "pine bark",
+		"value": "#827064ff"
+	},
+	{
+		"name": "pumice stone",
+		"value": "#cac2b9ff"
+	},
+	{
+		"name": "simply taupe",
+		"value": "#ad9f93ff"
+	},
+	{
+		"name": "aluminum",
+		"value": "#9f9586ff"
+	},
+	{
+		"name": "cobblestone",
+		"value": "#a89a8eff"
+	},
+	{
+		"name": "brindle",
+		"value": "#82776bff"
+	},
+	{
+		"name": "walnut",
+		"value": "#776a5fff"
+	},
+	{
+		"name": "bungee cord",
+		"value": "#696156ff"
+	},
+	{
+		"name": "oatmeal",
+		"value": "#cbc3b4ff"
+	},
+	{
+		"name": "moonbeam",
+		"value": "#cdc6bdff"
+	},
+	{
+		"name": "rainy day",
+		"value": "#cfc8bdff"
+	},
+	{
+		"name": "gray morn",
+		"value": "#cabeb5ff"
+	},
+	{
+		"name": "peyote",
+		"value": "#c5bbaeff"
+	},
+	{
+		"name": "feather gray",
+		"value": "#b8ad9eff"
+	},
+	{
+		"name": "goat",
+		"value": "#a89a91ff"
+	},
+	{
+		"name": "white sand",
+		"value": "#dbd5d1ff"
+	},
+	{
+		"name": "silver gray",
+		"value": "#c1b7b0ff"
+	},
+	{
+		"name": "chateau gray",
+		"value": "#bbb1a8ff"
+	},
+	{
+		"name": "string",
+		"value": "#aa9f96ff"
+	},
+	{
+		"name": "atmosphere",
+		"value": "#a89c94ff"
+	},
+	{
+		"name": "moon rock",
+		"value": "#958b84ff"
+	},
+	{
+		"name": "fungi",
+		"value": "#8f8177ff"
+	},
+	{
+		"name": "silver lining",
+		"value": "#bdb6abff"
+	},
+	{
+		"name": "moonstruck",
+		"value": "#c2beb6ff"
+	},
+	{
+		"name": "pussywillow gray",
+		"value": "#aeaca1ff"
+	},
+	{
+		"name": "london fog",
+		"value": "#a29e92ff"
+	},
+	{
+		"name": "rock ridge",
+		"value": "#918c86ff"
+	},
+	{
+		"name": "moon mist",
+		"value": "#80817dff"
+	},
+	{
+		"name": "castor gray",
+		"value": "#646762ff"
+	},
+	{
+		"name": "glacier gray",
+		"value": "#c5c6c7ff"
+	},
+	{
+		"name": "lunar rock",
+		"value": "#c5c5c5ff"
+	},
+	{
+		"name": "dawn blue",
+		"value": "#cacccbff"
+	},
+	{
+		"name": "gray violet",
+		"value": "#bbbcbcff"
+	},
+	{
+		"name": "vapor blue",
+		"value": "#bebdbdff"
+	},
+	{
+		"name": "high rise",
+		"value": "#aeb2b5ff"
+	},
+	{
+		"name": "limestone",
+		"value": "#989a98ff"
+	},
+	{
+		"name": "silver cloud",
+		"value": "#beb7b0ff"
+	},
+	{
+		"name": "dove",
+		"value": "#b3ada7ff"
+	},
+	{
+		"name": "flint gray",
+		"value": "#a09c98ff"
+	},
+	{
+		"name": "drizzle",
+		"value": "#a09f9cff"
+	},
+	{
+		"name": "elephant skin",
+		"value": "#8f8982ff"
+	},
+	{
+		"name": "cinder",
+		"value": "#8a7e78ff"
+	},
+	{
+		"name": "steeple gray",
+		"value": "#827e7cff"
+	},
+	{
+		"name": "metal",
+		"value": "#babfbcff"
+	},
+	{
+		"name": "blue fox",
+		"value": "#b9bcb6ff"
+	},
+	{
+		"name": "storm gray",
+		"value": "#b5bab6ff"
+	},
+	{
+		"name": "pigeon",
+		"value": "#a9afaaff"
+	},
+	{
+		"name": "mirage gray",
+		"value": "#abafaeff"
+	},
+	{
+		"name": "puritan gray",
+		"value": "#a8b0aeff"
+	},
+	{
+		"name": "wrought iron",
+		"value": "#999e98ff"
+	},
+	{
+		"name": "opal gray",
+		"value": "#a49e9eff"
+	},
+	{
+		"name": "wild dove",
+		"value": "#8b8c89ff"
+	},
+	{
+		"name": "neutral gray",
+		"value": "#8e918fff"
+	},
+	{
+		"name": "gargoyle",
+		"value": "#686767ff"
+	},
+	{
+		"name": "smoked pearl",
+		"value": "#656466ff"
+	},
+	{
+		"name": "sedona sage",
+		"value": "#686d6cff"
+	},
+	{
+		"name": "gunmetal",
+		"value": "#5c5d5bff"
+	},
+	{
+		"name": "wind chime",
+		"value": "#cac5c2ff"
+	},
+	{
+		"name": "paloma",
+		"value": "#9f9c99ff"
+	},
+	{
+		"name": "charcoal gray",
+		"value": "#6c6868ff"
+	},
+	{
+		"name": "steel gray",
+		"value": "#726f70ff"
+	},
+	{
+		"name": "pewter",
+		"value": "#666564ff"
+	},
+	{
+		"name": "castlerock",
+		"value": "#5f5e62ff"
+	},
+	{
+		"name": "nine iron",
+		"value": "#46434aff"
+	},
+	{
+		"name": "ash",
+		"value": "#a09998ff"
+	},
+	{
+		"name": "cloudburst",
+		"value": "#837f7fff"
+	},
+	{
+		"name": "frost gray",
+		"value": "#848283ff"
+	},
+	{
+		"name": "excalibur",
+		"value": "#676168ff"
+	},
+	{
+		"name": "dark gull gray",
+		"value": "#625d5dff"
+	},
+	{
+		"name": "rabbit",
+		"value": "#5f575cff"
+	},
+	{
+		"name": "shale",
+		"value": "#4a3f41ff"
+	},
+	{
+		"name": "fossil",
+		"value": "#806f63ff"
+	},
+	{
+		"name": "major brown",
+		"value": "#5b5149ff"
+	},
+	{
+		"name": "chocolate chip",
+		"value": "#685a4eff"
+	},
+	{
+		"name": "canteen",
+		"value": "#5e5347ff"
+	},
+	{
+		"name": "stone gray",
+		"value": "#685e4fff"
+	},
+	{
+		"name": "capers",
+		"value": "#695e4bff"
+	},
+	{
+		"name": "beech",
+		"value": "#5b4f3bff"
+	},
+	{
+		"name": "tarmac",
+		"value": "#5a5348ff"
+	},
+	{
+		"name": "wren",
+		"value": "#4a4139ff"
+	},
+	{
+		"name": "black olive",
+		"value": "#48413bff"
+	},
+	{
+		"name": "beluga",
+		"value": "#4a4843ff"
+	},
+	{
+		"name": "black ink",
+		"value": "#44413cff"
+	},
+	{
+		"name": "peat",
+		"value": "#3b3a36ff"
+	},
+	{
+		"name": "jet set",
+		"value": "#262c2aff"
+	},
+	{
+		"name": "iron",
+		"value": "#736460ff"
+	},
+	{
+		"name": "plum kitten",
+		"value": "#625b5cff"
+	},
+	{
+		"name": "turkish coffee",
+		"value": "#483f39ff"
+	},
+	{
+		"name": "black coffee",
+		"value": "#3b302fff"
+	},
+	{
+		"name": "after dark",
+		"value": "#3c3535ff"
+	},
+	{
+		"name": "licorice",
+		"value": "#3a3536ff"
+	},
+	{
+		"name": "raven",
+		"value": "#413e3dff"
+	},
+	{
+		"name": "jet black",
+		"value": "#2d2c2fff"
+	},
+	{
+		"name": "phantom",
+		"value": "#39373bff"
+	},
+	{
+		"name": "stretch limo",
+		"value": "#2b2c30ff"
+	},
+	{
+		"name": "moonless night",
+		"value": "#2f2d30ff"
+	},
+	{
+		"name": "caviar",
+		"value": "#292a2dff"
+	},
+	{
+		"name": "pirate black",
+		"value": "#363838ff"
+	},
+	{
+		"name": "anthracite",
+		"value": "#28282dff"
+	},
+	{
+		"name": "vanilla cream",
+		"value": "#f4d8c6ff"
+	},
+	{
+		"name": "dawn",
+		"value": "#ebd2b7ff"
+	},
+	{
+		"name": "gray sand",
+		"value": "#e5ccafff"
+	},
+	{
+		"name": "autumn blonde",
+		"value": "#eed0aeff"
+	},
+	{
+		"name": "apricot illusion",
+		"value": "#e2c4a6ff"
+	},
+	{
+		"name": "mellow buff",
+		"value": "#d8b998ff"
+	},
+	{
+		"name": "sheepskin",
+		"value": "#dab58fff"
+	},
+	{
+		"name": "almond buff",
+		"value": "#ccb390ff"
+	},
+	{
+		"name": "beige",
+		"value": "#d5ba98ff"
+	},
+	{
+		"name": "sand",
+		"value": "#cca67fff"
+	},
+	{
+		"name": "latte",
+		"value": "#c5a582ff"
+	},
+	{
+		"name": "tan",
+		"value": "#b69574ff"
+	},
+	{
+		"name": "doe",
+		"value": "#b98e68ff"
+	},
+	{
+		"name": "indian tan",
+		"value": "#ad8567ff"
+	},
+	{
+		"name": "safari",
+		"value": "#baaa91ff"
+	},
+	{
+		"name": "candied ginger",
+		"value": "#bfa387ff"
+	},
+	{
+		"name": "warm sand",
+		"value": "#c5ae91ff"
+	},
+	{
+		"name": "cuban sand",
+		"value": "#c1a68dff"
+	},
+	{
+		"name": "nougat",
+		"value": "#b69885ff"
+	},
+	{
+		"name": "natural",
+		"value": "#aa907dff"
+	},
+	{
+		"name": "nomad",
+		"value": "#b49f89ff"
+	},
+	{
+		"name": "frozen dew",
+		"value": "#d8cfb2ff"
+	},
+	{
+		"name": "bleached sand",
+		"value": "#daccb4ff"
+	},
+	{
+		"name": "pebble",
+		"value": "#cab698ff"
+	},
+	{
+		"name": "croissant",
+		"value": "#c4ab86ff"
+	},
+	{
+		"name": "incense",
+		"value": "#af9a7eff"
+	},
+	{
+		"name": "cornstalk",
+		"value": "#a9947aff"
+	},
+	{
+		"name": "tannin",
+		"value": "#a68a6dff"
+	},
+	{
+		"name": "green haze",
+		"value": "#cac4a4ff"
+	},
+	{
+		"name": "mojave desert",
+		"value": "#c7b595ff"
+	},
+	{
+		"name": "taos taupe",
+		"value": "#bfa77fff"
+	},
+	{
+		"name": "lark",
+		"value": "#b89b72ff"
+	},
+	{
+		"name": "kelp",
+		"value": "#988467ff"
+	},
+	{
+		"name": "antique bronze",
+		"value": "#907954ff"
+	},
+	{
+		"name": "dull gold",
+		"value": "#8a6f48ff"
+	},
+	{
+		"name": "brown sugar",
+		"value": "#a17249ff"
+	},
+	{
+		"name": "chipmunk",
+		"value": "#976f4cff"
+	},
+	{
+		"name": "tobacco brown",
+		"value": "#9a7352ff"
+	},
+	{
+		"name": "bison",
+		"value": "#6e4f3aff"
+	},
+	{
+		"name": "monks robe",
+		"value": "#704822ff"
+	},
+	{
+		"name": "dachshund",
+		"value": "#704f37ff"
+	},
+	{
+		"name": "toffee",
+		"value": "#755139ff"
+	},
+	{
+		"name": "aztec",
+		"value": "#7a5747ff"
+	},
+	{
+		"name": "cocoa brown",
+		"value": "#6c5043ff"
+	},
+	{
+		"name": "partridge",
+		"value": "#725440ff"
+	},
+	{
+		"name": "friar brown",
+		"value": "#6e493aff"
+	},
+	{
+		"name": "mustang",
+		"value": "#684b40ff"
+	},
+	{
+		"name": "pinecone",
+		"value": "#61473bff"
+	},
+	{
+		"name": "potting soil",
+		"value": "#54392dff"
+	},
+	{
+		"name": "ermine",
+		"value": "#836b4fff"
+	},
+	{
+		"name": "otter",
+		"value": "#7f674fff"
+	},
+	{
+		"name": "kangaroo",
+		"value": "#725e43ff"
+	},
+	{
+		"name": "sepia",
+		"value": "#6b543eff"
+	},
+	{
+		"name": "coffee liqueur",
+		"value": "#6a513bff"
+	},
+	{
+		"name": "desert palm",
+		"value": "#5a4632ff"
+	},
+	{
+		"name": "teak",
+		"value": "#655341ff"
+	},
+	{
+		"name": "shitake",
+		"value": "#736253ff"
+	},
+	{
+		"name": "cub",
+		"value": "#6e5c4bff"
+	},
+	{
+		"name": "carafe",
+		"value": "#5d473aff"
+	},
+	{
+		"name": "dark earth",
+		"value": "#5c4939ff"
+	},
+	{
+		"name": "slate black",
+		"value": "#4b3d33ff"
+	},
+	{
+		"name": "chocolate brown",
+		"value": "#4e403bff"
+	},
+	{
+		"name": "demitasse",
+		"value": "#40342bff"
+	},
+	{
+		"name": "deep taupe",
+		"value": "#7b6660ff"
+	},
+	{
+		"name": "shopping bag",
+		"value": "#5a4743ff"
+	},
+	{
+		"name": "chestnut",
+		"value": "#584039ff"
+	},
+	{
+		"name": "bracken",
+		"value": "#4f3f3bff"
+	},
+	{
+		"name": "seal brown",
+		"value": "#493b39ff"
+	},
+	{
+		"name": "java",
+		"value": "#433331ff"
+	},
+	{
+		"name": "coffee bean",
+		"value": "#40312fff"
+	},
+	{
+		"name": "mother of pearl",
+		"value": "#e9d4c3ff"
+	},
+	{
+		"name": "pastel rose tan",
+		"value": "#e9d1bfff"
+	},
+	{
+		"name": "novelle peach",
+		"value": "#e7cfbdff"
+	},
+	{
+		"name": "sun kiss",
+		"value": "#ebd1bbff"
+	},
+	{
+		"name": "ivory cream",
+		"value": "#dac0a7ff"
+	},
+	{
+		"name": "shifting sand",
+		"value": "#d8c0adff"
+	},
+	{
+		"name": "appleblossom",
+		"value": "#ddbca0ff"
+	},
+	{
+		"name": "eggnog",
+		"value": "#ece1d3ff"
+	},
+	{
+		"name": "cream tan",
+		"value": "#e4c7b8ff"
+	},
+	{
+		"name": "sand dollar",
+		"value": "#decdbeff"
+	},
+	{
+		"name": "smoke gray",
+		"value": "#cebaa8ff"
+	},
+	{
+		"name": "doeskin",
+		"value": "#bdab9bff"
+	},
+	{
+		"name": "sesame",
+		"value": "#baa38bff"
+	},
+	{
+		"name": "light taupe",
+		"value": "#b19d8dff"
+	},
+	{
+		"name": "warm taupe",
+		"value": "#af9483ff"
+	},
+	{
+		"name": "stucco",
+		"value": "#a58d7fff"
+	},
+	{
+		"name": "almondine",
+		"value": "#a78c8bff"
+	},
+	{
+		"name": "chanterelle",
+		"value": "#a28776ff"
+	},
+	{
+		"name": "ginger snap",
+		"value": "#977d70ff"
+	},
+	{
+		"name": "woodsmoke",
+		"value": "#947764ff"
+	},
+	{
+		"name": "amphora",
+		"value": "#9f8672ff"
+	},
+	{
+		"name": "moonlight",
+		"value": "#c5b1a0ff"
+	},
+	{
+		"name": "frappe",
+		"value": "#d1b7a0ff"
+	},
+	{
+		"name": "rugby tan",
+		"value": "#c2a594ff"
+	},
+	{
+		"name": "roebuck",
+		"value": "#b09080ff"
+	},
+	{
+		"name": "praline",
+		"value": "#ad8b75ff"
+	},
+	{
+		"name": "burro",
+		"value": "#947764ff"
+	},
+	{
+		"name": "beaver fur",
+		"value": "#997867ff"
+	},
+	{
+		"name": "toasted almond",
+		"value": "#d2b49cff"
+	},
+	{
+		"name": "tawny birch",
+		"value": "#ae856cff"
+	},
+	{
+		"name": "macaroon",
+		"value": "#b38b71ff"
+	},
+	{
+		"name": "tawny brown",
+		"value": "#ab856fff"
+	},
+	{
+		"name": "camel",
+		"value": "#b0846aff"
+	},
+	{
+		"name": "toast",
+		"value": "#ca9978ff"
+	},
+	{
+		"name": "toasted nut",
+		"value": "#c08768ff"
+	},
+	{
+		"name": "nude",
+		"value": "#f2d3bcff"
+	},
+	{
+		"name": "tender peach",
+		"value": "#f8d5b8ff"
+	},
+	{
+		"name": "alesan",
+		"value": "#f1ceb3ff"
+	},
+	{
+		"name": "pale peach",
+		"value": "#fed1bdff"
+	},
+	{
+		"name": "peach puree",
+		"value": "#efcfbaff"
+	},
+	{
+		"name": "bellini",
+		"value": "#f4c9b1ff"
+	},
+	{
+		"name": "amberlight",
+		"value": "#e2bea2ff"
+	},
+	{
+		"name": "peach dust",
+		"value": "#f0d8ccff"
+	},
+	{
+		"name": "linen",
+		"value": "#edd2c0ff"
+	},
+	{
+		"name": "scallop shell",
+		"value": "#fbd8c9ff"
+	},
+	{
+		"name": "soft pink",
+		"value": "#f2d8cdff"
+	},
+	{
+		"name": "pale dogwood",
+		"value": "#edcdc2ff"
+	},
+	{
+		"name": "silver peony",
+		"value": "#e7cfc7ff"
+	},
+	{
+		"name": "rose dust",
+		"value": "#cdb2a5ff"
+	},
+	{
+		"name": "shell",
+		"value": "#e1cfc6ff"
+	},
+	{
+		"name": "whisper pink",
+		"value": "#dacbbeff"
+	},
+	{
+		"name": "pink tint",
+		"value": "#dbcbbdff"
+	},
+	{
+		"name": "evening sand",
+		"value": "#ddb6abff"
+	},
+	{
+		"name": "sirocco",
+		"value": "#c39d88ff"
+	},
+	{
+		"name": "brush",
+		"value": "#b99984ff"
+	},
+	{
+		"name": "cafe au lait",
+		"value": "#ae8774ff"
+	},
+	{
+		"name": "cameo rose",
+		"value": "#d7b8abff"
+	},
+	{
+		"name": "pale blush",
+		"value": "#e4bfb3ff"
+	},
+	{
+		"name": "rose cloud",
+		"value": "#dbb0a2ff"
+	},
+	{
+		"name": "spanish villa",
+		"value": "#dfbaa9ff"
+	},
+	{
+		"name": "maple sugar",
+		"value": "#c9a38dff"
+	},
+	{
+		"name": "tuscany",
+		"value": "#be9785ff"
+	},
+	{
+		"name": "cork",
+		"value": "#ba8671ff"
+	},
+	{
+		"name": "bisque",
+		"value": "#edcab5ff"
+	},
+	{
+		"name": "almost apricot",
+		"value": "#e5b39bff"
+	},
+	{
+		"name": "pink sand",
+		"value": "#dfb19bff"
+	},
+	{
+		"name": "peach nougat",
+		"value": "#e6af91ff"
+	},
+	{
+		"name": "peach bloom",
+		"value": "#d99b7cff"
+	},
+	{
+		"name": "dusty coral",
+		"value": "#d29b83ff"
+	},
+	{
+		"name": "cafe creme",
+		"value": "#c79685ff"
+	},
+	{
+		"name": "sandstorm",
+		"value": "#bd8b69ff"
+	},
+	{
+		"name": "butterum",
+		"value": "#c68f65ff"
+	},
+	{
+		"name": "biscuit",
+		"value": "#b4835bff"
+	},
+	{
+		"name": "cashew",
+		"value": "#a47149ff"
+	},
+	{
+		"name": "almond",
+		"value": "#a7754dff"
+	},
+	{
+		"name": "lion",
+		"value": "#a0714fff"
+	},
+	{
+		"name": "thrush",
+		"value": "#936b4fff"
+	},
+	{
+		"name": "mocha mousse",
+		"value": "#a47864ff"
+	},
+	{
+		"name": "pecan brown",
+		"value": "#a36e51ff"
+	},
+	{
+		"name": "hazel",
+		"value": "#ae7250ff"
+	},
+	{
+		"name": "bran",
+		"value": "#a66e4aff"
+	},
+	{
+		"name": "adobe",
+		"value": "#a3623bff"
+	},
+	{
+		"name": "leather brown",
+		"value": "#97572bff"
+	},
+	{
+		"name": "glazed ginger",
+		"value": "#91552bff"
+	},
+	{
+		"name": "sandstone",
+		"value": "#c48a69ff"
+	},
+	{
+		"name": "caramel",
+		"value": "#c37c54ff"
+	},
+	{
+		"name": "amber brown",
+		"value": "#a66646ff"
+	},
+	{
+		"name": "sierra",
+		"value": "#985c41ff"
+	},
+	{
+		"name": "ginger bread",
+		"value": "#8c4a2fff"
+	},
+	{
+		"name": "mocha bisque",
+		"value": "#8c543aff"
+	},
+	{
+		"name": "tortoise shell",
+		"value": "#754734ff"
+	},
+	{
+		"name": "pheasant",
+		"value": "#c68463ff"
+	},
+	{
+		"name": "sunburn",
+		"value": "#b37256ff"
+	},
+	{
+		"name": "raw sienna",
+		"value": "#b9714fff"
+	},
+	{
+		"name": "autumn leaf",
+		"value": "#b56a4cff"
+	},
+	{
+		"name": "mecca orange",
+		"value": "#bd5745ff"
+	},
+	{
+		"name": "rust",
+		"value": "#b55a30ff"
+	},
+	{
+		"name": "bombay brown",
+		"value": "#9f5130ff"
+	},
+	{
+		"name": "frosted almond",
+		"value": "#d2c2acff"
+	},
+	{
+		"name": "gilded beige",
+		"value": "#b39f8dff"
+	},
+	{
+		"name": "pale gold",
+		"value": "#bd9865ff"
+	},
+	{
+		"name": "rich gold",
+		"value": "#c8b273ff"
+	},
+	{
+		"name": "copper",
+		"value": "#c47e5aff"
+	},
+	{
+		"name": "copper coin",
+		"value": "#ba6b57ff"
+	},
+	{
+		"name": "silver",
+		"value": "#a2a2a1ff"
+	},
+	{
+		"name": "raw umber",
+		"value": "#92705fff"
+	},
+	{
+		"name": "brownie",
+		"value": "#8f7265ff"
+	},
+	{
+		"name": "acorn",
+		"value": "#7e5e52ff"
+	},
+	{
+		"name": "clove",
+		"value": "#876155ff"
+	},
+	{
+		"name": "carob brown",
+		"value": "#855c4cff"
+	},
+	{
+		"name": "russet",
+		"value": "#8f5f50ff"
+	},
+	{
+		"name": "rawhide",
+		"value": "#865e49ff"
+	},
+	{
+		"name": "chutney",
+		"value": "#98594bff"
+	},
+	{
+		"name": "baked clay",
+		"value": "#9c5642ff"
+	},
+	{
+		"name": "copper brown",
+		"value": "#9a6051ff"
+	},
+	{
+		"name": "brown patina",
+		"value": "#834f3dff"
+	},
+	{
+		"name": "rustic brown",
+		"value": "#855141ff"
+	},
+	{
+		"name": "coconut shell",
+		"value": "#874e3cff"
+	},
+	{
+		"name": "sequoia",
+		"value": "#804839ff"
+	},
+	{
+		"name": "root beer",
+		"value": "#714a41ff"
+	},
+	{
+		"name": "brunette",
+		"value": "#664238ff"
+	},
+	{
+		"name": "sable",
+		"value": "#6e403cff"
+	},
+	{
+		"name": "cinnamon",
+		"value": "#6b4139ff"
+	},
+	{
+		"name": "fudgesickle",
+		"value": "#63403aff"
+	},
+	{
+		"name": "mink",
+		"value": "#734b42ff"
+	},
+	{
+		"name": "cappuccino",
+		"value": "#633f33ff"
+	},
+	{
+		"name": "cognac",
+		"value": "#8b645aff"
+	},
+	{
+		"name": "nutmeg",
+		"value": "#7e5c54ff"
+	},
+	{
+		"name": "french roast",
+		"value": "#58423fff"
+	},
+	{
+		"name": "deep mahogany",
+		"value": "#553b39ff"
+	},
+	{
+		"name": "rum raisin",
+		"value": "#583432ff"
+	},
+	{
+		"name": "brown stone",
+		"value": "#593c39ff"
+	},
+	{
+		"name": "bitter chocolate",
+		"value": "#503130ff"
+	},
+	{
+		"name": "mahogany",
+		"value": "#824d46ff"
+	},
+	{
+		"name": "henna",
+		"value": "#7c423cff"
+	},
+	{
+		"name": "arabian spice",
+		"value": "#884332ff"
+	},
+	{
+		"name": "hot chocolate",
+		"value": "#683b39ff"
+	},
+	{
+		"name": "russet brown",
+		"value": "#743332ff"
+	},
+	{
+		"name": "madder brown",
+		"value": "#6a3331ff"
+	},
+	{
+		"name": "andorra",
+		"value": "#603535ff"
+	},
+	{
+		"name": "afterglow",
+		"value": "#f3e6c9ff"
+	},
+	{
+		"name": "transparent yellow",
+		"value": "#f4ecc2ff"
+	},
+	{
+		"name": "double cream",
+		"value": "#f3e0acff"
+	},
+	{
+		"name": "sunlight",
+		"value": "#edd59eff"
+	},
+	{
+		"name": "straw",
+		"value": "#e0c992ff"
+	},
+	{
+		"name": "jojoba",
+		"value": "#dabe81ff"
+	},
+	{
+		"name": "rattan",
+		"value": "#d1b272ff"
+	},
+	{
+		"name": "boulder",
+		"value": "#d1be9bff"
+	},
+	{
+		"name": "sea mist",
+		"value": "#d8c9a3ff"
+	},
+	{
+		"name": "reed yellow",
+		"value": "#dcc99eff"
+	},
+	{
+		"name": "chino green",
+		"value": "#d9caa5ff"
+	},
+	{
+		"name": "parsnip",
+		"value": "#d6c69aff"
+	},
+	{
+		"name": "dusty yellow",
+		"value": "#d4cc9aff"
+	},
+	{
+		"name": "silver fern",
+		"value": "#bbaa7eff"
+	},
+	{
+		"name": "lemon grass",
+		"value": "#dcd494ff"
+	},
+	{
+		"name": "raffia",
+		"value": "#dac483ff"
+	},
+	{
+		"name": "golden mist",
+		"value": "#d5cd94ff"
+	},
+	{
+		"name": "pampas",
+		"value": "#cfbb7bff"
+	},
+	{
+		"name": "bamboo",
+		"value": "#d2b04cff"
+	},
+	{
+		"name": "cress green",
+		"value": "#bca949ff"
+	},
+	{
+		"name": "olive oil",
+		"value": "#a98b2dff"
+	},
+	{
+		"name": "dried moss",
+		"value": "#ccb97eff"
+	},
+	{
+		"name": "celery",
+		"value": "#cec153ff"
+	},
+	{
+		"name": "acacia",
+		"value": "#dacd65ff"
+	},
+	{
+		"name": "sulphur",
+		"value": "#ddb614ff"
+	},
+	{
+		"name": "oil yellow",
+		"value": "#c4a647ff"
+	},
+	{
+		"name": "green sulphur",
+		"value": "#ae8e2cff"
+	},
+	{
+		"name": "golden palm",
+		"value": "#aa8805ff"
+	},
+	{
+		"name": "cocoon",
+		"value": "#c9b27cff"
+	},
+	{
+		"name": "hemp",
+		"value": "#c0ad7cff"
+	},
+	{
+		"name": "southern moss",
+		"value": "#bca66aff"
+	},
+	{
+		"name": "olivenite",
+		"value": "#c1a65cff"
+	},
+	{
+		"name": "golden green",
+		"value": "#bdb369ff"
+	},
+	{
+		"name": "antique gold",
+		"value": "#b59e5fff"
+	},
+	{
+		"name": "burnished gold",
+		"value": "#aa9855ff"
+	},
+	{
+		"name": "french vanilla",
+		"value": "#efe1a7ff"
+	},
+	{
+		"name": "pastel yellow",
+		"value": "#f2e6b1ff"
+	},
+	{
+		"name": "tender yellow",
+		"value": "#ededb7ff"
+	},
+	{
+		"name": "wax yellow",
+		"value": "#ede9adff"
+	},
+	{
+		"name": "lemonade",
+		"value": "#f0e79dff"
+	},
+	{
+		"name": "elfin yellow",
+		"value": "#eeea97ff"
+	},
+	{
+		"name": "limelight",
+		"value": "#f0e87dff"
+	},
+	{
+		"name": "dusky citron",
+		"value": "#e3cc81ff"
+	},
+	{
+		"name": "muted lime",
+		"value": "#d1c87cff"
+	},
+	{
+		"name": "endive",
+		"value": "#d2cc81ff"
+	},
+	{
+		"name": "custard",
+		"value": "#e5d68eff"
+	},
+	{
+		"name": "canary yellow",
+		"value": "#dfd87eff"
+	},
+	{
+		"name": "yellow cream",
+		"value": "#efdc75ff"
+	},
+	{
+		"name": "cream gold",
+		"value": "#dec05fff"
+	},
+	{
+		"name": "aurora",
+		"value": "#eddd59ff"
+	},
+	{
+		"name": "green sheen",
+		"value": "#d9ce52ff"
+	},
+	{
+		"name": "maize",
+		"value": "#eec843ff"
+	},
+	{
+		"name": "blazing yellow",
+		"value": "#fee715ff"
+	},
+	{
+		"name": "buttercup",
+		"value": "#fae03cff"
+	},
+	{
+		"name": "empire yellow",
+		"value": "#f7d000ff"
+	},
+	{
+		"name": "lemon",
+		"value": "#f3bf08ff"
+	},
+	{
+		"name": "mimosa",
+		"value": "#f0c05aff"
+	},
+	{
+		"name": "aspen gold",
+		"value": "#ffd662ff"
+	},
+	{
+		"name": "dandelion",
+		"value": "#ffd02eff"
+	},
+	{
+		"name": "vibrant yellow",
+		"value": "#ffda29ff"
+	},
+	{
+		"name": "cyber yellow",
+		"value": "#ffd400ff"
+	},
+	{
+		"name": "freesia",
+		"value": "#f3c12cff"
+	},
+	{
+		"name": "lemon chrome",
+		"value": "#ffc300ff"
+	},
+	{
+		"name": "mellow yellow",
+		"value": "#f0dd9dff"
+	},
+	{
+		"name": "pale banana",
+		"value": "#fae199ff"
+	},
+	{
+		"name": "popcorn",
+		"value": "#f8de8dff"
+	},
+	{
+		"name": "sunshine",
+		"value": "#fade85ff"
+	},
+	{
+		"name": "lemon drop",
+		"value": "#fdd878ff"
+	},
+	{
+		"name": "primrose yellow",
+		"value": "#f6d155ff"
+	},
+	{
+		"name": "super lemon",
+		"value": "#e4bf45ff"
+	},
+	{
+		"name": "misted yellow",
+		"value": "#dab965ff"
+	},
+	{
+		"name": "sauterne",
+		"value": "#c5a253ff"
+	},
+	{
+		"name": "honey",
+		"value": "#ba9238ff"
+	},
+	{
+		"name": "arrowwood",
+		"value": "#bc8d1fff"
+	},
+	{
+		"name": "tawny olive",
+		"value": "#c4962cff"
+	},
+	{
+		"name": "ceylon yellow",
+		"value": "#d4ae40ff"
+	},
+	{
+		"name": "lemon curry",
+		"value": "#cda323ff"
+	},
+	{
+		"name": "fall leaf",
+		"value": "#c9a86aff"
+	},
+	{
+		"name": "antelope",
+		"value": "#b19664ff"
+	},
+	{
+		"name": "mustard gold",
+		"value": "#b08e51ff"
+	},
+	{
+		"name": "harvest gold",
+		"value": "#b68a3aff"
+	},
+	{
+		"name": "nugget gold",
+		"value": "#c89720ff"
+	},
+	{
+		"name": "golden spice",
+		"value": "#c6973fff"
+	},
+	{
+		"name": "golden yellow",
+		"value": "#cb8e16ff"
+	},
+	{
+		"name": "ochre",
+		"value": "#d6af66ff"
+	},
+	{
+		"name": "tinsel",
+		"value": "#c3964dff"
+	},
+	{
+		"name": "bright gold",
+		"value": "#cf9f52ff"
+	},
+	{
+		"name": "honey gold",
+		"value": "#d1a054ff"
+	},
+	{
+		"name": "amber gold",
+		"value": "#c19552ff"
+	},
+	{
+		"name": "mineral yellow",
+		"value": "#d39c43ff"
+	},
+	{
+		"name": "narcissus",
+		"value": "#c39449ff"
+	},
+	{
+		"name": "marzipan",
+		"value": "#d8c09dff"
+	},
+	{
+		"name": "curry",
+		"value": "#be9e6fff"
+	},
+	{
+		"name": "prairie sand",
+		"value": "#b59a6aff"
+	},
+	{
+		"name": "honey mustard",
+		"value": "#b68f52ff"
+	},
+	{
+		"name": "wood thrush",
+		"value": "#a47d43ff"
+	},
+	{
+		"name": "golden brown",
+		"value": "#91672fff"
+	},
+	{
+		"name": "bronze brown",
+		"value": "#825e2fff"
+	},
+	{
+		"name": "apple cinnamon",
+		"value": "#b0885aff"
+	},
+	{
+		"name": "bone brown",
+		"value": "#9d7446ff"
+	},
+	{
+		"name": "dijon",
+		"value": "#97754cff"
+	},
+	{
+		"name": "bistre",
+		"value": "#98754aff"
+	},
+	{
+		"name": "medal bronze",
+		"value": "#977547ff"
+	},
+	{
+		"name": "cumin",
+		"value": "#927240ff"
+	},
+	{
+		"name": "breen",
+		"value": "#795d34ff"
+	},
+	{
+		"name": "snapdragon",
+		"value": "#fed777ff"
+	},
+	{
+		"name": "banana cream",
+		"value": "#ffcf73ff"
+	},
+	{
+		"name": "daffodil",
+		"value": "#fdc04eff"
+	},
+	{
+		"name": "yolk yellow",
+		"value": "#e2b051ff"
+	},
+	{
+		"name": "golden rod",
+		"value": "#e2a829ff"
+	},
+	{
+		"name": "old gold",
+		"value": "#eca825ff"
+	},
+	{
+		"name": "spectra yellow",
+		"value": "#f7b718ff"
+	},
+	{
+		"name": "golden haze",
+		"value": "#fbd897ff"
+	},
+	{
+		"name": "sahara sun",
+		"value": "#dfc08aff"
+	},
+	{
+		"name": "new wheat",
+		"value": "#d7b57fff"
+	},
+	{
+		"name": "cornsilk",
+		"value": "#edc373ff"
+	},
+	{
+		"name": "buff yellow",
+		"value": "#f1bf70ff"
+	},
+	{
+		"name": "sunset gold",
+		"value": "#f7c46cff"
+	},
+	{
+		"name": "golden cream",
+		"value": "#f7b768ff"
+	},
+	{
+		"name": "impala",
+		"value": "#f8ce97ff"
+	},
+	{
+		"name": "flax",
+		"value": "#ffc87dff"
+	},
+	{
+		"name": "pale marigold",
+		"value": "#ffc66eff"
+	},
+	{
+		"name": "amber yellow",
+		"value": "#fab75aff"
+	},
+	{
+		"name": "amber",
+		"value": "#efad55ff"
+	},
+	{
+		"name": "golden apricot",
+		"value": "#dda758ff"
+	},
+	{
+		"name": "beeswax",
+		"value": "#eba851ff"
+	},
+	{
+		"name": "banana",
+		"value": "#fcb953ff"
+	},
+	{
+		"name": "citrus",
+		"value": "#f9ac2fff"
+	},
+	{
+		"name": "golden glow",
+		"value": "#d99938ff"
+	},
+	{
+		"name": "artisans gold",
+		"value": "#f2ab46ff"
+	},
+	{
+		"name": "sunflower",
+		"value": "#d39237ff"
+	},
+	{
+		"name": "buckthorn brown",
+		"value": "#a76f1fff"
+	},
+	{
+		"name": "cathay spice",
+		"value": "#99642cff"
+	},
+	{
+		"name": "taffy",
+		"value": "#c39b6aff"
+	},
+	{
+		"name": "oak buff",
+		"value": "#cf9c63ff"
+	},
+	{
+		"name": "honey yellow",
+		"value": "#ca9456ff"
+	},
+	{
+		"name": "spruce yellow",
+		"value": "#be8a4aff"
+	},
+	{
+		"name": "inca gold",
+		"value": "#bb7a2cff"
+	},
+	{
+		"name": "sudan brown",
+		"value": "#ac6b29ff"
+	},
+	{
+		"name": "rubber",
+		"value": "#815b37ff"
+	},
+	{
+		"name": "wheat",
+		"value": "#dec5a5ff"
+	},
+	{
+		"name": "honey peach",
+		"value": "#dcbd9eff"
+	},
+	{
+		"name": "desert dust",
+		"value": "#e3bc8eff"
+	},
+	{
+		"name": "golden straw",
+		"value": "#e6bd8fff"
+	},
+	{
+		"name": "buff",
+		"value": "#ebc396ff"
+	},
+	{
+		"name": "desert mist",
+		"value": "#e0b589ff"
+	},
+	{
+		"name": "clay",
+		"value": "#d2a172ff"
+	},
+	{
+		"name": "golden fleece",
+		"value": "#f2d1a0ff"
+	},
+	{
+		"name": "apricot sherbet",
+		"value": "#facd9eff"
+	},
+	{
+		"name": "sunburst",
+		"value": "#f6c289ff"
+	},
+	{
+		"name": "apricot cream",
+		"value": "#f1bd89ff"
+	},
+	{
+		"name": "buff orange",
+		"value": "#ffbb7cff"
+	},
+	{
+		"name": "chamois",
+		"value": "#f7b26aff"
+	},
+	{
+		"name": "warm apricot",
+		"value": "#ffb865ff"
+	},
+	{
+		"name": "marigold",
+		"value": "#fadc53ff"
+	},
+	{
+		"name": "golden nugget",
+		"value": "#db9b59ff"
+	},
+	{
+		"name": "butterscotch",
+		"value": "#e19640ff"
+	},
+	{
+		"name": "nugget",
+		"value": "#cf8848ff"
+	},
+	{
+		"name": "buckskin",
+		"value": "#d18e54ff"
+	},
+	{
+		"name": "yam",
+		"value": "#d0893fff"
+	},
+	{
+		"name": "golden oak",
+		"value": "#be752dff"
+	},
+	{
+		"name": "gold fusion",
+		"value": "#ffb000ff"
+	},
+	{
+		"name": "saffron",
+		"value": "#ffa500ff"
+	},
+	{
+		"name": "cadmium yellow",
+		"value": "#ee9626ff"
+	},
+	{
+		"name": "zinnia",
+		"value": "#ffa010ff"
+	},
+	{
+		"name": "radiant yellow",
+		"value": "#fc9e21ff"
+	},
+	{
+		"name": "apricot",
+		"value": "#f19035ff"
+	},
+	{
+		"name": "dark cheddar",
+		"value": "#e08119ff"
+	},
+	{
+		"name": "apricot ice",
+		"value": "#fbbe99ff"
+	},
+	{
+		"name": "apricot nectar",
+		"value": "#ecaa79ff"
+	},
+	{
+		"name": "gold earth",
+		"value": "#dd9c6bff"
+	},
+	{
+		"name": "apricot tan",
+		"value": "#dd9760ff"
+	},
+	{
+		"name": "topaz",
+		"value": "#d08344ff"
+	},
+	{
+		"name": "golden ochre",
+		"value": "#c77943ff"
+	},
+	{
+		"name": "apricot buff",
+		"value": "#cd7e4dff"
+	},
+	{
+		"name": "peach cobbler",
+		"value": "#ffb181ff"
+	},
+	{
+		"name": "salmon buff",
+		"value": "#feaa7bff"
+	},
+	{
+		"name": "pumpkin",
+		"value": "#f5a26fff"
+	},
+	{
+		"name": "mock orange",
+		"value": "#ffa368ff"
+	},
+	{
+		"name": "muskmelon",
+		"value": "#ec935eff"
+	},
+	{
+		"name": "copper tan",
+		"value": "#de8e65ff"
+	},
+	{
+		"name": "coral gold",
+		"value": "#d27d56ff"
+	},
+	{
+		"name": "russet orange",
+		"value": "#e47127ff"
+	},
+	{
+		"name": "orange ochre",
+		"value": "#dc793aff"
+	},
+	{
+		"name": "amberglow",
+		"value": "#dc793eff"
+	},
+	{
+		"name": "jaffa orange",
+		"value": "#d86d39ff"
+	},
+	{
+		"name": "apricot orange",
+		"value": "#c86b3cff"
+	},
+	{
+		"name": "burnt orange",
+		"value": "#c86733ff"
+	},
+	{
+		"name": "harvest pumpkin",
+		"value": "#d56231ff"
+	},
+	{
+		"name": "blazing orange",
+		"value": "#ffa64fff"
+	},
+	{
+		"name": "flame orange",
+		"value": "#fb8b23ff"
+	},
+	{
+		"name": "bright marigold",
+		"value": "#ff8d00ff"
+	},
+	{
+		"name": "autumn glory",
+		"value": "#ff8812ff"
+	},
+	{
+		"name": "sun orange",
+		"value": "#f48037ff"
+	},
+	{
+		"name": "persimmon orange",
+		"value": "#f47327ff"
+	},
+	{
+		"name": "orange popsicle",
+		"value": "#ff7913ff"
+	},
+	{
+		"name": "autumn sunset",
+		"value": "#f38554ff"
+	},
+	{
+		"name": "tangerine",
+		"value": "#f88f58ff"
+	},
+	{
+		"name": "bird of paradise",
+		"value": "#ff8c55ff"
+	},
+	{
+		"name": "orange peel",
+		"value": "#fa7a35ff"
+	},
+	{
+		"name": "mandarin orange",
+		"value": "#ec6a37ff"
+	},
+	{
+		"name": "golden poppy",
+		"value": "#f56733ff"
+	},
+	{
+		"name": "vibrant orange",
+		"value": "#ff7420ff"
+	},
+	{
+		"name": "nectarine",
+		"value": "#ff8656ff"
+	},
+	{
+		"name": "coral rose",
+		"value": "#f3774dff"
+	},
+	{
+		"name": "carrot",
+		"value": "#fd6f3bff"
+	},
+	{
+		"name": "firecracker",
+		"value": "#f36944ff"
+	},
+	{
+		"name": "red orange",
+		"value": "#f05627ff"
+	},
+	{
+		"name": "vermillion orange",
+		"value": "#f9633bff"
+	},
+	{
+		"name": "flame",
+		"value": "#f2552cff"
+	},
+	{
+		"name": "creampuff",
+		"value": "#ffcda8ff"
+	},
+	{
+		"name": "bleached apricot",
+		"value": "#fccaacff"
+	},
+	{
+		"name": "almond cream",
+		"value": "#f4c29fff"
+	},
+	{
+		"name": "beach sand",
+		"value": "#fbb995ff"
+	},
+	{
+		"name": "cream blush",
+		"value": "#f8c19aff"
+	},
+	{
+		"name": "caramel cream",
+		"value": "#f4ba94ff"
+	},
+	{
+		"name": "peach fuzz",
+		"value": "#ffbe98ff"
+	},
+	{
+		"name": "prairie sunset",
+		"value": "#ffbb9eff"
+	},
+	{
+		"name": "coral sands",
+		"value": "#edaa86ff"
+	},
+	{
+		"name": "apricot wash",
+		"value": "#fbac82ff"
+	},
+	{
+		"name": "canyon sunset",
+		"value": "#e1927aff"
+	},
+	{
+		"name": "brandied melon",
+		"value": "#ce7b5bff"
+	},
+	{
+		"name": "carnelian",
+		"value": "#ce785dff"
+	},
+	{
+		"name": "mango",
+		"value": "#b75e41ff"
+	},
+	{
+		"name": "peach",
+		"value": "#f2a987ff"
+	},
+	{
+		"name": "cantaloupe",
+		"value": "#ffa177ff"
+	},
+	{
+		"name": "coral reef",
+		"value": "#faa181ff"
+	},
+	{
+		"name": "shell coral",
+		"value": "#ea9575ff"
+	},
+	{
+		"name": "cadmium orange",
+		"value": "#f99471ff"
+	},
+	{
+		"name": "melon",
+		"value": "#fe8863ff"
+	},
+	{
+		"name": "dusty orange",
+		"value": "#e27a53ff"
+	},
+	{
+		"name": "arabesque",
+		"value": "#d16f52ff"
+	},
+	{
+		"name": "langoustino",
+		"value": "#ca6c56ff"
+	},
+	{
+		"name": "ginger",
+		"value": "#c96551ff"
+	},
+	{
+		"name": "flamingo",
+		"value": "#df7253ff"
+	},
+	{
+		"name": "orange rust",
+		"value": "#c25a3cff"
+	},
+	{
+		"name": "burnt ochre",
+		"value": "#bb4f35ff"
+	},
+	{
+		"name": "chili",
+		"value": "#be5141ff"
+	},
+	{
+		"name": "ginger spice",
+		"value": "#b65d48ff"
+	},
+	{
+		"name": "autumn glaze",
+		"value": "#b3573fff"
+	},
+	{
+		"name": "auburn",
+		"value": "#a15843ff"
+	},
+	{
+		"name": "picante",
+		"value": "#8d3f2dff"
+	},
+	{
+		"name": "tandori spice",
+		"value": "#9f4440ff"
+	},
+	{
+		"name": "cinnabar",
+		"value": "#9c453bff"
+	},
+	{
+		"name": "bossa nova",
+		"value": "#973a36ff"
+	},
+	{
+		"name": "tropical peach",
+		"value": "#ffc4b2ff"
+	},
+	{
+		"name": "peach parfait",
+		"value": "#f8bfa8ff"
+	},
+	{
+		"name": "coral pink",
+		"value": "#e8a798ff"
+	},
+	{
+		"name": "dusty pink",
+		"value": "#deaa9bff"
+	},
+	{
+		"name": "muted clay",
+		"value": "#d29380ff"
+	},
+	{
+		"name": "shrimp",
+		"value": "#e29a86ff"
+	},
+	{
+		"name": "tawny orange",
+		"value": "#d37f6fff"
+	},
+	{
+		"name": "coral haze",
+		"value": "#e38e84ff"
+	},
+	{
+		"name": "canyon clay",
+		"value": "#ce8477ff"
+	},
+	{
+		"name": "terra cotta",
+		"value": "#d38377ff"
+	},
+	{
+		"name": "desert sand",
+		"value": "#bd7b74ff"
+	},
+	{
+		"name": "light mahogany",
+		"value": "#ad6d68ff"
+	},
+	{
+		"name": "cedar wood",
+		"value": "#a1655bff"
+	},
+	{
+		"name": "withered rose",
+		"value": "#a26666ff"
+	},
+	{
+		"name": "rose dawn",
+		"value": "#c2877bff"
+	},
+	{
+		"name": "ash rose",
+		"value": "#b5817dff"
+	},
+	{
+		"name": "old rose",
+		"value": "#b47b77ff"
+	},
+	{
+		"name": "brick dust",
+		"value": "#b07069ff"
+	},
+	{
+		"name": "canyon rose",
+		"value": "#af6c67ff"
+	},
+	{
+		"name": "dusty cedar",
+		"value": "#ad5d5dff"
+	},
+	{
+		"name": "marsala",
+		"value": "#964f4cff"
+	},
+	{
+		"name": "apricot brandy",
+		"value": "#c26a5aff"
+	},
+	{
+		"name": "aragon",
+		"value": "#b06455ff"
+	},
+	{
+		"name": "hot sauce",
+		"value": "#ab4f41ff"
+	},
+	{
+		"name": "bruschetta",
+		"value": "#a75949ff"
+	},
+	{
+		"name": "etruscan red",
+		"value": "#a2574bff"
+	},
+	{
+		"name": "redwood",
+		"value": "#a6594cff"
+	},
+	{
+		"name": "burnt brick",
+		"value": "#a14d3aff"
+	},
+	{
+		"name": "faded rose",
+		"value": "#bf6464ff"
+	},
+	{
+		"name": "baked apple",
+		"value": "#b34646ff"
+	},
+	{
+		"name": "pompeian red",
+		"value": "#a4292eff"
+	},
+	{
+		"name": "ketchup",
+		"value": "#9a382dff"
+	},
+	{
+		"name": "red ochre",
+		"value": "#913832ff"
+	},
+	{
+		"name": "barn red",
+		"value": "#8f423bff"
+	},
+	{
+		"name": "burnt henna",
+		"value": "#7e392fff"
+	},
+	{
+		"name": "peach pearl",
+		"value": "#ffb2a5ff"
+	},
+	{
+		"name": "peach melba",
+		"value": "#fbbdafff"
+	},
+	{
+		"name": "apricot blush",
+		"value": "#feaea5ff"
+	},
+	{
+		"name": "peach bud",
+		"value": "#fdb2abff"
+	},
+	{
+		"name": "coral almond",
+		"value": "#e29d94ff"
+	},
+	{
+		"name": "lobster bisque",
+		"value": "#dd9289ff"
+	},
+	{
+		"name": "lantana",
+		"value": "#da7e7aff"
+	},
+	{
+		"name": "peach nectar",
+		"value": "#ffb59bff"
+	},
+	{
+		"name": "salmon",
+		"value": "#faaa94ff"
+	},
+	{
+		"name": "peach amber",
+		"value": "#fb9f93ff"
+	},
+	{
+		"name": "desert flower",
+		"value": "#ff9687ff"
+	},
+	{
+		"name": "peach pink",
+		"value": "#fa9a85ff"
+	},
+	{
+		"name": "burnt coral",
+		"value": "#e9897eff"
+	},
+	{
+		"name": "crabapple",
+		"value": "#d77e70ff"
+	},
+	{
+		"name": "papaya punch",
+		"value": "#fca289ff"
+	},
+	{
+		"name": "fusion coral",
+		"value": "#ff8576ff"
+	},
+	{
+		"name": "fresh salmon",
+		"value": "#ff7f6aff"
+	},
+	{
+		"name": "persimmon",
+		"value": "#f67866ff"
+	},
+	{
+		"name": "coral",
+		"value": "#ed7464ff"
+	},
+	{
+		"name": "living coral",
+		"value": "#ff6f61ff"
+	},
+	{
+		"name": "hot coral",
+		"value": "#f35b53ff"
+	},
+	{
+		"name": "shell pink",
+		"value": "#f88180ff"
+	},
+	{
+		"name": "georgia peach",
+		"value": "#f97272ff"
+	},
+	{
+		"name": "sugar coral",
+		"value": "#f56c73ff"
+	},
+	{
+		"name": "dubarry",
+		"value": "#f25f66ff"
+	},
+	{
+		"name": "porcelain rose",
+		"value": "#ea6b6aff"
+	},
+	{
+		"name": "spiced coral",
+		"value": "#d75c5dff"
+	},
+	{
+		"name": "deep sea coral",
+		"value": "#d9615bff"
+	},
+	{
+		"name": "rose of sharon",
+		"value": "#dc5b62ff"
+	},
+	{
+		"name": "cayenne",
+		"value": "#e04951ff"
+	},
+	{
+		"name": "hibiscus",
+		"value": "#dd3848ff"
+	},
+	{
+		"name": "poinsettia",
+		"value": "#cb3441ff"
+	},
+	{
+		"name": "chrysanthemum",
+		"value": "#be454fff"
+	},
+	{
+		"name": "cranberry",
+		"value": "#bb4a4dff"
+	},
+	{
+		"name": "cardinal",
+		"value": "#ad3e48ff"
+	},
+	{
+		"name": "tigerlily",
+		"value": "#e2583eff"
+	},
+	{
+		"name": "grenadine",
+		"value": "#df3f32ff"
+	},
+	{
+		"name": "mandarin red",
+		"value": "#e74a33ff"
+	},
+	{
+		"name": "fiesta",
+		"value": "#dd4132ff"
+	},
+	{
+		"name": "cherry tomato",
+		"value": "#eb3c27ff"
+	},
+	{
+		"name": "orange com",
+		"value": "#da321cff"
+	},
+	{
+		"name": "spicy orange",
+		"value": "#d73c26ff"
+	},
+	{
+		"name": "camellia",
+		"value": "#f6745fff"
+	},
+	{
+		"name": "nasturtium",
+		"value": "#fe6347ff"
+	},
+	{
+		"name": "emberglow",
+		"value": "#ea6759ff"
+	},
+	{
+		"name": "burnt sienna",
+		"value": "#c65d52ff"
+	},
+	{
+		"name": "paprika",
+		"value": "#ce4d42ff"
+	},
+	{
+		"name": "red clay",
+		"value": "#c2452dff"
+	},
+	{
+		"name": "molten lava",
+		"value": "#b5332eff"
+	},
+	{
+		"name": "bittersweet",
+		"value": "#d93744ff"
+	},
+	{
+		"name": "poppy red",
+		"value": "#dc343bff"
+	},
+	{
+		"name": "tomato",
+		"value": "#ce2939ff"
+	},
+	{
+		"name": "fiery red",
+		"value": "#d01c1fff"
+	},
+	{
+		"name": "flame scarlet",
+		"value": "#cd212aff"
+	},
+	{
+		"name": "high risk red",
+		"value": "#c71f2dff"
+	},
+	{
+		"name": "aurora red",
+		"value": "#b93a32ff"
+	},
+	{
+		"name": "rococco red",
+		"value": "#bb363fff"
+	},
+	{
+		"name": "tomato puree",
+		"value": "#c53346ff"
+	},
+	{
+		"name": "lollipop",
+		"value": "#cc1c3bff"
+	},
+	{
+		"name": "ski patrol",
+		"value": "#bb1237ff"
+	},
+	{
+		"name": "scarlet",
+		"value": "#bc2b3dff"
+	},
+	{
+		"name": "lipstick red",
+		"value": "#b31a38ff"
+	},
+	{
+		"name": "crimson",
+		"value": "#ae0e36ff"
+	},
+	{
+		"name": "racing red",
+		"value": "#bd162cff"
+	},
+	{
+		"name": "mars red",
+		"value": "#bc2731ff"
+	},
+	{
+		"name": "tango red",
+		"value": "#ac0e2eff"
+	},
+	{
+		"name": "chinese red",
+		"value": "#be132dff"
+	},
+	{
+		"name": "ribbon red",
+		"value": "#b92636ff"
+	},
+	{
+		"name": "true red",
+		"value": "#bf1932ff"
+	},
+	{
+		"name": "chili pepper",
+		"value": "#9b1b30ff"
+	},
+	{
+		"name": "quartz pink",
+		"value": "#efa6aaff"
+	},
+	{
+		"name": "pink icing",
+		"value": "#eea0a6ff"
+	},
+	{
+		"name": "blossom",
+		"value": "#f2b2aeff"
+	},
+	{
+		"name": "peaches n cream",
+		"value": "#f4a6a3ff"
+	},
+	{
+		"name": "candlelight peach",
+		"value": "#f8a39dff"
+	},
+	{
+		"name": "strawberry ice",
+		"value": "#e78b90ff"
+	},
+	{
+		"name": "peach blossom",
+		"value": "#de8286ff"
+	},
+	{
+		"name": "flamingo pink",
+		"value": "#f7969eff"
+	},
+	{
+		"name": "confetti",
+		"value": "#e6798eff"
+	},
+	{
+		"name": "bubblegum",
+		"value": "#ea738dff"
+	},
+	{
+		"name": "pink lemonade",
+		"value": "#ee6d8aff"
+	},
+	{
+		"name": "camellia rose",
+		"value": "#eb6081ff"
+	},
+	{
+		"name": "rapture rose",
+		"value": "#d16277ff"
+	},
+	{
+		"name": "desert rose",
+		"value": "#cf6977ff"
+	},
+	{
+		"name": "geranium pink",
+		"value": "#f6909dff"
+	},
+	{
+		"name": "conch shell",
+		"value": "#fc8f9bff"
+	},
+	{
+		"name": "salmon rose",
+		"value": "#ff8d94ff"
+	},
+	{
+		"name": "strawberry pink",
+		"value": "#f57f8eff"
+	},
+	{
+		"name": "sunkist coral",
+		"value": "#ea6676ff"
+	},
+	{
+		"name": "calypso coral",
+		"value": "#ee5c6cff"
+	},
+	{
+		"name": "tea rose",
+		"value": "#dc7178ff"
+	},
+	{
+		"name": "geranium",
+		"value": "#da3d58ff"
+	},
+	{
+		"name": "paradise pink",
+		"value": "#e4445eff"
+	},
+	{
+		"name": "teaberry",
+		"value": "#dc3855ff"
+	},
+	{
+		"name": "rouge red",
+		"value": "#e24666ff"
+	},
+	{
+		"name": "raspberry",
+		"value": "#d32e5eff"
+	},
+	{
+		"name": "azalea",
+		"value": "#d42e5bff"
+	},
+	{
+		"name": "virtual pink",
+		"value": "#c6174eff"
+	},
+	{
+		"name": "claret red",
+		"value": "#c84c61ff"
+	},
+	{
+		"name": "raspberry wine",
+		"value": "#b63753ff"
+	},
+	{
+		"name": "rose red",
+		"value": "#c92351ff"
+	},
+	{
+		"name": "barberry",
+		"value": "#bf1945ff"
+	},
+	{
+		"name": "bright rose",
+		"value": "#c51959ff"
+	},
+	{
+		"name": "persian red",
+		"value": "#a21441ff"
+	},
+	{
+		"name": "cerise",
+		"value": "#a41247ff"
+	},
+	{
+		"name": "pink lady",
+		"value": "#efc1d6ff"
+	},
+	{
+		"name": "lilac sachet",
+		"value": "#e9adcaff"
+	},
+	{
+		"name": "prism pink",
+		"value": "#f0a1bfff"
+	},
+	{
+		"name": "begonia pink",
+		"value": "#ec9abeff"
+	},
+	{
+		"name": "fuchsia pink",
+		"value": "#df88b7ff"
+	},
+	{
+		"name": "rosebloom",
+		"value": "#e290b2ff"
+	},
+	{
+		"name": "ibis rose",
+		"value": "#ca628fff"
+	},
+	{
+		"name": "sachet pink",
+		"value": "#f18aadff"
+	},
+	{
+		"name": "wild orchid",
+		"value": "#d979a2ff"
+	},
+	{
+		"name": "aurora pink",
+		"value": "#e881a6ff"
+	},
+	{
+		"name": "chateau rose",
+		"value": "#d2738fff"
+	},
+	{
+		"name": "morning glory",
+		"value": "#ee819fff"
+	},
+	{
+		"name": "azalea pink",
+		"value": "#e96a97ff"
+	},
+	{
+		"name": "shocking pink",
+		"value": "#de5b8cff"
+	},
+	{
+		"name": "hot pink",
+		"value": "#e55982ff"
+	},
+	{
+		"name": "fandango pink",
+		"value": "#e04f80ff"
+	},
+	{
+		"name": "honeysuckle",
+		"value": "#d94f70ff"
+	},
+	{
+		"name": "raspberry sorbet",
+		"value": "#d2386cff"
+	},
+	{
+		"name": "carmine",
+		"value": "#bc4869ff"
+	},
+	{
+		"name": "fuchsia rose",
+		"value": "#c74375ff"
+	},
+	{
+		"name": "beetroot purple",
+		"value": "#cf2d71ff"
+	},
+	{
+		"name": "pink carnation",
+		"value": "#ed7a9eff"
+	},
+	{
+		"name": "carmine rose",
+		"value": "#e35b8fff"
+	},
+	{
+		"name": "magenta",
+		"value": "#d23c77ff"
+	},
+	{
+		"name": "pink flambe",
+		"value": "#d3507aff"
+	},
+	{
+		"name": "fuchsia purple",
+		"value": "#d33479ff"
+	},
+	{
+		"name": "lilac rose",
+		"value": "#bd4275ff"
+	},
+	{
+		"name": "very berry",
+		"value": "#b73275ff"
+	},
+	{
+		"name": "super pink",
+		"value": "#ce6ba4ff"
+	},
+	{
+		"name": "phlox pink",
+		"value": "#ce5e9aff"
+	},
+	{
+		"name": "raspberry rose",
+		"value": "#cc4385ff"
+	},
+	{
+		"name": "rose violet",
+		"value": "#c0428aff"
+	},
+	{
+		"name": "fuchsia red",
+		"value": "#ab3475ff"
+	},
+	{
+		"name": "cactus flower",
+		"value": "#a83e6cff"
+	},
+	{
+		"name": "magenta haze",
+		"value": "#9d446eff"
+	},
+	{
+		"name": "shrinking violet",
+		"value": "#f4e1e6ff"
+	},
+	{
+		"name": "primrose pink",
+		"value": "#eed4d9ff"
+	},
+	{
+		"name": "silver pink",
+		"value": "#dcb1afff"
+	},
+	{
+		"name": "powder pink",
+		"value": "#ecb2b3ff"
+	},
+	{
+		"name": "mauveglow",
+		"value": "#d18489ff"
+	},
+	{
+		"name": "brandied apricot",
+		"value": "#ca848aff"
+	},
+	{
+		"name": "dusty rose",
+		"value": "#ba797dff"
+	},
+	{
+		"name": "mauve morn",
+		"value": "#ecd6d6ff"
+	},
+	{
+		"name": "mauve chalk",
+		"value": "#e5d0cfff"
+	},
+	{
+		"name": "pearl",
+		"value": "#f9dbd8ff"
+	},
+	{
+		"name": "bridal rose",
+		"value": "#d69fa2ff"
+	},
+	{
+		"name": "blush",
+		"value": "#d1969aff"
+	},
+	{
+		"name": "baroque rose",
+		"value": "#b35a66ff"
+	},
+	{
+		"name": "slate rose",
+		"value": "#b45865ff"
+	},
+	{
+		"name": "mineral red",
+		"value": "#b35457ff"
+	},
+	{
+		"name": "garnet rose",
+		"value": "#ac4b55ff"
+	},
+	{
+		"name": "holly berry",
+		"value": "#b44e5dff"
+	},
+	{
+		"name": "american beauty",
+		"value": "#a73340ff"
+	},
+	{
+		"name": "jester red",
+		"value": "#9e1030ff"
+	},
+	{
+		"name": "rio red",
+		"value": "#8a2232ff"
+	},
+	{
+		"name": "rumba red",
+		"value": "#7c2439ff"
+	},
+	{
+		"name": "earth red",
+		"value": "#95424eff"
+	},
+	{
+		"name": "deep claret",
+		"value": "#973443ff"
+	},
+	{
+		"name": "garnet",
+		"value": "#953640ff"
+	},
+	{
+		"name": "brick red",
+		"value": "#8c373eff"
+	},
+	{
+		"name": "rosewood",
+		"value": "#813639ff"
+	},
+	{
+		"name": "tibetan red",
+		"value": "#782a39ff"
+	},
+	{
+		"name": "biking red",
+		"value": "#77212eff"
+	},
+	{
+		"name": "apple butter",
+		"value": "#844b4dff"
+	},
+	{
+		"name": "oxblood red",
+		"value": "#70393fff"
+	},
+	{
+		"name": "cowhide",
+		"value": "#884344ff"
+	},
+	{
+		"name": "burnt russet",
+		"value": "#7e3940ff"
+	},
+	{
+		"name": "ruby wine",
+		"value": "#77333bff"
+	},
+	{
+		"name": "cordovan",
+		"value": "#702f3bff"
+	},
+	{
+		"name": "tawny port",
+		"value": "#5c2c35ff"
+	},
+	{
+		"name": "creole pink",
+		"value": "#f7d5ccff"
+	},
+	{
+		"name": "peach blush",
+		"value": "#e4ccc6ff"
+	},
+	{
+		"name": "cloud pink",
+		"value": "#f5d1c8ff"
+	},
+	{
+		"name": "veiled rose",
+		"value": "#f8cdc9ff"
+	},
+	{
+		"name": "pearl blush",
+		"value": "#f4cec5ff"
+	},
+	{
+		"name": "english rose",
+		"value": "#f4c6c3ff"
+	},
+	{
+		"name": "lotus",
+		"value": "#e2c1c0ff"
+	},
+	{
+		"name": "rosewater",
+		"value": "#f6dbd8ff"
+	},
+	{
+		"name": "peach whip",
+		"value": "#dbbeb7ff"
+	},
+	{
+		"name": "rose smoke",
+		"value": "#d3b4adff"
+	},
+	{
+		"name": "coral cloud",
+		"value": "#e2a9a1ff"
+	},
+	{
+		"name": "misty rose",
+		"value": "#caa39aff"
+	},
+	{
+		"name": "peach beige",
+		"value": "#d3a297ff"
+	},
+	{
+		"name": "cameo brown",
+		"value": "#c08a80ff"
+	},
+	{
+		"name": "seashell pink",
+		"value": "#f7c8c2ff"
+	},
+	{
+		"name": "chintz rose",
+		"value": "#eec4beff"
+	},
+	{
+		"name": "impatiens pink",
+		"value": "#ffc4bcff"
+	},
+	{
+		"name": "peachskin",
+		"value": "#dfb8b6ff"
+	},
+	{
+		"name": "mellow rose",
+		"value": "#d9a6a1ff"
+	},
+	{
+		"name": "rose tan",
+		"value": "#d19c97ff"
+	},
+	{
+		"name": "rosette",
+		"value": "#ce8e8bff"
+	},
+	{
+		"name": "mauvewood",
+		"value": "#a75d67ff"
+	},
+	{
+		"name": "rose wine",
+		"value": "#a4596dff"
+	},
+	{
+		"name": "malaga",
+		"value": "#9f5069ff"
+	},
+	{
+		"name": "dry rose",
+		"value": "#8c4759ff"
+	},
+	{
+		"name": "hawthorn rose",
+		"value": "#884c5eff"
+	},
+	{
+		"name": "maroon",
+		"value": "#834655ff"
+	},
+	{
+		"name": "wild ginger",
+		"value": "#7c4c53ff"
+	},
+	{
+		"name": "sangria",
+		"value": "#982551ff"
+	},
+	{
+		"name": "red bud",
+		"value": "#962d49ff"
+	},
+	{
+		"name": "beaujolais",
+		"value": "#80304cff"
+	},
+	{
+		"name": "anemone",
+		"value": "#842c48ff"
+	},
+	{
+		"name": "beet red",
+		"value": "#7a1f3dff"
+	},
+	{
+		"name": "red plum",
+		"value": "#7c2946ff"
+	},
+	{
+		"name": "rhododendron",
+		"value": "#722b3fff"
+	},
+	{
+		"name": "barely pink",
+		"value": "#f8d7ddff"
+	},
+	{
+		"name": "blushing bride",
+		"value": "#fbd3d9ff"
+	},
+	{
+		"name": "cradle pink",
+		"value": "#edd0ddff"
+	},
+	{
+		"name": "pale lilac",
+		"value": "#e1c6ccff"
+	},
+	{
+		"name": "chalk pink",
+		"value": "#e6c5caff"
+	},
+	{
+		"name": "light lilac",
+		"value": "#dec6d3ff"
+	},
+	{
+		"name": "pink nectar",
+		"value": "#d8aab7ff"
+	},
+	{
+		"name": "heavenly pink",
+		"value": "#f4dedeff"
+	},
+	{
+		"name": "potpourri",
+		"value": "#e7c9caff"
+	},
+	{
+		"name": "crystal pink",
+		"value": "#edd0ceff"
+	},
+	{
+		"name": "pink dogwood",
+		"value": "#f7d1d1ff"
+	},
+	{
+		"name": "crystal rose",
+		"value": "#fdc3c6ff"
+	},
+	{
+		"name": "strawberry cream",
+		"value": "#f4c3c4ff"
+	},
+	{
+		"name": "gossamer pink",
+		"value": "#fac8c3ff"
+	},
+	{
+		"name": "rose shadow",
+		"value": "#f9c2cdff"
+	},
+	{
+		"name": "orchid pink",
+		"value": "#f3bbcaff"
+	},
+	{
+		"name": "almond blossom",
+		"value": "#f5bec7ff"
+	},
+	{
+		"name": "coral blush",
+		"value": "#e6b2b8ff"
+	},
+	{
+		"name": "candy pink",
+		"value": "#f5b0bdff"
+	},
+	{
+		"name": "peony",
+		"value": "#ed9ca8ff"
+	},
+	{
+		"name": "sea pink",
+		"value": "#de98abff"
+	},
+	{
+		"name": "cashmere rose",
+		"value": "#ce879fff"
+	},
+	{
+		"name": "wild rose",
+		"value": "#ce8498ff"
+	},
+	{
+		"name": "orchid smoke",
+		"value": "#d294aaff"
+	},
+	{
+		"name": "polignac",
+		"value": "#c28799ff"
+	},
+	{
+		"name": "lilas",
+		"value": "#b88995ff"
+	},
+	{
+		"name": "mauve orchid",
+		"value": "#b58299ff"
+	},
+	{
+		"name": "orchid haze",
+		"value": "#b0879bff"
+	},
+	{
+		"name": "parfait pink",
+		"value": "#e9c3cfff"
+	},
+	{
+		"name": "pink mist",
+		"value": "#e6bccdff"
+	},
+	{
+		"name": "cameo pink",
+		"value": "#dba9b8ff"
+	},
+	{
+		"name": "sweet lilac",
+		"value": "#e8b5ceff"
+	},
+	{
+		"name": "pink lavender",
+		"value": "#d9afcaff"
+	},
+	{
+		"name": "pastel lavender",
+		"value": "#d8a1c4ff"
+	},
+	{
+		"name": "orchid",
+		"value": "#d198c5ff"
+	},
+	{
+		"name": "lilac chiffon",
+		"value": "#de9bc4ff"
+	},
+	{
+		"name": "moonlite mauve",
+		"value": "#d28fb0ff"
+	},
+	{
+		"name": "cyclamen",
+		"value": "#d687baff"
+	},
+	{
+		"name": "opera mauve",
+		"value": "#ca80b1ff"
+	},
+	{
+		"name": "crocus",
+		"value": "#c67faeff"
+	},
+	{
+		"name": "mulberry",
+		"value": "#a76c97ff"
+	},
+	{
+		"name": "striking purple",
+		"value": "#944e87ff"
+	},
+	{
+		"name": "violet",
+		"value": "#c17fb5ff"
+	},
+	{
+		"name": "iris orchid",
+		"value": "#a767a2ff"
+	},
+	{
+		"name": "radiant orchid",
+		"value": "#ad5e99ff"
+	},
+	{
+		"name": "spring crocus",
+		"value": "#ba69a1ff"
+	},
+	{
+		"name": "meadow mauve",
+		"value": "#a9568cff"
+	},
+	{
+		"name": "amethyst",
+		"value": "#864d75ff"
+	},
+	{
+		"name": "magenta purple",
+		"value": "#6b264bff"
+	},
+	{
+		"name": "rosebud",
+		"value": "#b65f9aff"
+	},
+	{
+		"name": "purple orchid",
+		"value": "#ad4d8cff"
+	},
+	{
+		"name": "festival fuchsia",
+		"value": "#9e2c6aff"
+	},
+	{
+		"name": "baton rouge",
+		"value": "#973c6cff"
+	},
+	{
+		"name": "boysenberry",
+		"value": "#85325cff"
+	},
+	{
+		"name": "raspberry radiance",
+		"value": "#802a50ff"
+	},
+	{
+		"name": "purple potion",
+		"value": "#692746ff"
+	},
+	{
+		"name": "dahlia mauve",
+		"value": "#a64f82ff"
+	},
+	{
+		"name": "vivid viola",
+		"value": "#993c7cff"
+	},
+	{
+		"name": "wild aster",
+		"value": "#92316fff"
+	},
+	{
+		"name": "deep orchid",
+		"value": "#903f75ff"
+	},
+	{
+		"name": "clover",
+		"value": "#8a3371ff"
+	},
+	{
+		"name": "purple wine",
+		"value": "#8c3573ff"
+	},
+	{
+		"name": "hollyhock",
+		"value": "#823270ff"
+	},
+	{
+		"name": "hyacinth violet",
+		"value": "#8d4687ff"
+	},
+	{
+		"name": "dahlia",
+		"value": "#843e83ff"
+	},
+	{
+		"name": "sparkling grape",
+		"value": "#773376ff"
+	},
+	{
+		"name": "byzantium",
+		"value": "#853b7bff"
+	},
+	{
+		"name": "phlox",
+		"value": "#692d5dff"
+	},
+	{
+		"name": "grape juice",
+		"value": "#682961ff"
+	},
+	{
+		"name": "gloxinia",
+		"value": "#622e5aff"
+	},
+	{
+		"name": "crystal gray",
+		"value": "#d7cbc4ff"
+	},
+	{
+		"name": "mushroom",
+		"value": "#bdaca3ff"
+	},
+	{
+		"name": "shadow gray",
+		"value": "#bba5a0ff"
+	},
+	{
+		"name": "sphinx",
+		"value": "#ab9895ff"
+	},
+	{
+		"name": "bark",
+		"value": "#a99592ff"
+	},
+	{
+		"name": "fawn",
+		"value": "#ae9490ff"
+	},
+	{
+		"name": "adobe rose",
+		"value": "#ba9f99ff"
+	},
+	{
+		"name": "pale mauve",
+		"value": "#c6a4a4ff"
+	},
+	{
+		"name": "woodrose",
+		"value": "#ae8c8eff"
+	},
+	{
+		"name": "deauville mauve",
+		"value": "#af9294ff"
+	},
+	{
+		"name": "twilight mauve",
+		"value": "#8b6f70ff"
+	},
+	{
+		"name": "rose taupe",
+		"value": "#806062ff"
+	},
+	{
+		"name": "rose brown",
+		"value": "#80565bff"
+	},
+	{
+		"name": "roan rouge",
+		"value": "#885157ff"
+	},
+	{
+		"name": "antler",
+		"value": "#957a76ff"
+	},
+	{
+		"name": "peppercorn",
+		"value": "#6c5656ff"
+	},
+	{
+		"name": "raisin",
+		"value": "#524144ff"
+	},
+	{
+		"name": "huckleberry",
+		"value": "#5b4349ff"
+	},
+	{
+		"name": "catawba grape",
+		"value": "#5d3c43ff"
+	},
+	{
+		"name": "puce",
+		"value": "#503938ff"
+	},
+	{
+		"name": "fudge",
+		"value": "#493338ff"
+	},
+	{
+		"name": "mahogany rose",
+		"value": "#c5a193ff"
+	},
+	{
+		"name": "burlwood",
+		"value": "#9b716bff"
+	},
+	{
+		"name": "marron",
+		"value": "#6e4c4bff"
+	},
+	{
+		"name": "decadent chocolate",
+		"value": "#513235ff"
+	},
+	{
+		"name": "red mahogany",
+		"value": "#60373dff"
+	},
+	{
+		"name": "vineyard wine",
+		"value": "#58363dff"
+	},
+	{
+		"name": "winetasting",
+		"value": "#492a34ff"
+	},
+	{
+		"name": "port",
+		"value": "#663336ff"
+	},
+	{
+		"name": "chocolate truffle",
+		"value": "#612e35ff"
+	},
+	{
+		"name": "burgundy",
+		"value": "#64313eff"
+	},
+	{
+		"name": "zinfandel",
+		"value": "#5c2935ff"
+	},
+	{
+		"name": "windsor wine",
+		"value": "#582b36ff"
+	},
+	{
+		"name": "port royale",
+		"value": "#502b33ff"
+	},
+	{
+		"name": "fig",
+		"value": "#532d3bff"
+	},
+	{
+		"name": "violet ice",
+		"value": "#c2acb1ff"
+	},
+	{
+		"name": "burnished lilac",
+		"value": "#c5aeb1ff"
+	},
+	{
+		"name": "keepsake lilac",
+		"value": "#c0a5aeff"
+	},
+	{
+		"name": "mauve shadows",
+		"value": "#b598a3ff"
+	},
+	{
+		"name": "dawn pink",
+		"value": "#bfa3afff"
+	},
+	{
+		"name": "fragrant lilac",
+		"value": "#ceadbeff"
+	},
+	{
+		"name": "mauve mist",
+		"value": "#c49bd4ff"
+	},
+	{
+		"name": "heather rose",
+		"value": "#ad6d7fff"
+	},
+	{
+		"name": "red violet",
+		"value": "#a35776ff"
+	},
+	{
+		"name": "mellow mauve",
+		"value": "#996378ff"
+	},
+	{
+		"name": "bordeaux",
+		"value": "#96637bff"
+	},
+	{
+		"name": "violet quartz",
+		"value": "#8b4963ff"
+	},
+	{
+		"name": "damson",
+		"value": "#854c65ff"
+	},
+	{
+		"name": "amaranth",
+		"value": "#6f3c56ff"
+	},
+	{
+		"name": "zephyr",
+		"value": "#c89fa5ff"
+	},
+	{
+		"name": "dusky orchid",
+		"value": "#9a7182ff"
+	},
+	{
+		"name": "grape shake",
+		"value": "#886971ff"
+	},
+	{
+		"name": "wistful mauve",
+		"value": "#946c74ff"
+	},
+	{
+		"name": "tulipwood",
+		"value": "#805466ff"
+	},
+	{
+		"name": "grape nectar",
+		"value": "#8d5c74ff"
+	},
+	{
+		"name": "argyle purple",
+		"value": "#895c79ff"
+	},
+	{
+		"name": "nostalgia rose",
+		"value": "#a4777eff"
+	},
+	{
+		"name": "deco rose",
+		"value": "#985f68ff"
+	},
+	{
+		"name": "renaissance rose",
+		"value": "#865560ff"
+	},
+	{
+		"name": "nocturne",
+		"value": "#7a4b56ff"
+	},
+	{
+		"name": "crushed berry",
+		"value": "#804f5aff"
+	},
+	{
+		"name": "crushed violets",
+		"value": "#643a4cff"
+	},
+	{
+		"name": "mauve wine",
+		"value": "#5b3644ff"
+	},
+	{
+		"name": "plum wine",
+		"value": "#674550ff"
+	},
+	{
+		"name": "eggplant",
+		"value": "#613f4cff"
+	},
+	{
+		"name": "prune",
+		"value": "#603749ff"
+	},
+	{
+		"name": "prune purple",
+		"value": "#5c3a4dff"
+	},
+	{
+		"name": "grape wine",
+		"value": "#5a2f43ff"
+	},
+	{
+		"name": "italian plum",
+		"value": "#533146ff"
+	},
+	{
+		"name": "potent purple",
+		"value": "#462639ff"
+	},
+	{
+		"name": "lavender herb",
+		"value": "#b18eaaff"
+	},
+	{
+		"name": "lavender mist",
+		"value": "#ae90a7ff"
+	},
+	{
+		"name": "valerian",
+		"value": "#9f7a93ff"
+	},
+	{
+		"name": "very grape",
+		"value": "#927288ff"
+	},
+	{
+		"name": "grapeade",
+		"value": "#85677bff"
+	},
+	{
+		"name": "purple gumdrop",
+		"value": "#7a596fff"
+	},
+	{
+		"name": "berry conserve",
+		"value": "#765269ff"
+	},
+	{
+		"name": "chinese violet",
+		"value": "#835e81ff"
+	},
+	{
+		"name": "crushed grape",
+		"value": "#7a547fff"
+	},
+	{
+		"name": "concord grape",
+		"value": "#7c5379ff"
+	},
+	{
+		"name": "sunset purple",
+		"value": "#6f456eff"
+	},
+	{
+		"name": "wood violet",
+		"value": "#75406aff"
+	},
+	{
+		"name": "purple passion",
+		"value": "#683d62ff"
+	},
+	{
+		"name": "dark purple",
+		"value": "#582147ff"
+	},
+	{
+		"name": "grape jam",
+		"value": "#725671ff"
+	},
+	{
+		"name": "deep purple",
+		"value": "#50314cff"
+	},
+	{
+		"name": "wineberry",
+		"value": "#5a395bff"
+	},
+	{
+		"name": "grape royale",
+		"value": "#4f2d54ff"
+	},
+	{
+		"name": "plum purple",
+		"value": "#51304eff"
+	},
+	{
+		"name": "hortensia",
+		"value": "#553b50ff"
+	},
+	{
+		"name": "blackberry wine",
+		"value": "#4d3246ff"
+	},
+	{
+		"name": "navy cosmos",
+		"value": "#503b53ff"
+	},
+	{
+		"name": "indigo",
+		"value": "#4c3957ff"
+	},
+	{
+		"name": "purple pennant",
+		"value": "#432c47ff"
+	},
+	{
+		"name": "plum perfect",
+		"value": "#473442ff"
+	},
+	{
+		"name": "sweet grape",
+		"value": "#4b3b4fff"
+	},
+	{
+		"name": "shadow purple",
+		"value": "#4e334eff"
+	},
+	{
+		"name": "blackberry cordial",
+		"value": "#3f2a47ff"
+	},
+	{
+		"name": "purple reign",
+		"value": "#56456bff"
+	},
+	{
+		"name": "mulberry purple",
+		"value": "#493c62ff"
+	},
+	{
+		"name": "gothic grape",
+		"value": "#473951ff"
+	},
+	{
+		"name": "grape",
+		"value": "#433455ff"
+	},
+	{
+		"name": "mysterioso",
+		"value": "#46394bff"
+	},
+	{
+		"name": "purple velvet",
+		"value": "#41354dff"
+	},
+	{
+		"name": "nightshade",
+		"value": "#433748ff"
+	},
+	{
+		"name": "orchid tint",
+		"value": "#dbd2dbff"
+	},
+	{
+		"name": "lilac ash",
+		"value": "#d7cdcdff"
+	},
+	{
+		"name": "gray lilac",
+		"value": "#d4cacdff"
+	},
+	{
+		"name": "hushed violet",
+		"value": "#d1c0bfff"
+	},
+	{
+		"name": "cloud gray",
+		"value": "#b7a9acff"
+	},
+	{
+		"name": "quail",
+		"value": "#98868cff"
+	},
+	{
+		"name": "nirvana",
+		"value": "#a2919bff"
+	},
+	{
+		"name": "orchid hush",
+		"value": "#cec3d2ff"
+	},
+	{
+		"name": "iris",
+		"value": "#baafbcff"
+	},
+	{
+		"name": "sea fog",
+		"value": "#a5929dff"
+	},
+	{
+		"name": "elderberry",
+		"value": "#9d848eff"
+	},
+	{
+		"name": "black plum",
+		"value": "#6c5765ff"
+	},
+	{
+		"name": "flint",
+		"value": "#705861ff"
+	},
+	{
+		"name": "sassafras",
+		"value": "#54353bff"
+	},
+	{
+		"name": "evening haze",
+		"value": "#bdb8c7ff"
+	},
+	{
+		"name": "thistle",
+		"value": "#b9b3c5ff"
+	},
+	{
+		"name": "lavender gray",
+		"value": "#9890a2ff"
+	},
+	{
+		"name": "minimal gray",
+		"value": "#948d99ff"
+	},
+	{
+		"name": "purple ash",
+		"value": "#8f8395ff"
+	},
+	{
+		"name": "gray ridge",
+		"value": "#847986ff"
+	},
+	{
+		"name": "purple sage",
+		"value": "#75697eff"
+	},
+	{
+		"name": "heirloom lilac",
+		"value": "#9d96b2ff"
+	},
+	{
+		"name": "wisteria",
+		"value": "#a198afff"
+	},
+	{
+		"name": "dusk",
+		"value": "#897f98ff"
+	},
+	{
+		"name": "daybreak",
+		"value": "#8981a0ff"
+	},
+	{
+		"name": "cadet",
+		"value": "#6a6378ff"
+	},
+	{
+		"name": "mulled grape",
+		"value": "#675a74ff"
+	},
+	{
+		"name": "purple plumeria",
+		"value": "#473854ff"
+	},
+	{
+		"name": "lilac marble",
+		"value": "#c3babfff"
+	},
+	{
+		"name": "ashes of roses",
+		"value": "#b5acabff"
+	},
+	{
+		"name": "gull gray",
+		"value": "#a49ca0ff"
+	},
+	{
+		"name": "zinc",
+		"value": "#92898aff"
+	},
+	{
+		"name": "gull",
+		"value": "#918c8fff"
+	},
+	{
+		"name": "shark",
+		"value": "#6d636bff"
+	},
+	{
+		"name": "sparrow",
+		"value": "#69595cff"
+	},
+	{
+		"name": "orchid ice",
+		"value": "#e0d0dbff"
+	},
+	{
+		"name": "lilac snow",
+		"value": "#e0c7d7ff"
+	},
+	{
+		"name": "winsome orchid",
+		"value": "#d4b9cbff"
+	},
+	{
+		"name": "fair orchid",
+		"value": "#c0aac0ff"
+	},
+	{
+		"name": "lavender frost",
+		"value": "#bdabbeff"
+	},
+	{
+		"name": "orchid petal",
+		"value": "#bfb4cbff"
+	},
+	{
+		"name": "pastel lilac",
+		"value": "#bdb0d0ff"
+	},
+	{
+		"name": "orchid bloom",
+		"value": "#c5aecfff"
+	},
+	{
+		"name": "orchid bouquet",
+		"value": "#d1acceff"
+	},
+	{
+		"name": "lupine",
+		"value": "#be9cc1ff"
+	},
+	{
+		"name": "violet tulle",
+		"value": "#c193c0ff"
+	},
+	{
+		"name": "sheer lilac",
+		"value": "#b793c0ff"
+	},
+	{
+		"name": "african violet",
+		"value": "#b085b7ff"
+	},
+	{
+		"name": "dusty lavender",
+		"value": "#a1759cff"
+	},
+	{
+		"name": "paisley purple",
+		"value": "#8b79b1ff"
+	},
+	{
+		"name": "hyacinth",
+		"value": "#936ca7ff"
+	},
+	{
+		"name": "amethyst orchid",
+		"value": "#926aa6ff"
+	},
+	{
+		"name": "dewberry",
+		"value": "#8b5987ff"
+	},
+	{
+		"name": "purple heart",
+		"value": "#745587ff"
+	},
+	{
+		"name": "meadow violet",
+		"value": "#764f82ff"
+	},
+	{
+		"name": "royal purple",
+		"value": "#603f83ff"
+	},
+	{
+		"name": "deep lavender",
+		"value": "#775496ff"
+	},
+	{
+		"name": "royal lilac",
+		"value": "#774d8eff"
+	},
+	{
+		"name": "pansy",
+		"value": "#653d7cff"
+	},
+	{
+		"name": "bright violet",
+		"value": "#784384ff"
+	},
+	{
+		"name": "amaranth purple",
+		"value": "#6a397bff"
+	},
+	{
+		"name": "purple magic",
+		"value": "#663271ff"
+	},
+	{
+		"name": "plum",
+		"value": "#5a315dff"
+	},
+	{
+		"name": "imperial palace",
+		"value": "#604e7aff"
+	},
+	{
+		"name": "patrician purple",
+		"value": "#6c4e79ff"
+	},
+	{
+		"name": "loganberry",
+		"value": "#5a4769ff"
+	},
+	{
+		"name": "majesty",
+		"value": "#593761ff"
+	},
+	{
+		"name": "imperial purple",
+		"value": "#542c5dff"
+	},
+	{
+		"name": "crown jewel",
+		"value": "#482d54ff"
+	},
+	{
+		"name": "parachute purple",
+		"value": "#392852ff"
+	},
+	{
+		"name": "lavender fog",
+		"value": "#d2c4d6ff"
+	},
+	{
+		"name": "lavendula",
+		"value": "#bca4cbff"
+	},
+	{
+		"name": "lavender",
+		"value": "#afa4ceff"
+	},
+	{
+		"name": "bougainvillea",
+		"value": "#9884b9ff"
+	},
+	{
+		"name": "violet tulip",
+		"value": "#9e91c3ff"
+	},
+	{
+		"name": "chalk violet",
+		"value": "#8f7da5ff"
+	},
+	{
+		"name": "purple haze",
+		"value": "#807396ff"
+	},
+	{
+		"name": "smoky grape",
+		"value": "#b88aacff"
+	},
+	{
+		"name": "regal orchid",
+		"value": "#a98bafff"
+	},
+	{
+		"name": "viola",
+		"value": "#a692baff"
+	},
+	{
+		"name": "orchid mist",
+		"value": "#917798ff"
+	},
+	{
+		"name": "grape compote",
+		"value": "#6b5876ff"
+	},
+	{
+		"name": "montana grape",
+		"value": "#6c5971ff"
+	},
+	{
+		"name": "vintage violet",
+		"value": "#634f62ff"
+	},
+	{
+		"name": "aster purple",
+		"value": "#7d74a8ff"
+	},
+	{
+		"name": "dahlia purple",
+		"value": "#7e6eacff"
+	},
+	{
+		"name": "passion flower",
+		"value": "#6d5698ff"
+	},
+	{
+		"name": "ultra violet",
+		"value": "#5f4b8bff"
+	},
+	{
+		"name": "prism violet",
+		"value": "#53357dff"
+	},
+	{
+		"name": "heliotrope",
+		"value": "#4f3872ff"
+	},
+	{
+		"name": "petunia",
+		"value": "#4f3466ff"
+	},
+	{
+		"name": "corsican blue",
+		"value": "#646093ff"
+	},
+	{
+		"name": "veronica",
+		"value": "#6d6695ff"
+	},
+	{
+		"name": "blue iris",
+		"value": "#5a5b9fff"
+	},
+	{
+		"name": "purple opulence",
+		"value": "#60569aff"
+	},
+	{
+		"name": "gentian violet",
+		"value": "#544275ff"
+	},
+	{
+		"name": "liberty",
+		"value": "#4d448aff"
+	},
+	{
+		"name": "deep blue",
+		"value": "#44377dff"
+	},
+	{
+		"name": "bleached denim",
+		"value": "#646f9bff"
+	},
+	{
+		"name": "heron",
+		"value": "#62617eff"
+	},
+	{
+		"name": "skipper blue",
+		"value": "#484a72ff"
+	},
+	{
+		"name": "navy blue",
+		"value": "#403f6fff"
+	},
+	{
+		"name": "deep wisteria",
+		"value": "#443f6fff"
+	},
+	{
+		"name": "blue ribbon",
+		"value": "#3a395fff"
+	},
+	{
+		"name": "astral aura",
+		"value": "#363151ff"
+	},
+	{
+		"name": "lilac hint",
+		"value": "#d0d0daff"
+	},
+	{
+		"name": "misty lilac",
+		"value": "#bcb4c4ff"
+	},
+	{
+		"name": "lavender blue",
+		"value": "#c5c0d0ff"
+	},
+	{
+		"name": "purple heather",
+		"value": "#bab8d3ff"
+	},
+	{
+		"name": "cosmic sky",
+		"value": "#aaaac4ff"
+	},
+	{
+		"name": "languid lavender",
+		"value": "#a2a1baff"
+	},
+	{
+		"name": "dapple gray",
+		"value": "#9c9ba7ff"
+	},
+	{
+		"name": "sweet lavender",
+		"value": "#9a9bc1ff"
+	},
+	{
+		"name": "easter egg",
+		"value": "#919bc9ff"
+	},
+	{
+		"name": "jacaranda",
+		"value": "#848dc5ff"
+	},
+	{
+		"name": "deep periwinkle",
+		"value": "#7c83bcff"
+	},
+	{
+		"name": "dusted peri",
+		"value": "#696ba0ff"
+	},
+	{
+		"name": "violet storm",
+		"value": "#5c619dff"
+	},
+	{
+		"name": "baja blue",
+		"value": "#5f6db0ff"
+	},
+	{
+		"name": "thistle down",
+		"value": "#9499bbff"
+	},
+	{
+		"name": "persian violet",
+		"value": "#8c8eb2ff"
+	},
+	{
+		"name": "twilight purple",
+		"value": "#66648bff"
+	},
+	{
+		"name": "orient blue",
+		"value": "#47457aff"
+	},
+	{
+		"name": "clematis blue",
+		"value": "#363b7cff"
+	},
+	{
+		"name": "royal blue",
+		"value": "#3d428bff"
+	},
+	{
+		"name": "spectrum blue",
+		"value": "#3d3c7cff"
+	},
+	{
+		"name": "lavender violet",
+		"value": "#767ba5ff"
+	},
+	{
+		"name": "blue ice",
+		"value": "#70789bff"
+	},
+	{
+		"name": "velvet morning",
+		"value": "#60688dff"
+	},
+	{
+		"name": "marlin",
+		"value": "#515b87ff"
+	},
+	{
+		"name": "blueprint",
+		"value": "#2d3359ff"
+	},
+	{
+		"name": "blue depths",
+		"value": "#263056ff"
+	},
+	{
+		"name": "medieval blue",
+		"value": "#29304eff"
+	},
+	{
+		"name": "lavender aura",
+		"value": "#9f99aaff"
+	},
+	{
+		"name": "stonewash",
+		"value": "#74809aff"
+	},
+	{
+		"name": "nightshadow blue",
+		"value": "#4e5368ff"
+	},
+	{
+		"name": "blue indigo",
+		"value": "#49516dff"
+	},
+	{
+		"name": "graystone",
+		"value": "#4d495bff"
+	},
+	{
+		"name": "crown blue",
+		"value": "#464b65ff"
+	},
+	{
+		"name": "deep cobalt",
+		"value": "#404466ff"
+	},
+	{
+		"name": "arctic ice",
+		"value": "#bfc7d6ff"
+	},
+	{
+		"name": "gray dawn",
+		"value": "#bbc1ccff"
+	},
+	{
+		"name": "heather",
+		"value": "#b7c0d6ff"
+	},
+	{
+		"name": "eventide",
+		"value": "#959eb7ff"
+	},
+	{
+		"name": "silver lake blue",
+		"value": "#618bb9ff"
+	},
+	{
+		"name": "blue bonnet",
+		"value": "#6384b8ff"
+	},
+	{
+		"name": "blue yonder",
+		"value": "#5a77a8ff"
+	},
+	{
+		"name": "lavender lustre",
+		"value": "#8c9cc1ff"
+	},
+	{
+		"name": "purple impression",
+		"value": "#858fb1ff"
+	},
+	{
+		"name": "grapemist",
+		"value": "#8398caff"
+	},
+	{
+		"name": "vista blue",
+		"value": "#81a0d4ff"
+	},
+	{
+		"name": "cornflower blue",
+		"value": "#7391c8ff"
+	},
+	{
+		"name": "persian jewel",
+		"value": "#6e81beff"
+	},
+	{
+		"name": "wedgewood",
+		"value": "#6479b3ff"
+	},
+	{
+		"name": "skyway",
+		"value": "#adbed3ff"
+	},
+	{
+		"name": "cashmere blue",
+		"value": "#a5b8d0ff"
+	},
+	{
+		"name": "blue bell",
+		"value": "#93b4d7ff"
+	},
+	{
+		"name": "placid blue",
+		"value": "#8cadd3ff"
+	},
+	{
+		"name": "della robbia blue",
+		"value": "#7a9dcbff"
+	},
+	{
+		"name": "provence",
+		"value": "#658dc6ff"
+	},
+	{
+		"name": "ultramarine",
+		"value": "#5b7ebdff"
+	},
+	{
+		"name": "allure",
+		"value": "#7291b4ff"
+	},
+	{
+		"name": "colony blue",
+		"value": "#65769aff"
+	},
+	{
+		"name": "moonlight blue",
+		"value": "#506886ff"
+	},
+	{
+		"name": "dutch blue",
+		"value": "#4a638dff"
+	},
+	{
+		"name": "delft",
+		"value": "#3d5e8cff"
+	},
+	{
+		"name": "limoges",
+		"value": "#243f6cff"
+	},
+	{
+		"name": "estate blue",
+		"value": "#233658ff"
+	},
+	{
+		"name": "infinity",
+		"value": "#6e7e99ff"
+	},
+	{
+		"name": "bijou blue",
+		"value": "#4e5e7fff"
+	},
+	{
+		"name": "coastal fjord",
+		"value": "#505d7eff"
+	},
+	{
+		"name": "true navy",
+		"value": "#3f5277ff"
+	},
+	{
+		"name": "ensign blue",
+		"value": "#384c67ff"
+	},
+	{
+		"name": "dark denim",
+		"value": "#35465eff"
+	},
+	{
+		"name": "insignia blue",
+		"value": "#2f3e55ff"
+	},
+	{
+		"name": "air blue",
+		"value": "#77acc7ff"
+	},
+	{
+		"name": "heritage blue",
+		"value": "#5d96bcff"
+	},
+	{
+		"name": "ethereal blue",
+		"value": "#5ca6ceff"
+	},
+	{
+		"name": "bonnie blue",
+		"value": "#539cccff"
+	},
+	{
+		"name": "cendre blue",
+		"value": "#3e7fa5ff"
+	},
+	{
+		"name": "parisian blue",
+		"value": "#4f7ca4ff"
+	},
+	{
+		"name": "faience",
+		"value": "#2a6a8bff"
+	},
+	{
+		"name": "alaskan blue",
+		"value": "#6da9d2ff"
+	},
+	{
+		"name": "little boy blue",
+		"value": "#6ea2d5ff"
+	},
+	{
+		"name": "azure blue",
+		"value": "#4d91c6ff"
+	},
+	{
+		"name": "riviera",
+		"value": "#5879a2ff"
+	},
+	{
+		"name": "federal blue",
+		"value": "#43628bff"
+	},
+	{
+		"name": "star sapphire",
+		"value": "#386192ff"
+	},
+	{
+		"name": "bright cobalt",
+		"value": "#385d8dff"
+	},
+	{
+		"name": "dusk blue",
+		"value": "#7ba0c0ff"
+	},
+	{
+		"name": "regatta",
+		"value": "#487ab7ff"
+	},
+	{
+		"name": "palace blue",
+		"value": "#346cb0ff"
+	},
+	{
+		"name": "strong blue",
+		"value": "#1f5da0ff"
+	},
+	{
+		"name": "turkish sea",
+		"value": "#195190ff"
+	},
+	{
+		"name": "olympian blue",
+		"value": "#1a4c8bff"
+	},
+	{
+		"name": "classic blue",
+		"value": "#0f4c81ff"
+	},
+	{
+		"name": "marina",
+		"value": "#4f84c4ff"
+	},
+	{
+		"name": "campanula",
+		"value": "#3272afff"
+	},
+	{
+		"name": "daphne",
+		"value": "#0f5f9aff"
+	},
+	{
+		"name": "victoria blue",
+		"value": "#08589dff"
+	},
+	{
+		"name": "snorkel blue",
+		"value": "#034f84ff"
+	},
+	{
+		"name": "nautical blue",
+		"value": "#1a5091ff"
+	},
+	{
+		"name": "princess blue",
+		"value": "#00539cff"
+	},
+	{
+		"name": "dazzling blue",
+		"value": "#3850a0ff"
+	},
+	{
+		"name": "amparo blue",
+		"value": "#4960a8ff"
+	},
+	{
+		"name": "deep ultramarine",
+		"value": "#384883ff"
+	},
+	{
+		"name": "surf the web",
+		"value": "#203c7fff"
+	},
+	{
+		"name": "mazarine blue",
+		"value": "#273c76ff"
+	},
+	{
+		"name": "true blue",
+		"value": "#1e4477ff"
+	},
+	{
+		"name": "twilight blue",
+		"value": "#313d64ff"
+	},
+	{
+		"name": "kentucky blue",
+		"value": "#a5b3ccff"
+	},
+	{
+		"name": "cerulean",
+		"value": "#9bb7d4ff"
+	},
+	{
+		"name": "powder blue",
+		"value": "#96b3d2ff"
+	},
+	{
+		"name": "forever blue",
+		"value": "#899bb8ff"
+	},
+	{
+		"name": "tempest",
+		"value": "#79839bff"
+	},
+	{
+		"name": "country blue",
+		"value": "#717f9bff"
+	},
+	{
+		"name": "english manor",
+		"value": "#7181a4ff"
+	},
+	{
+		"name": "illusion blue",
+		"value": "#c9d3dcff"
+	},
+	{
+		"name": "ballad blue",
+		"value": "#c0cedaff"
+	},
+	{
+		"name": "baby blue",
+		"value": "#b5c7d3ff"
+	},
+	{
+		"name": "celestial blue",
+		"value": "#a3b4c4ff"
+	},
+	{
+		"name": "blue fog",
+		"value": "#9babbbff"
+	},
+	{
+		"name": "flint stone",
+		"value": "#677283ff"
+	},
+	{
+		"name": "folkstone gray",
+		"value": "#626879ff"
+	},
+	{
+		"name": "pearl blue",
+		"value": "#b0b7beff"
+	},
+	{
+		"name": "monument",
+		"value": "#84898cff"
+	},
+	{
+		"name": "dark slate",
+		"value": "#46515aff"
+	},
+	{
+		"name": "midnight navy",
+		"value": "#34414eff"
+	},
+	{
+		"name": "total eclipse",
+		"value": "#2c313dff"
+	},
+	{
+		"name": "blue graphite",
+		"value": "#323137ff"
+	},
+	{
+		"name": "dark navy",
+		"value": "#232f36ff"
+	},
+	{
+		"name": "ice flow",
+		"value": "#c6d2d2ff"
+	},
+	{
+		"name": "quarry",
+		"value": "#98a0a5ff"
+	},
+	{
+		"name": "griffin",
+		"value": "#8d8f8fff"
+	},
+	{
+		"name": "dark shadow",
+		"value": "#4a4b4dff"
+	},
+	{
+		"name": "ombre blue",
+		"value": "#434854ff"
+	},
+	{
+		"name": "india ink",
+		"value": "#3c3f4aff"
+	},
+	{
+		"name": "ebony",
+		"value": "#41424aff"
+	},
+	{
+		"name": "patriot blue",
+		"value": "#363756ff"
+	},
+	{
+		"name": "eclipse",
+		"value": "#343148ff"
+	},
+	{
+		"name": "mood indigo",
+		"value": "#353a4cff"
+	},
+	{
+		"name": "peacoat",
+		"value": "#2b2e43ff"
+	},
+	{
+		"name": "black iris",
+		"value": "#2b3042ff"
+	},
+	{
+		"name": "dress blues",
+		"value": "#2a3244ff"
+	},
+	{
+		"name": "blue nights",
+		"value": "#363b48ff"
+	},
+	{
+		"name": "angel falls",
+		"value": "#a3bdd3ff"
+	},
+	{
+		"name": "dream blue",
+		"value": "#a0bcd0ff"
+	},
+	{
+		"name": "ashley blue",
+		"value": "#8699abff"
+	},
+	{
+		"name": "dusty blue",
+		"value": "#8c9dadff"
+	},
+	{
+		"name": "indian teal",
+		"value": "#3c586bff"
+	},
+	{
+		"name": "stargazer",
+		"value": "#39505cff"
+	},
+	{
+		"name": "orion blue",
+		"value": "#3e4f5cff"
+	},
+	{
+		"name": "forget me not",
+		"value": "#8fadbdff"
+	},
+	{
+		"name": "faded denim",
+		"value": "#798ea4ff"
+	},
+	{
+		"name": "blue shadow",
+		"value": "#66829aff"
+	},
+	{
+		"name": "coronet blue",
+		"value": "#59728eff"
+	},
+	{
+		"name": "captains blue",
+		"value": "#557088ff"
+	},
+	{
+		"name": "copen blue",
+		"value": "#516b84ff"
+	},
+	{
+		"name": "china blue",
+		"value": "#546477ff"
+	},
+	{
+		"name": "adriatic blue",
+		"value": "#5c899bff"
+	},
+	{
+		"name": "provincial blue",
+		"value": "#5c798eff"
+	},
+	{
+		"name": "niagara",
+		"value": "#5487a4ff"
+	},
+	{
+		"name": "blue heaven",
+		"value": "#5b7e98ff"
+	},
+	{
+		"name": "stellar",
+		"value": "#46647eff"
+	},
+	{
+		"name": "real teal",
+		"value": "#405d73ff"
+	},
+	{
+		"name": "majolica blue",
+		"value": "#274357ff"
+	},
+	{
+		"name": "starlight blue",
+		"value": "#b5ced4ff"
+	},
+	{
+		"name": "winter sky",
+		"value": "#a9c0cbff"
+	},
+	{
+		"name": "stratosphere",
+		"value": "#9ec1ccff"
+	},
+	{
+		"name": "sterling blue",
+		"value": "#a2b9c2ff"
+	},
+	{
+		"name": "arona",
+		"value": "#879ba3ff"
+	},
+	{
+		"name": "citadel",
+		"value": "#748995ff"
+	},
+	{
+		"name": "blue mirage",
+		"value": "#5c6d7cff"
+	},
+	{
+		"name": "cloud blue",
+		"value": "#a2b6b9ff"
+	},
+	{
+		"name": "ether",
+		"value": "#9eb6b8ff"
+	},
+	{
+		"name": "cameo blue",
+		"value": "#769da6ff"
+	},
+	{
+		"name": "stone blue",
+		"value": "#829ca5ff"
+	},
+	{
+		"name": "tourmaline",
+		"value": "#86a1a9ff"
+	},
+	{
+		"name": "smoke blue",
+		"value": "#6d8994ff"
+	},
+	{
+		"name": "bluestone",
+		"value": "#577284ff"
+	},
+	{
+		"name": "aquamarine",
+		"value": "#9dc3d4ff"
+	},
+	{
+		"name": "sky blue",
+		"value": "#8abad3ff"
+	},
+	{
+		"name": "milky blue",
+		"value": "#72a8baff"
+	},
+	{
+		"name": "blue grotto",
+		"value": "#5cacceff"
+	},
+	{
+		"name": "norse blue",
+		"value": "#4ca5c7ff"
+	},
+	{
+		"name": "aquarius",
+		"value": "#3cadd4ff"
+	},
+	{
+		"name": "maui blue",
+		"value": "#52a2b4ff"
+	},
+	{
+		"name": "blue mist",
+		"value": "#5bacc3ff"
+	},
+	{
+		"name": "river blue",
+		"value": "#38afcdff"
+	},
+	{
+		"name": "cyan blue",
+		"value": "#14a3c7ff"
+	},
+	{
+		"name": "horizon blue",
+		"value": "#289dbeff"
+	},
+	{
+		"name": "blue moon",
+		"value": "#3686a0ff"
+	},
+	{
+		"name": "bluejay",
+		"value": "#157ea0ff"
+	},
+	{
+		"name": "mediterranean blue",
+		"value": "#1478a7ff"
+	},
+	{
+		"name": "bachelor button",
+		"value": "#4abbd5ff"
+	},
+	{
+		"name": "blue atoll",
+		"value": "#00b1d2ff"
+	},
+	{
+		"name": "vivid blue",
+		"value": "#0088b0ff"
+	},
+	{
+		"name": "hawaiian ocean",
+		"value": "#008db9ff"
+	},
+	{
+		"name": "blue danube",
+		"value": "#0087b6ff"
+	},
+	{
+		"name": "blue jewel",
+		"value": "#007baaff"
+	},
+	{
+		"name": "methyl blue",
+		"value": "#0074a8ff"
+	},
+	{
+		"name": "malibu blue",
+		"value": "#008cc1ff"
+	},
+	{
+		"name": "blithe",
+		"value": "#0084bdff"
+	},
+	{
+		"name": "swedish blue",
+		"value": "#007eb1ff"
+	},
+	{
+		"name": "dresden blue",
+		"value": "#0086bbff"
+	},
+	{
+		"name": "diva blue",
+		"value": "#007bb2ff"
+	},
+	{
+		"name": "blue aster",
+		"value": "#0077b3ff"
+	},
+	{
+		"name": "cloisonne",
+		"value": "#0075afff"
+	},
+	{
+		"name": "french blue",
+		"value": "#0072b5ff"
+	},
+	{
+		"name": "brilliant blue",
+		"value": "#0075b3ff"
+	},
+	{
+		"name": "directoire blue",
+		"value": "#0061a3ff"
+	},
+	{
+		"name": "skydiver",
+		"value": "#00589bff"
+	},
+	{
+		"name": "imperial blue",
+		"value": "#005a92ff"
+	},
+	{
+		"name": "deep water",
+		"value": "#266691ff"
+	},
+	{
+		"name": "dark blue",
+		"value": "#305679ff"
+	},
+	{
+		"name": "pastel blue",
+		"value": "#bcd3d5ff"
+	},
+	{
+		"name": "clearwater",
+		"value": "#aad5dbff"
+	},
+	{
+		"name": "blue glow",
+		"value": "#b2d4ddff"
+	},
+	{
+		"name": "plume",
+		"value": "#a5cfd5ff"
+	},
+	{
+		"name": "porcelain blue",
+		"value": "#95c0cbff"
+	},
+	{
+		"name": "crystal blue",
+		"value": "#a1c8dbff"
+	},
+	{
+		"name": "petit four",
+		"value": "#87c2d4ff"
+	},
+	{
+		"name": "wan blue",
+		"value": "#cbdcdfff"
+	},
+	{
+		"name": "whispering blue",
+		"value": "#c9dcdcff"
+	},
+	{
+		"name": "skylight",
+		"value": "#c8e0e0ff"
+	},
+	{
+		"name": "aquatic",
+		"value": "#99c1ccff"
+	},
+	{
+		"name": "marine blue",
+		"value": "#76afb6ff"
+	},
+	{
+		"name": "reef waters",
+		"value": "#6f9fa9ff"
+	},
+	{
+		"name": "arctic",
+		"value": "#648589ff"
+	},
+	{
+		"name": "chalk blue",
+		"value": "#ccdad7ff"
+	},
+	{
+		"name": "pale blue",
+		"value": "#c4d6d3ff"
+	},
+	{
+		"name": "misty blue",
+		"value": "#bfcdccff"
+	},
+	{
+		"name": "sky gray",
+		"value": "#bcc8c6ff"
+	},
+	{
+		"name": "surf spray",
+		"value": "#b4c8c2ff"
+	},
+	{
+		"name": "gray mist",
+		"value": "#99aeaeff"
+	},
+	{
+		"name": "aquifer",
+		"value": "#89acacff"
+	},
+	{
+		"name": "blue glass",
+		"value": "#c6e3e1ff"
+	},
+	{
+		"name": "icy morn",
+		"value": "#b0d3d1ff"
+	},
+	{
+		"name": "canal blue",
+		"value": "#9cc2c5ff"
+	},
+	{
+		"name": "pastel turquoise",
+		"value": "#99c5c4ff"
+	},
+	{
+		"name": "aqua haze",
+		"value": "#87b9bcff"
+	},
+	{
+		"name": "aqua sea",
+		"value": "#6baaaeff"
+	},
+	{
+		"name": "meadowbrook",
+		"value": "#60a0a3ff"
+	},
+	{
+		"name": "glacier",
+		"value": "#c3dbd4ff"
+	},
+	{
+		"name": "fair aqua",
+		"value": "#b8e2dcff"
+	},
+	{
+		"name": "soothing sea",
+		"value": "#c3e9e4ff"
+	},
+	{
+		"name": "bleached aqua",
+		"value": "#bce3dfff"
+	},
+	{
+		"name": "blue light",
+		"value": "#acdfddff"
+	},
+	{
+		"name": "blue tint",
+		"value": "#9fd9d7ff"
+	},
+	{
+		"name": "aqua sky",
+		"value": "#7bc4c4ff"
+	},
+	{
+		"name": "morning mist",
+		"value": "#cfdfdbff"
+	},
+	{
+		"name": "harbor gray",
+		"value": "#a8c0bbff"
+	},
+	{
+		"name": "eggshell blue",
+		"value": "#a3ccc9ff"
+	},
+	{
+		"name": "dusty turquoise",
+		"value": "#649b9eff"
+	},
+	{
+		"name": "porcelain",
+		"value": "#5d9ca4ff"
+	},
+	{
+		"name": "brittany blue",
+		"value": "#4c7e86ff"
+	},
+	{
+		"name": "hydro",
+		"value": "#426972ff"
+	},
+	{
+		"name": "blue haze",
+		"value": "#a5bcbbff"
+	},
+	{
+		"name": "nile blue",
+		"value": "#76a7abff"
+	},
+	{
+		"name": "mineral blue",
+		"value": "#6d9192ff"
+	},
+	{
+		"name": "bristol blue",
+		"value": "#558f91ff"
+	},
+	{
+		"name": "teal",
+		"value": "#478589ff"
+	},
+	{
+		"name": "blue spruce",
+		"value": "#486b67ff"
+	},
+	{
+		"name": "sagebrush green",
+		"value": "#567572ff"
+	},
+	{
+		"name": "green milieu",
+		"value": "#8a9992ff"
+	},
+	{
+		"name": "jadeite",
+		"value": "#95a69fff"
+	},
+	{
+		"name": "blue surf",
+		"value": "#90a8a4ff"
+	},
+	{
+		"name": "oil blue",
+		"value": "#658c88ff"
+	},
+	{
+		"name": "trellis",
+		"value": "#6a8988ff"
+	},
+	{
+		"name": "north atlantic",
+		"value": "#536d70ff"
+	},
+	{
+		"name": "sea pine",
+		"value": "#4c6969ff"
+	},
+	{
+		"name": "slate",
+		"value": "#8c9fa1ff"
+	},
+	{
+		"name": "silver blue",
+		"value": "#8a9a9aff"
+	},
+	{
+		"name": "abyss",
+		"value": "#8f9e9dff"
+	},
+	{
+		"name": "lead",
+		"value": "#7a898fff"
+	},
+	{
+		"name": "stormy sea",
+		"value": "#6e8082ff"
+	},
+	{
+		"name": "trooper",
+		"value": "#697a7eff"
+	},
+	{
+		"name": "goblin blue",
+		"value": "#5f7278ff"
+	},
+	{
+		"name": "slate gray",
+		"value": "#8a9691ff"
+	},
+	{
+		"name": "chinois green",
+		"value": "#7c8c87ff"
+	},
+	{
+		"name": "dark forest",
+		"value": "#556962ff"
+	},
+	{
+		"name": "balsam green",
+		"value": "#576664ff"
+	},
+	{
+		"name": "beetle",
+		"value": "#55584cff"
+	},
+	{
+		"name": "urban chic",
+		"value": "#464e4dff"
+	},
+	{
+		"name": "darkest spruce",
+		"value": "#303d3cff"
+	},
+	{
+		"name": "mallard blue",
+		"value": "#3a5c6eff"
+	},
+	{
+		"name": "celestial",
+		"value": "#006380ff"
+	},
+	{
+		"name": "saxony blue",
+		"value": "#1f6680ff"
+	},
+	{
+		"name": "lyons blue",
+		"value": "#005871ff"
+	},
+	{
+		"name": "ink blue",
+		"value": "#0b5369ff"
+	},
+	{
+		"name": "corsair",
+		"value": "#18576cff"
+	},
+	{
+		"name": "legion blue",
+		"value": "#1f495bff"
+	},
+	{
+		"name": "aegean blue",
+		"value": "#4e6e81ff"
+	},
+	{
+		"name": "bluesteel",
+		"value": "#35637cff"
+	},
+	{
+		"name": "blue ashes",
+		"value": "#3b5f78ff"
+	},
+	{
+		"name": "midnight",
+		"value": "#325b74ff"
+	},
+	{
+		"name": "blue sapphire",
+		"value": "#09577bff"
+	},
+	{
+		"name": "seaport",
+		"value": "#005e7dff"
+	},
+	{
+		"name": "moroccan blue",
+		"value": "#0f4e67ff"
+	},
+	{
+		"name": "ocean depths",
+		"value": "#006175ff"
+	},
+	{
+		"name": "blue coral",
+		"value": "#1b5366ff"
+	},
+	{
+		"name": "dragonfly",
+		"value": "#2a5c6aff"
+	},
+	{
+		"name": "pacific",
+		"value": "#1f595cff"
+	},
+	{
+		"name": "balsam",
+		"value": "#33565eff"
+	},
+	{
+		"name": "mediterranea",
+		"value": "#32575dff"
+	},
+	{
+		"name": "atlantic deep",
+		"value": "#274e55ff"
+	},
+	{
+		"name": "aqua",
+		"value": "#64a1adff"
+	},
+	{
+		"name": "stillwater",
+		"value": "#70a4b0ff"
+	},
+	{
+		"name": "delphinium blue",
+		"value": "#6198aeff"
+	},
+	{
+		"name": "larkspur",
+		"value": "#3c7d90ff"
+	},
+	{
+		"name": "storm blue",
+		"value": "#47788aff"
+	},
+	{
+		"name": "tapestry",
+		"value": "#436573ff"
+	},
+	{
+		"name": "colonial blue",
+		"value": "#2d6471ff"
+	},
+	{
+		"name": "peacock blue",
+		"value": "#00a0b0ff"
+	},
+	{
+		"name": "capri breeze",
+		"value": "#008799ff"
+	},
+	{
+		"name": "algiers blue",
+		"value": "#00859cff"
+	},
+	{
+		"name": "caneel bay",
+		"value": "#00849fff"
+	},
+	{
+		"name": "caribbean sea",
+		"value": "#00819dff"
+	},
+	{
+		"name": "mosaic blue",
+		"value": "#00758fff"
+	},
+	{
+		"name": "turkish tile",
+		"value": "#00698bff"
+	},
+	{
+		"name": "angel blue",
+		"value": "#83c5cdff"
+	},
+	{
+		"name": "blue radiance",
+		"value": "#58c9d4ff"
+	},
+	{
+		"name": "capri",
+		"value": "#44bbcaff"
+	},
+	{
+		"name": "blue curacao",
+		"value": "#32beccff"
+	},
+	{
+		"name": "scuba blue",
+		"value": "#00abc0ff"
+	},
+	{
+		"name": "bluebird",
+		"value": "#009daeff"
+	},
+	{
+		"name": "enamel blue",
+		"value": "#007a8eff"
+	},
+	{
+		"name": "pool blue",
+		"value": "#67bcb3ff"
+	},
+	{
+		"name": "blue turquoise",
+		"value": "#53b0aeff"
+	},
+	{
+		"name": "baltic",
+		"value": "#279d9fff"
+	},
+	{
+		"name": "lake blue",
+		"value": "#008c96ff"
+	},
+	{
+		"name": "tile blue",
+		"value": "#008491ff"
+	},
+	{
+		"name": "pagoda blue",
+		"value": "#1a7f8eff"
+	},
+	{
+		"name": "biscay bay",
+		"value": "#097988ff"
+	},
+	{
+		"name": "aruba blue",
+		"value": "#81d7d3ff"
+	},
+	{
+		"name": "ceramic",
+		"value": "#00aaa9ff"
+	},
+	{
+		"name": "viridian green",
+		"value": "#009499ff"
+	},
+	{
+		"name": "tropical green",
+		"value": "#008786ff"
+	},
+	{
+		"name": "navigate",
+		"value": "#008583ff"
+	},
+	{
+		"name": "deep peacock blue",
+		"value": "#008381ff"
+	},
+	{
+		"name": "lapis",
+		"value": "#008684ff"
+	},
+	{
+		"name": "turquoise",
+		"value": "#45b5aaff"
+	},
+	{
+		"name": "waterfall",
+		"value": "#3ab0a2ff"
+	},
+	{
+		"name": "lagoon",
+		"value": "#4d9e9aff"
+	},
+	{
+		"name": "bright aqua",
+		"value": "#30a299ff"
+	},
+	{
+		"name": "porcelain green",
+		"value": "#108780ff"
+	},
+	{
+		"name": "blue grass",
+		"value": "#007c7aff"
+	},
+	{
+		"name": "fanfare",
+		"value": "#006d70ff"
+	},
+	{
+		"name": "atlantis",
+		"value": "#00af9fff"
+	},
+	{
+		"name": "pool green",
+		"value": "#00af9dff"
+	},
+	{
+		"name": "dynasty green",
+		"value": "#008e80ff"
+	},
+	{
+		"name": "spectra green",
+		"value": "#009b8cff"
+	},
+	{
+		"name": "columbia",
+		"value": "#009288ff"
+	},
+	{
+		"name": "teal blue",
+		"value": "#007f7cff"
+	},
+	{
+		"name": "parasailing",
+		"value": "#00736cff"
+	},
+	{
+		"name": "wasabi",
+		"value": "#73a89eff"
+	},
+	{
+		"name": "beryl green",
+		"value": "#619187ff"
+	},
+	{
+		"name": "deep sea",
+		"value": "#4f7c74ff"
+	},
+	{
+		"name": "bottle green",
+		"value": "#427d6dff"
+	},
+	{
+		"name": "galapagos green",
+		"value": "#29685fff"
+	},
+	{
+		"name": "antique green",
+		"value": "#29675cff"
+	},
+	{
+		"name": "storm",
+		"value": "#035453ff"
+	},
+	{
+		"name": "marine green",
+		"value": "#40a48eff"
+	},
+	{
+		"name": "sea green",
+		"value": "#149c88ff"
+	},
+	{
+		"name": "greenlake",
+		"value": "#007d69ff"
+	},
+	{
+		"name": "tidepool",
+		"value": "#0a6f69ff"
+	},
+	{
+		"name": "ivy",
+		"value": "#226c63ff"
+	},
+	{
+		"name": "cadmium green",
+		"value": "#00675bff"
+	},
+	{
+		"name": "alpine green",
+		"value": "#005f56ff"
+	},
+	{
+		"name": "canton",
+		"value": "#6da29eff"
+	},
+	{
+		"name": "agate green",
+		"value": "#599f99ff"
+	},
+	{
+		"name": "sea blue",
+		"value": "#549f98ff"
+	},
+	{
+		"name": "latigo bay",
+		"value": "#379190ff"
+	},
+	{
+		"name": "green blue slate",
+		"value": "#358082ff"
+	},
+	{
+		"name": "bayou",
+		"value": "#20706fff"
+	},
+	{
+		"name": "north sea",
+		"value": "#316c6bff"
+	},
+	{
+		"name": "deep jungle",
+		"value": "#36716fff"
+	},
+	{
+		"name": "everglade",
+		"value": "#005b5dff"
+	},
+	{
+		"name": "teal green",
+		"value": "#006361ff"
+	},
+	{
+		"name": "harbor blue",
+		"value": "#00656eff"
+	},
+	{
+		"name": "deep lake",
+		"value": "#00656bff"
+	},
+	{
+		"name": "shaded spruce",
+		"value": "#00585eff"
+	},
+	{
+		"name": "deep teal",
+		"value": "#18454bff"
+	},
+	{
+		"name": "silver pine",
+		"value": "#4e6866ff"
+	},
+	{
+		"name": "mallard green",
+		"value": "#405e5cff"
+	},
+	{
+		"name": "bistro green",
+		"value": "#395551ff"
+	},
+	{
+		"name": "jasper",
+		"value": "#335959ff"
+	},
+	{
+		"name": "bayberry",
+		"value": "#255958ff"
+	},
+	{
+		"name": "june bug",
+		"value": "#264a48ff"
+	},
+	{
+		"name": "ponderosa pine",
+		"value": "#203b3dff"
+	},
+	{
+		"name": "aqua glass",
+		"value": "#d2e8e0ff"
+	},
+	{
+		"name": "opal blue",
+		"value": "#c3ddd6ff"
+	},
+	{
+		"name": "dusty aqua",
+		"value": "#c0dccdff"
+	},
+	{
+		"name": "ocean wave",
+		"value": "#8ec5b6ff"
+	},
+	{
+		"name": "holiday",
+		"value": "#81c3b4ff"
+	},
+	{
+		"name": "cascade",
+		"value": "#76c1b2ff"
+	},
+	{
+		"name": "dusty jade green",
+		"value": "#7bb5a3ff"
+	},
+	{
+		"name": "honeydew",
+		"value": "#bae1d3ff"
+	},
+	{
+		"name": "brook green",
+		"value": "#afddccff"
+	},
+	{
+		"name": "cabbage",
+		"value": "#87d7beff"
+	},
+	{
+		"name": "beveled glass",
+		"value": "#7accb8ff"
+	},
+	{
+		"name": "opal",
+		"value": "#77cfb7ff"
+	},
+	{
+		"name": "biscay green",
+		"value": "#55c6a9ff"
+	},
+	{
+		"name": "spearmint",
+		"value": "#64bfa4ff"
+	},
+	{
+		"name": "moonlight jade",
+		"value": "#c7e5dfff"
+	},
+	{
+		"name": "bay",
+		"value": "#bae5d6ff"
+	},
+	{
+		"name": "yucca",
+		"value": "#a1d7c9ff"
+	},
+	{
+		"name": "beach glass",
+		"value": "#96dfceff"
+	},
+	{
+		"name": "ice green",
+		"value": "#87d8c3ff"
+	},
+	{
+		"name": "cockatoo",
+		"value": "#58c8b6ff"
+	},
+	{
+		"name": "florida keys",
+		"value": "#56beabff"
+	},
+	{
+		"name": "bermuda",
+		"value": "#60c9b3ff"
+	},
+	{
+		"name": "electric green",
+		"value": "#4bc3a8ff"
+	},
+	{
+		"name": "aqua green",
+		"value": "#00b89fff"
+	},
+	{
+		"name": "billiard",
+		"value": "#00aa92ff"
+	},
+	{
+		"name": "arcadia",
+		"value": "#00a28aff"
+	},
+	{
+		"name": "alhambra",
+		"value": "#008778ff"
+	},
+	{
+		"name": "deep green",
+		"value": "#009276ff"
+	},
+	{
+		"name": "mint leaf",
+		"value": "#00b694ff"
+	},
+	{
+		"name": "peacock green",
+		"value": "#00a78bff"
+	},
+	{
+		"name": "vivid green",
+		"value": "#009e82ff"
+	},
+	{
+		"name": "emerald",
+		"value": "#009473ff"
+	},
+	{
+		"name": "viridis",
+		"value": "#00846bff"
+	},
+	{
+		"name": "shady glade",
+		"value": "#006e5bff"
+	},
+	{
+		"name": "ultramarine green",
+		"value": "#006b54ff"
+	},
+	{
+		"name": "silt green",
+		"value": "#a9bdb1ff"
+	},
+	{
+		"name": "frosty green",
+		"value": "#a3b5a6ff"
+	},
+	{
+		"name": "iceberg green",
+		"value": "#8c9c92ff"
+	},
+	{
+		"name": "granite green",
+		"value": "#86a293ff"
+	},
+	{
+		"name": "green bay",
+		"value": "#7e9285ff"
+	},
+	{
+		"name": "lily pad",
+		"value": "#818f84ff"
+	},
+	{
+		"name": "laurel wreath",
+		"value": "#616f65ff"
+	},
+	{
+		"name": "green spruce",
+		"value": "#589f7eff"
+	},
+	{
+		"name": "comfrey",
+		"value": "#5b7961ff"
+	},
+	{
+		"name": "dark ivy",
+		"value": "#5b7763ff"
+	},
+	{
+		"name": "foliage green",
+		"value": "#3e6f58ff"
+	},
+	{
+		"name": "myrtle",
+		"value": "#4f6b58ff"
+	},
+	{
+		"name": "posy green",
+		"value": "#325b51ff"
+	},
+	{
+		"name": "pineneedle",
+		"value": "#334d41ff"
+	},
+	{
+		"name": "sea spray",
+		"value": "#717e6fff"
+	},
+	{
+		"name": "duck green",
+		"value": "#53665cff"
+	},
+	{
+		"name": "frosty spruce",
+		"value": "#578270ff"
+	},
+	{
+		"name": "fir",
+		"value": "#3a725fff"
+	},
+	{
+		"name": "evergreen",
+		"value": "#11574aff"
+	},
+	{
+		"name": "hunter green",
+		"value": "#335749ff"
+	},
+	{
+		"name": "dark green",
+		"value": "#314f40ff"
+	},
+	{
+		"name": "feldspar",
+		"value": "#729b8bff"
+	},
+	{
+		"name": "smoke pine",
+		"value": "#3e6257ff"
+	},
+	{
+		"name": "trekking green",
+		"value": "#355048ff"
+	},
+	{
+		"name": "garden topiary",
+		"value": "#3e524bff"
+	},
+	{
+		"name": "jungle green",
+		"value": "#3c4e47ff"
+	},
+	{
+		"name": "sycamore",
+		"value": "#35463dff"
+	},
+	{
+		"name": "green gables",
+		"value": "#324241ff"
+	},
+	{
+		"name": "vetiver",
+		"value": "#807d6fff"
+	},
+	{
+		"name": "deep lichen green",
+		"value": "#6e6e5cff"
+	},
+	{
+		"name": "thyme",
+		"value": "#50574cff"
+	},
+	{
+		"name": "kombu green",
+		"value": "#3a4032ff"
+	},
+	{
+		"name": "deep forest",
+		"value": "#37413aff"
+	},
+	{
+		"name": "forest night",
+		"value": "#434237ff"
+	},
+	{
+		"name": "rosin",
+		"value": "#36362dff"
+	},
+	{
+		"name": "celadon",
+		"value": "#b8ccbaff"
+	},
+	{
+		"name": "pale aqua",
+		"value": "#c1ccc2ff"
+	},
+	{
+		"name": "smoke",
+		"value": "#bfc8c3ff"
+	},
+	{
+		"name": "foggy dew",
+		"value": "#d1d5d0ff"
+	},
+	{
+		"name": "mercury",
+		"value": "#bac2baff"
+	},
+	{
+		"name": "mineral gray",
+		"value": "#b2b6acff"
+	},
+	{
+		"name": "aqua gray",
+		"value": "#a5b2aaff"
+	},
+	{
+		"name": "fairest jade",
+		"value": "#d8e3d7ff"
+	},
+	{
+		"name": "water lily",
+		"value": "#dde3d5ff"
+	},
+	{
+		"name": "canary green",
+		"value": "#d6dec9ff"
+	},
+	{
+		"name": "almost aqua",
+		"value": "#cad3c1ff"
+	},
+	{
+		"name": "green tint",
+		"value": "#c5ccc0ff"
+	},
+	{
+		"name": "sea foam",
+		"value": "#b7c2b2ff"
+	},
+	{
+		"name": "desert sage",
+		"value": "#a7ae9eff"
+	},
+	{
+		"name": "whisper green",
+		"value": "#e0e6d7ff"
+	},
+	{
+		"name": "celadon tint",
+		"value": "#cbcebeff"
+	},
+	{
+		"name": "dewkist",
+		"value": "#c4d1c2ff"
+	},
+	{
+		"name": "green lily",
+		"value": "#c1cec1ff"
+	},
+	{
+		"name": "cameo green",
+		"value": "#aac0adff"
+	},
+	{
+		"name": "seagrass",
+		"value": "#959889ff"
+	},
+	{
+		"name": "shadow",
+		"value": "#888d82ff"
+	},
+	{
+		"name": "clearly aqua",
+		"value": "#cee1d4ff"
+	},
+	{
+		"name": "misty jade",
+		"value": "#bcd9c8ff"
+	},
+	{
+		"name": "subtle green",
+		"value": "#b5cbbbff"
+	},
+	{
+		"name": "aqua foam",
+		"value": "#adc3b4ff"
+	},
+	{
+		"name": "gossamer green",
+		"value": "#b2cfbeff"
+	},
+	{
+		"name": "lichen",
+		"value": "#9bc2b1ff"
+	},
+	{
+		"name": "grayed jade",
+		"value": "#9bbea9ff"
+	},
+	{
+		"name": "milky green",
+		"value": "#cfdbd1ff"
+	},
+	{
+		"name": "phantom green",
+		"value": "#dce4d7ff"
+	},
+	{
+		"name": "mist green",
+		"value": "#aacebcff"
+	},
+	{
+		"name": "birds egg green",
+		"value": "#aaccb9ff"
+	},
+	{
+		"name": "bok choy",
+		"value": "#bccab3ff"
+	},
+	{
+		"name": "smoke green",
+		"value": "#a8bba2ff"
+	},
+	{
+		"name": "malachite green",
+		"value": "#709a89ff"
+	},
+	{
+		"name": "mistletoe",
+		"value": "#8aa282ff"
+	},
+	{
+		"name": "basil",
+		"value": "#879f84ff"
+	},
+	{
+		"name": "mineral green",
+		"value": "#7a9b78ff"
+	},
+	{
+		"name": "green eyes",
+		"value": "#7d956dff"
+	},
+	{
+		"name": "turf green",
+		"value": "#6f8c69ff"
+	},
+	{
+		"name": "watercress",
+		"value": "#748c69ff"
+	},
+	{
+		"name": "elm green",
+		"value": "#547053ff"
+	},
+	{
+		"name": "hedge green",
+		"value": "#768a75ff"
+	},
+	{
+		"name": "loden frost",
+		"value": "#788f74ff"
+	},
+	{
+		"name": "shale green",
+		"value": "#739072ff"
+	},
+	{
+		"name": "kashmir",
+		"value": "#6f8d6aff"
+	},
+	{
+		"name": "stone green",
+		"value": "#658e67ff"
+	},
+	{
+		"name": "english ivy",
+		"value": "#61845bff"
+	},
+	{
+		"name": "deep grass green",
+		"value": "#558367ff"
+	},
+	{
+		"name": "piquant green",
+		"value": "#769358ff"
+	},
+	{
+		"name": "forest green",
+		"value": "#6b8d53ff"
+	},
+	{
+		"name": "fluorite green",
+		"value": "#699158ff"
+	},
+	{
+		"name": "cactus",
+		"value": "#53713dff"
+	},
+	{
+		"name": "garden green",
+		"value": "#495e35ff"
+	},
+	{
+		"name": "artichoke green",
+		"value": "#4b6d41ff"
+	},
+	{
+		"name": "willow bough",
+		"value": "#59754dff"
+	},
+	{
+		"name": "aspen green",
+		"value": "#7e9b76ff"
+	},
+	{
+		"name": "medium green",
+		"value": "#3c824eff"
+	},
+	{
+		"name": "juniper",
+		"value": "#3d7245ff"
+	},
+	{
+		"name": "fairway",
+		"value": "#477050ff"
+	},
+	{
+		"name": "vineyard green",
+		"value": "#5f7355ff"
+	},
+	{
+		"name": "dill",
+		"value": "#6f7755ff"
+	},
+	{
+		"name": "greener pastures",
+		"value": "#37503dff"
+	},
+	{
+		"name": "four leaf clover",
+		"value": "#616652ff"
+	},
+	{
+		"name": "bronze green",
+		"value": "#525f48ff"
+	},
+	{
+		"name": "chive",
+		"value": "#4a5335ff"
+	},
+	{
+		"name": "cypress",
+		"value": "#545a3eff"
+	},
+	{
+		"name": "black forest",
+		"value": "#414f3cff"
+	},
+	{
+		"name": "rifle green",
+		"value": "#414832ff"
+	},
+	{
+		"name": "duffel bag",
+		"value": "#394034ff"
+	},
+	{
+		"name": "ambrosia",
+		"value": "#d2e7caff"
+	},
+	{
+		"name": "spray",
+		"value": "#bed3bbff"
+	},
+	{
+		"name": "pastel green",
+		"value": "#b4d3b2ff"
+	},
+	{
+		"name": "hemlock",
+		"value": "#97c1a1ff"
+	},
+	{
+		"name": "sprucestone",
+		"value": "#9fc09cff"
+	},
+	{
+		"name": "meadow",
+		"value": "#8bba94ff"
+	},
+	{
+		"name": "jadesheen",
+		"value": "#77a276ff"
+	},
+	{
+		"name": "green ash",
+		"value": "#a0daa9ff"
+	},
+	{
+		"name": "greengage",
+		"value": "#8bc28cff"
+	},
+	{
+		"name": "ming",
+		"value": "#7cb08aff"
+	},
+	{
+		"name": "zephyr green",
+		"value": "#7cb083ff"
+	},
+	{
+		"name": "peapod",
+		"value": "#82b185ff"
+	},
+	{
+		"name": "light grass green",
+		"value": "#7cb68eff"
+	},
+	{
+		"name": "absinthe green",
+		"value": "#76b583ff"
+	},
+	{
+		"name": "neptune green",
+		"value": "#7fbb9eff"
+	},
+	{
+		"name": "creme de menthe",
+		"value": "#70a38dff"
+	},
+	{
+		"name": "winter green",
+		"value": "#4f9e81ff"
+	},
+	{
+		"name": "gumdrop green",
+		"value": "#2ea785ff"
+	},
+	{
+		"name": "holly green",
+		"value": "#0f9d76ff"
+	},
+	{
+		"name": "parakeet",
+		"value": "#008c69ff"
+	},
+	{
+		"name": "golf green",
+		"value": "#008763ff"
+	},
+	{
+		"name": "spring bud",
+		"value": "#6bcd9cff"
+	},
+	{
+		"name": "katydid",
+		"value": "#66bc91ff"
+	},
+	{
+		"name": "jade cream",
+		"value": "#60b892ff"
+	},
+	{
+		"name": "ming green",
+		"value": "#3aa278ff"
+	},
+	{
+		"name": "greenbriar",
+		"value": "#4b9b69ff"
+	},
+	{
+		"name": "leprechaun",
+		"value": "#378661ff"
+	},
+	{
+		"name": "pine green",
+		"value": "#3a795eff"
+	},
+	{
+		"name": "blarney",
+		"value": "#00a776ff"
+	},
+	{
+		"name": "mint",
+		"value": "#00a170ff"
+	},
+	{
+		"name": "deep mint",
+		"value": "#009e6dff"
+	},
+	{
+		"name": "simply green",
+		"value": "#009b75ff"
+	},
+	{
+		"name": "pepper green",
+		"value": "#007d60ff"
+	},
+	{
+		"name": "bosphorus",
+		"value": "#007558ff"
+	},
+	{
+		"name": "verdant green",
+		"value": "#12674aff"
+	},
+	{
+		"name": "seacrest",
+		"value": "#bfd1b3ff"
+	},
+	{
+		"name": "gleam",
+		"value": "#bfd1adff"
+	},
+	{
+		"name": "nile green",
+		"value": "#a7c796ff"
+	},
+	{
+		"name": "quiet green",
+		"value": "#9ebc97ff"
+	},
+	{
+		"name": "fair green",
+		"value": "#92af88ff"
+	},
+	{
+		"name": "forest shade",
+		"value": "#91ac80ff"
+	},
+	{
+		"name": "jade green",
+		"value": "#759465ff"
+	},
+	{
+		"name": "patina green",
+		"value": "#b9eab3ff"
+	},
+	{
+		"name": "pistachio green",
+		"value": "#a9d39eff"
+	},
+	{
+		"name": "arcadian green",
+		"value": "#a3c893ff"
+	},
+	{
+		"name": "grass green",
+		"value": "#7bb369ff"
+	},
+	{
+		"name": "bud green",
+		"value": "#79b465ff"
+	},
+	{
+		"name": "green tea",
+		"value": "#86a96fff"
+	},
+	{
+		"name": "tendril",
+		"value": "#89a06bff"
+	},
+	{
+		"name": "paradise green",
+		"value": "#b2e79fff"
+	},
+	{
+		"name": "lime green",
+		"value": "#9fc131ff"
+	},
+	{
+		"name": "jasmine green",
+		"value": "#7ec845ff"
+	},
+	{
+		"name": "green flash",
+		"value": "#79c753ff"
+	},
+	{
+		"name": "classic green",
+		"value": "#39a845ff"
+	},
+	{
+		"name": "online lime",
+		"value": "#44883cff"
+	},
+	{
+		"name": "treetop",
+		"value": "#476a30ff"
+	},
+	{
+		"name": "summer green",
+		"value": "#7ed37fff"
+	},
+	{
+		"name": "spring bouquet",
+		"value": "#6dce87ff"
+	},
+	{
+		"name": "island green",
+		"value": "#2bae66ff"
+	},
+	{
+		"name": "irish green",
+		"value": "#45be76ff"
+	},
+	{
+		"name": "shamrock",
+		"value": "#6fa26bff"
+	},
+	{
+		"name": "peppermint",
+		"value": "#699e6dff"
+	},
+	{
+		"name": "mint green",
+		"value": "#487d49ff"
+	},
+	{
+		"name": "poison green",
+		"value": "#4db560ff"
+	},
+	{
+		"name": "vibrant green",
+		"value": "#55a860ff"
+	},
+	{
+		"name": "kelly green",
+		"value": "#339c5eff"
+	},
+	{
+		"name": "bright green",
+		"value": "#009b5cff"
+	},
+	{
+		"name": "fern green",
+		"value": "#008c45ff"
+	},
+	{
+		"name": "jelly bean",
+		"value": "#008658ff"
+	},
+	{
+		"name": "amazon",
+		"value": "#1f7349ff"
+	},
+	{
+		"name": "green glow",
+		"value": "#b0c965ff"
+	},
+	{
+		"name": "bright lime green",
+		"value": "#97bc62ff"
+	},
+	{
+		"name": "greenery",
+		"value": "#88b04bff"
+	},
+	{
+		"name": "foliage",
+		"value": "#75a14fff"
+	},
+	{
+		"name": "peridot",
+		"value": "#819548ff"
+	},
+	{
+		"name": "meadow green",
+		"value": "#739957ff"
+	},
+	{
+		"name": "woodbine",
+		"value": "#7b7f32ff"
+	},
+	{
+		"name": "jade lime",
+		"value": "#a1ca7bff"
+	},
+	{
+		"name": "herbal garden",
+		"value": "#9cad60ff"
+	},
+	{
+		"name": "leaf green",
+		"value": "#9faf6cff"
+	},
+	{
+		"name": "parrot green",
+		"value": "#8db051ff"
+	},
+	{
+		"name": "dark citron",
+		"value": "#a0ac4fff"
+	},
+	{
+		"name": "macaw green",
+		"value": "#9bb53eff"
+	},
+	{
+		"name": "kiwi",
+		"value": "#7aab55ff"
+	},
+	{
+		"name": "sharp green",
+		"value": "#c6ec7aff"
+	},
+	{
+		"name": "daiquiri green",
+		"value": "#c9d77eff"
+	},
+	{
+		"name": "wild lime",
+		"value": "#c3d363ff"
+	},
+	{
+		"name": "linden green",
+		"value": "#c4bf71ff"
+	},
+	{
+		"name": "bright chartreuse",
+		"value": "#b5bf50ff"
+	},
+	{
+		"name": "tender shoots",
+		"value": "#b5cc39ff"
+	},
+	{
+		"name": "lime punch",
+		"value": "#c0d725ff"
+	},
+	{
+		"name": "sunny lime",
+		"value": "#dfef87ff"
+	},
+	{
+		"name": "limeade",
+		"value": "#d3d95fff"
+	},
+	{
+		"name": "sulphur spring",
+		"value": "#d5d717ff"
+	},
+	{
+		"name": "citronelle",
+		"value": "#b8af23ff"
+	},
+	{
+		"name": "apple green",
+		"value": "#b5b644ff"
+	},
+	{
+		"name": "warm olive",
+		"value": "#c7b63cff"
+	},
+	{
+		"name": "antique moss",
+		"value": "#b9a023ff"
+	},
+	{
+		"name": "lime cream",
+		"value": "#d7e8bcff"
+	},
+	{
+		"name": "shadow lime",
+		"value": "#cfe09dff"
+	},
+	{
+		"name": "lime sherbet",
+		"value": "#cdd78aff"
+	},
+	{
+		"name": "lettuce green",
+		"value": "#bed38eff"
+	},
+	{
+		"name": "sap green",
+		"value": "#afcb80ff"
+	},
+	{
+		"name": "opaline green",
+		"value": "#a3c57dff"
+	},
+	{
+		"name": "winter pear",
+		"value": "#b0b487ff"
+	},
+	{
+		"name": "sylvan green",
+		"value": "#e7eacbff"
+	},
+	{
+		"name": "glass green",
+		"value": "#ecead0ff"
+	},
+	{
+		"name": "green essence",
+		"value": "#e9eac8ff"
+	},
+	{
+		"name": "ethereal green",
+		"value": "#f1eccaff"
+	},
+	{
+		"name": "garden glade",
+		"value": "#dcd8a8ff"
+	},
+	{
+		"name": "hay",
+		"value": "#d3cca3ff"
+	},
+	{
+		"name": "pale green",
+		"value": "#cbce91ff"
+	},
+	{
+		"name": "young wheat",
+		"value": "#e1e3a9ff"
+	},
+	{
+		"name": "citron",
+		"value": "#dfde9bff"
+	},
+	{
+		"name": "luminary green",
+		"value": "#e3eaa5ff"
+	},
+	{
+		"name": "pale lime yellow",
+		"value": "#dfe69fff"
+	},
+	{
+		"name": "chardonnay",
+		"value": "#e7df99ff"
+	},
+	{
+		"name": "lima bean",
+		"value": "#e1d590ff"
+	},
+	{
+		"name": "charlock",
+		"value": "#e5e790ff"
+	},
+	{
+		"name": "mellow green",
+		"value": "#d5d593ff"
+	},
+	{
+		"name": "shadow green",
+		"value": "#cfc486ff"
+	},
+	{
+		"name": "celery green",
+		"value": "#c5cc7bff"
+	},
+	{
+		"name": "green banana",
+		"value": "#babc72ff"
+	},
+	{
+		"name": "green oasis",
+		"value": "#b0b454ff"
+	},
+	{
+		"name": "leek green",
+		"value": "#b7b17aff"
+	},
+	{
+		"name": "weeping willow",
+		"value": "#b3b17bff"
+	},
+	{
+		"name": "palm",
+		"value": "#afaf5eff"
+	},
+	{
+		"name": "golden olive",
+		"value": "#af9841ff"
+	},
+	{
+		"name": "oasis",
+		"value": "#a3a04eff"
+	},
+	{
+		"name": "moss",
+		"value": "#a09d59ff"
+	},
+	{
+		"name": "amber green",
+		"value": "#9a803aff"
+	},
+	{
+		"name": "ecru olive",
+		"value": "#927b3cff"
+	},
+	{
+		"name": "green moss",
+		"value": "#857946ff"
+	},
+	{
+		"name": "khaki",
+		"value": "#a39264ff"
+	},
+	{
+		"name": "fennel seed",
+		"value": "#998456ff"
+	},
+	{
+		"name": "willow",
+		"value": "#9a8b4fff"
+	},
+	{
+		"name": "bronze mist",
+		"value": "#9c7e41ff"
+	},
+	{
+		"name": "dried tobacco",
+		"value": "#997b38ff"
+	},
+	{
+		"name": "tapenade",
+		"value": "#805d24ff"
+	},
+	{
+		"name": "plantation",
+		"value": "#7a6332ff"
+	},
+	{
+		"name": "fog green",
+		"value": "#c2cbb4ff"
+	},
+	{
+		"name": "tender greens",
+		"value": "#c5cfb6ff"
+	},
+	{
+		"name": "aloe wash",
+		"value": "#d0d3b7ff"
+	},
+	{
+		"name": "celadon green",
+		"value": "#b5c1a5ff"
+	},
+	{
+		"name": "laurel green",
+		"value": "#adbba1ff"
+	},
+	{
+		"name": "swamp",
+		"value": "#a8b197ff"
+	},
+	{
+		"name": "reseda",
+		"value": "#a1ad92ff"
+	},
+	{
+		"name": "meadow mist",
+		"value": "#d3dec4ff"
+	},
+	{
+		"name": "butterfly",
+		"value": "#cadea5ff"
+	},
+	{
+		"name": "white jade",
+		"value": "#d4dbb2ff"
+	},
+	{
+		"name": "seafoam green",
+		"value": "#cbd5b1ff"
+	},
+	{
+		"name": "reed",
+		"value": "#c3d3a8ff"
+	},
+	{
+		"name": "seedling",
+		"value": "#c0cba1ff"
+	},
+	{
+		"name": "foam green",
+		"value": "#b4c79cff"
+	},
+	{
+		"name": "lily green",
+		"value": "#c5cf98ff"
+	},
+	{
+		"name": "beechnut",
+		"value": "#c2c18dff"
+	},
+	{
+		"name": "nile",
+		"value": "#b4bb85ff"
+	},
+	{
+		"name": "sweet pea",
+		"value": "#a3a969ff"
+	},
+	{
+		"name": "spinach green",
+		"value": "#909b4cff"
+	},
+	{
+		"name": "fern",
+		"value": "#9aa067ff"
+	},
+	{
+		"name": "green olive",
+		"value": "#8d8b55ff"
+	},
+	{
+		"name": "epsom",
+		"value": "#849161ff"
+	},
+	{
+		"name": "grasshopper",
+		"value": "#77824aff"
+	},
+	{
+		"name": "turtle green",
+		"value": "#81894eff"
+	},
+	{
+		"name": "calliste green",
+		"value": "#757a4eff"
+	},
+	{
+		"name": "calla green",
+		"value": "#6a6f34ff"
+	},
+	{
+		"name": "cedar green",
+		"value": "#5e6737ff"
+	},
+	{
+		"name": "pesto",
+		"value": "#595f34ff"
+	},
+	{
+		"name": "tarragon",
+		"value": "#a4ae77ff"
+	},
+	{
+		"name": "sage",
+		"value": "#91946eff"
+	},
+	{
+		"name": "iguana",
+		"value": "#818455ff"
+	},
+	{
+		"name": "oil green",
+		"value": "#80856dff"
+	},
+	{
+		"name": "loden green",
+		"value": "#6e7153ff"
+	},
+	{
+		"name": "capulet olive",
+		"value": "#656344ff"
+	},
+	{
+		"name": "olivine",
+		"value": "#666b54ff"
+	},
+	{
+		"name": "lint",
+		"value": "#b6ba99ff"
+	},
+	{
+		"name": "pale olive green",
+		"value": "#b5ad88ff"
+	},
+	{
+		"name": "sage green",
+		"value": "#b2ac88ff"
+	},
+	{
+		"name": "gray green",
+		"value": "#a49a79ff"
+	},
+	{
+		"name": "sponge",
+		"value": "#a49775ff"
+	},
+	{
+		"name": "mermaid",
+		"value": "#817a65ff"
+	},
+	{
+		"name": "dusky green",
+		"value": "#746c57ff"
+	},
+	{
+		"name": "tea",
+		"value": "#999b85ff"
+	},
+	{
+		"name": "silver sage",
+		"value": "#938b78ff"
+	},
+	{
+		"name": "slate green",
+		"value": "#a0987cff"
+	},
+	{
+		"name": "elm",
+		"value": "#a39f86ff"
+	},
+	{
+		"name": "mosstone",
+		"value": "#858961ff"
+	},
+	{
+		"name": "aloe",
+		"value": "#817a60ff"
+	},
+	{
+		"name": "olive drab",
+		"value": "#756d47ff"
+	},
+	{
+		"name": "cedar",
+		"value": "#928e64ff"
+	},
+	{
+		"name": "boa",
+		"value": "#8e855fff"
+	},
+	{
+		"name": "dried herb",
+		"value": "#847a59ff"
+	},
+	{
+		"name": "olive branch",
+		"value": "#646a45ff"
+	},
+	{
+		"name": "lizard",
+		"value": "#71643eff"
+	},
+	{
+		"name": "avocado",
+		"value": "#676232ff"
+	},
+	{
+		"name": "fir green",
+		"value": "#67592aff"
+	},
+	{
+		"name": "bog",
+		"value": "#bab696ff"
+	},
+	{
+		"name": "elmwood",
+		"value": "#8c7c61ff"
+	},
+	{
+		"name": "gothic olive",
+		"value": "#7c6e4fff"
+	},
+	{
+		"name": "butternut",
+		"value": "#7a643fff"
+	},
+	{
+		"name": "nutria",
+		"value": "#75663eff"
+	},
+	{
+		"name": "military olive",
+		"value": "#63563bff"
+	},
+	{
+		"name": "dark olive",
+		"value": "#574d35ff"
+	},
+	{
+		"name": "moss gray",
+		"value": "#afab97ff"
+	},
+	{
+		"name": "abbey stone",
+		"value": "#aba798ff"
+	},
+	{
+		"name": "burnt olive",
+		"value": "#646049ff"
+	},
+	{
+		"name": "dusty olive",
+		"value": "#646356ff"
+	},
+	{
+		"name": "ivy green",
+		"value": "#585442ff"
+	},
+	{
+		"name": "olive night",
+		"value": "#535040ff"
+	},
+	{
+		"name": "grape leaf",
+		"value": "#545144ff"
+	},
+	{
+		"name": "porpoise",
+		"value": "#a7a19eff"
+	},
+	{
+		"name": "satellite",
+		"value": "#9f8d89ff"
+	},
+	{
+		"name": "driftwood",
+		"value": "#847a75ff"
+	},
+	{
+		"name": "falcon",
+		"value": "#6d625bff"
+	},
+	{
+		"name": "morel",
+		"value": "#685c53ff"
+	},
+	{
+		"name": "fallen rock",
+		"value": "#807669ff"
+	},
+	{
+		"name": "vintage khaki",
+		"value": "#9a9186ff"
+	},
+	{
+		"name": "crockery",
+		"value": "#a49887ff"
+	},
+	{
+		"name": "greige",
+		"value": "#928475ff"
+	},
+	{
+		"name": "desert taupe",
+		"value": "#8d7e71ff"
+	},
+	{
+		"name": "white pepper",
+		"value": "#b6a893ff"
+	},
+	{
+		"name": "humus",
+		"value": "#b7a793ff"
+	},
+	{
+		"name": "portabella",
+		"value": "#937b6aff"
+	},
+	{
+		"name": "caribou",
+		"value": "#816d5eff"
+	},
+	{
+		"name": "travertine",
+		"value": "#ae997dff"
+	},
+	{
+		"name": "starfish",
+		"value": "#b09a77ff"
+	},
+	{
+		"name": "semolina",
+		"value": "#ceb899ff"
+	},
+	{
+		"name": "curds and whey",
+		"value": "#bca483ff"
+	},
+	{
+		"name": "tigers eye",
+		"value": "#977c61ff"
+	},
+	{
+		"name": "toasted coconut",
+		"value": "#8b6a4fff"
+	},
+	{
+		"name": "rain drum",
+		"value": "#5f4c40ff"
+	},
+	{
+		"name": "pear sorbet",
+		"value": "#f3eac3ff"
+	},
+	{
+		"name": "pineapple slice",
+		"value": "#e7d391ff"
+	},
+	{
+		"name": "yarrow",
+		"value": "#face6dff"
+	},
+	{
+		"name": "anise flower",
+		"value": "#f4e3b5ff"
+	},
+	{
+		"name": "flan",
+		"value": "#f6e3b4ff"
+	},
+	{
+		"name": "sundress",
+		"value": "#ebcf89ff"
+	},
+	{
+		"name": "macadamia",
+		"value": "#e4cfb6ff"
+	},
+	{
+		"name": "lemon meringue",
+		"value": "#f6e199ff"
+	},
+	{
+		"name": "yellow iris",
+		"value": "#eee78eff"
+	},
+	{
+		"name": "goldfinch",
+		"value": "#f8dc6cff"
+	},
+	{
+		"name": "lemon zest",
+		"value": "#f9d857ff"
+	},
+	{
+		"name": "solar power",
+		"value": "#f4bf3aff"
+	},
+	{
+		"name": "samoan sun",
+		"value": "#fbc85fff"
+	},
+	{
+		"name": "desert sun",
+		"value": "#c87629ff"
+	},
+	{
+		"name": "pumpkin spice",
+		"value": "#a05c17ff"
+	},
+	{
+		"name": "orange pepper",
+		"value": "#df7500ff"
+	},
+	{
+		"name": "marmalade",
+		"value": "#c16512ff"
+	},
+	{
+		"name": "hawaiian sunset",
+		"value": "#bb5c14ff"
+	},
+	{
+		"name": "autumnal",
+		"value": "#a15325ff"
+	},
+	{
+		"name": "umber",
+		"value": "#944a1fff"
+	},
+	{
+		"name": "exuberance",
+		"value": "#e86800ff"
+	},
+	{
+		"name": "puffins bill",
+		"value": "#e95c20ff"
+	},
+	{
+		"name": "caramel cafe",
+		"value": "#864c24ff"
+	},
+	{
+		"name": "gold flame",
+		"value": "#b45422ff"
+	},
+	{
+		"name": "cinnamon stick",
+		"value": "#9b4722ff"
+	},
+	{
+		"name": "potters clay",
+		"value": "#9e4624ff"
+	},
+	{
+		"name": "rooibos tea",
+		"value": "#a23c26ff"
+	},
+	{
+		"name": "celosia orange",
+		"value": "#e8703aff"
+	},
+	{
+		"name": "orangeade",
+		"value": "#e2552cff"
+	},
+	{
+		"name": "pureed pumpkin",
+		"value": "#c34121ff"
+	},
+	{
+		"name": "tangerine tango",
+		"value": "#dd4124ff"
+	},
+	{
+		"name": "poinciana",
+		"value": "#ca3422ff"
+	},
+	{
+		"name": "koi",
+		"value": "#d15837ff"
+	},
+	{
+		"name": "samba",
+		"value": "#a2242fff"
+	},
+	{
+		"name": "barbados cherry",
+		"value": "#aa0a27ff"
+	},
+	{
+		"name": "haute red",
+		"value": "#a11729ff"
+	},
+	{
+		"name": "salsa",
+		"value": "#aa182bff"
+	},
+	{
+		"name": "scarlet sage",
+		"value": "#9d202fff"
+	},
+	{
+		"name": "scooter",
+		"value": "#941e32ff"
+	},
+	{
+		"name": "red dahlia",
+		"value": "#7d2027ff"
+	},
+	{
+		"name": "sun dried tomato",
+		"value": "#752329ff"
+	},
+	{
+		"name": "fired brick",
+		"value": "#6a2e2aff"
+	},
+	{
+		"name": "rhubarb",
+		"value": "#77202fff"
+	},
+	{
+		"name": "syrah",
+		"value": "#6a282cff"
+	},
+	{
+		"name": "pomegranate",
+		"value": "#6c2831ff"
+	},
+	{
+		"name": "cabernet",
+		"value": "#64242eff"
+	},
+	{
+		"name": "ballerina",
+		"value": "#f2cfdcff"
+	},
+	{
+		"name": "fairy tale",
+		"value": "#f2c1d1ff"
+	},
+	{
+		"name": "etherea",
+		"value": "#a5958fff"
+	},
+	{
+		"name": "foxglove",
+		"value": "#b98391ff"
+	},
+	{
+		"name": "mesa rose",
+		"value": "#a66e7aff"
+	},
+	{
+		"name": "jazzy",
+		"value": "#b61c50ff"
+	},
+	{
+		"name": "granita",
+		"value": "#a52350ff"
+	},
+	{
+		"name": "cherries jubilee",
+		"value": "#a22452ff"
+	},
+	{
+		"name": "cabaret",
+		"value": "#cb3373ff"
+	},
+	{
+		"name": "vivacious",
+		"value": "#a32857ff"
+	},
+	{
+		"name": "bellflower",
+		"value": "#9469a2ff"
+	},
+	{
+		"name": "english lavendar",
+		"value": "#9d7bb0ff"
+	},
+	{
+		"name": "rhapsody",
+		"value": "#9f86aaff"
+	},
+	{
+		"name": "acai",
+		"value": "#46295aff"
+	},
+	{
+		"name": "tillandsia purple",
+		"value": "#563474ff"
+	},
+	{
+		"name": "picasso lily",
+		"value": "#634878ff"
+	},
+	{
+		"name": "mystical",
+		"value": "#5f4e72ff"
+	},
+	{
+		"name": "icelandic blue",
+		"value": "#a9adc2ff"
+	},
+	{
+		"name": "aleutian",
+		"value": "#9a9eb3ff"
+	},
+	{
+		"name": "silver bullet",
+		"value": "#81839aff"
+	},
+	{
+		"name": "blue granite",
+		"value": "#717388ff"
+	},
+	{
+		"name": "evening blue",
+		"value": "#2a293eff"
+	},
+	{
+		"name": "deep well",
+		"value": "#2c2a33ff"
+	},
+	{
+		"name": "night sky",
+		"value": "#2a2a35ff"
+	},
+	{
+		"name": "blue heron",
+		"value": "#96a3c7ff"
+	},
+	{
+		"name": "hydrangea",
+		"value": "#849bccff"
+	},
+	{
+		"name": "xenon blue",
+		"value": "#b7c0d7ff"
+	},
+	{
+		"name": "brunnera blue",
+		"value": "#9ba9caff"
+	},
+	{
+		"name": "sky captain",
+		"value": "#262934ff"
+	},
+	{
+		"name": "navy blazer",
+		"value": "#282d3cff"
+	},
+	{
+		"name": "dark sapphire",
+		"value": "#262b37ff"
+	},
+	{
+		"name": "plein air",
+		"value": "#bfcad6ff"
+	},
+	{
+		"name": "halogen blue",
+		"value": "#bdc6dcff"
+	},
+	{
+		"name": "chambray blue",
+		"value": "#9eb4d3ff"
+	},
+	{
+		"name": "bel air blue",
+		"value": "#819ac1ff"
+	},
+	{
+		"name": "vintage indigo",
+		"value": "#4a556bff"
+	},
+	{
+		"name": "sodalite blue",
+		"value": "#253668ff"
+	},
+	{
+		"name": "parisian night",
+		"value": "#323441ff"
+	},
+	{
+		"name": "monaco blue",
+		"value": "#274374ff"
+	},
+	{
+		"name": "vallarta blue",
+		"value": "#30658eff"
+	},
+	{
+		"name": "salute",
+		"value": "#282b34ff"
+	},
+	{
+		"name": "outer space",
+		"value": "#2f3441ff"
+	},
+	{
+		"name": "blueberry",
+		"value": "#2c333eff"
+	},
+	{
+		"name": "carbon",
+		"value": "#272f38ff"
+	},
+	{
+		"name": "vulcan",
+		"value": "#2d3036ff"
+	},
+	{
+		"name": "omphalodes",
+		"value": "#b5cedfff"
+	},
+	{
+		"name": "cool blue",
+		"value": "#a5c5d9ff"
+	},
+	{
+		"name": "bering sea",
+		"value": "#4b5b6eff"
+	},
+	{
+		"name": "blue wing teal",
+		"value": "#2c4053ff"
+	},
+	{
+		"name": "poseidon",
+		"value": "#123955ff"
+	},
+	{
+		"name": "mykonos blue",
+		"value": "#005780ff"
+	},
+	{
+		"name": "reflecting pond",
+		"value": "#203e4aff"
+	},
+	{
+		"name": "corydalis blue",
+		"value": "#a9cadaff"
+	},
+	{
+		"name": "blue topaz",
+		"value": "#78bdd4ff"
+	},
+	{
+		"name": "gulf stream",
+		"value": "#88c3d0ff"
+	},
+	{
+		"name": "aquarelle",
+		"value": "#61aab1ff"
+	},
+	{
+		"name": "aqua splash",
+		"value": "#85ced1ff"
+	},
+	{
+		"name": "botanical garden",
+		"value": "#12403cff"
+	},
+	{
+		"name": "scarab",
+		"value": "#23312dff"
+	},
+	{
+		"name": "nimbus cloud",
+		"value": "#d5d5d8ff"
+	},
+	{
+		"name": "micro chip",
+		"value": "#babcc0ff"
+	},
+	{
+		"name": "wet weather",
+		"value": "#929090ff"
+	},
+	{
+		"name": "titanium",
+		"value": "#807d7fff"
+	},
+	{
+		"name": "december sky",
+		"value": "#767275ff"
+	},
+	{
+		"name": "pavement",
+		"value": "#524d50ff"
+	},
+	{
+		"name": "magnet",
+		"value": "#4d4b4fff"
+	},
+	{
+		"name": "silver sconce",
+		"value": "#a19fa5ff"
+	},
+	{
+		"name": "silver filigree",
+		"value": "#7f7c81ff"
+	},
+	{
+		"name": "quicksilver",
+		"value": "#7e7d88ff"
+	},
+	{
+		"name": "storm front",
+		"value": "#787376ff"
+	},
+	{
+		"name": "tornado",
+		"value": "#5e5b60ff"
+	},
+	{
+		"name": "eiffel tower",
+		"value": "#5c5658ff"
+	},
+	{
+		"name": "graphite",
+		"value": "#3b3b48ff"
+	},
+	{
+		"name": "alloy",
+		"value": "#98979aff"
+	},
+	{
+		"name": "sleet",
+		"value": "#92949bff"
+	},
+	{
+		"name": "tradewinds",
+		"value": "#7f8793ff"
+	},
+	{
+		"name": "grisaille",
+		"value": "#585e6fff"
+	},
+	{
+		"name": "periscope",
+		"value": "#46444cff"
+	},
+	{
+		"name": "quiet shade",
+		"value": "#66676dff"
+	},
+	{
+		"name": "turbulence",
+		"value": "#4e545bff"
+	},
+	{
+		"name": "stormy weather",
+		"value": "#58646dff"
+	},
+	{
+		"name": "iron gate",
+		"value": "#4e5055ff"
+	},
+	{
+		"name": "forged iron",
+		"value": "#48464aff"
+	},
+	{
+		"name": "asphalt",
+		"value": "#434447ff"
+	},
+	{
+		"name": "ghost gray",
+		"value": "#9c9b98ff"
+	},
+	{
+		"name": "brushed nickel",
+		"value": "#73706fff"
+	},
+	{
+		"name": "mourning dove",
+		"value": "#94908bff"
+	},
+	{
+		"name": "belgian block",
+		"value": "#a3a9a6ff"
+	},
+	{
+		"name": "agave green",
+		"value": "#6b7169ff"
+	},
+	{
+		"name": "cilantro",
+		"value": "#43544bff"
+	},
+	{
+		"name": "pine grove",
+		"value": "#213631ff"
+	},
+	{
+		"name": "eden",
+		"value": "#264e36ff"
+	},
+	{
+		"name": "jolly green",
+		"value": "#007844ff"
+	},
+	{
+		"name": "mountain view",
+		"value": "#2e3d30ff"
+	},
+	{
+		"name": "margarita",
+		"value": "#b5c38eff"
+	},
+	{
+		"name": "winter moss",
+		"value": "#5b5a41ff"
+	},
+	{
+		"name": "climbing ivy",
+		"value": "#444940ff"
+	},
+	{
+		"name": "delicioso",
+		"value": "#3f352fff"
+	},
+	{
+		"name": "mulch",
+		"value": "#433937ff"
+	},
+	{
+		"name": "mole",
+		"value": "#392d2bff"
+	},
+	{
+		"name": "chocolate torte",
+		"value": "#382e2dff"
+	},
+	{
+		"name": "ganache",
+		"value": "#34292aff"
+	},
+	{
+		"name": "black bean",
+		"value": "#2e272aff"
+	},
+	{
+		"name": "espresso",
+		"value": "#363031ff"
+	},
+	{
+		"name": "meteorite",
+		"value": "#2b2929ff"
+	},
+	{
+		"name": "tap shoe",
+		"value": "#2a2b2dff"
+	},
+	{
+		"name": "white alyssum",
+		"value": "#efebe7ff"
+	},
+	{
+		"name": "jet stream",
+		"value": "#ede6deff"
+	},
+	{
+		"name": "sweet cream",
+		"value": "#f0ead6ff"
+	},
+	{
+		"name": "buttercream",
+		"value": "#efe0cdff"
+	},
+	{
+		"name": "lemon icing",
+		"value": "#f6ebc8ff"
+	},
+	{
+		"name": "sugar swizzle",
+		"value": "#f3eee7ff"
+	},
+	{
+		"name": "coconut milk",
+		"value": "#f0ede5ff"
+	},
+	{
+		"name": "yellow pear",
+		"value": "#ece99bff"
+	},
+	{
+		"name": "sea salt",
+		"value": "#f1e6deff"
+	},
+	{
+		"name": "brilliant white",
+		"value": "#edf1feff"
+	},
+	{
+		"name": "cannoli cream",
+		"value": "#f0efe2ff"
+	},
+	{
+		"name": "tofu",
+		"value": "#e8e3d9ff"
+	},
+	{
+		"name": "pistachio shell",
+		"value": "#d7cfbbff"
+	},
+	{
+		"name": "celandine",
+		"value": "#ebdf67ff"
+	},
+	{
+		"name": "lemon verbena",
+		"value": "#f3e779ff"
+	},
+	{
+		"name": "creme de peche",
+		"value": "#f5d6c6ff"
+	},
+	{
+		"name": "marys rose",
+		"value": "#f7d1d4ff"
+	},
+	{
+		"name": "morganite",
+		"value": "#dfcdc6ff"
+	},
+	{
+		"name": "rose water",
+		"value": "#f8e0e7ff"
+	},
+	{
+		"name": "almond milk",
+		"value": "#d6cebeff"
+	},
+	{
+		"name": "lime popsicle",
+		"value": "#c0db3aff"
+	},
+	{
+		"name": "golden kiwi",
+		"value": "#f3dd3eff"
+	},
+	{
+		"name": "meadowlark",
+		"value": "#ead94eff"
+	},
+	{
+		"name": "evening primrose",
+		"value": "#ccdb1eff"
+	},
+	{
+		"name": "habanero gold",
+		"value": "#fed450ff"
+	},
+	{
+		"name": "minion yellow",
+		"value": "#fed55dff"
+	},
+	{
+		"name": "soybean",
+		"value": "#d2c29dff"
+	},
+	{
+		"name": "jurassic gold",
+		"value": "#e7aa56ff"
+	},
+	{
+		"name": "brown rice",
+		"value": "#c7bba4ff"
+	},
+	{
+		"name": "peach quartz",
+		"value": "#f5b895ff"
+	},
+	{
+		"name": "peachy keen",
+		"value": "#e2bdb3ff"
+	},
+	{
+		"name": "brazilian sand",
+		"value": "#dacab7ff"
+	},
+	{
+		"name": "pink salt",
+		"value": "#f7cdc7ff"
+	},
+	{
+		"name": "rose quartz",
+		"value": "#f7cac9ff"
+	},
+	{
+		"name": "ballet slipper",
+		"value": "#ebced5ff"
+	},
+	{
+		"name": "cherry blossom",
+		"value": "#f7cee0ff"
+	},
+	{
+		"name": "antarctica",
+		"value": "#c6c5c6ff"
+	},
+	{
+		"name": "oyster mushroom",
+		"value": "#c3c6c8ff"
+	},
+	{
+		"name": "tanager turquoise",
+		"value": "#91dce8ff"
+	},
+	{
+		"name": "limpet shell",
+		"value": "#98dddeff"
+	},
+	{
+		"name": "iced aqua",
+		"value": "#abd3dbff"
+	},
+	{
+		"name": "acid lime",
+		"value": "#badf30ff"
+	},
+	{
+		"name": "spicy mustard",
+		"value": "#d8ae47ff"
+	},
+	{
+		"name": "kumquat",
+		"value": "#fbaa4cff"
+	},
+	{
+		"name": "irish cream",
+		"value": "#c0ac92ff"
+	},
+	{
+		"name": "orange chiffon",
+		"value": "#f9aa7dff"
+	},
+	{
+		"name": "hazelnut",
+		"value": "#cfb095ff"
+	},
+	{
+		"name": "sepia rose",
+		"value": "#d4bab6ff"
+	},
+	{
+		"name": "raindrops",
+		"value": "#b1aab3ff"
+	},
+	{
+		"name": "zen blue",
+		"value": "#9fa9beff"
+	},
+	{
+		"name": "quiet gray",
+		"value": "#b9babdff"
+	},
+	{
+		"name": "airy blue",
+		"value": "#92b6d5ff"
+	},
+	{
+		"name": "harbor mist",
+		"value": "#afb1b4ff"
+	},
+	{
+		"name": "sea angel",
+		"value": "#98bfcaff"
+	},
+	{
+		"name": "baltic sea",
+		"value": "#79b5dbff"
+	},
+	{
+		"name": "antiqua sand",
+		"value": "#83c2cdff"
+	},
+	{
+		"name": "island paradise",
+		"value": "#95dee3ff"
+	},
+	{
+		"name": "tibetan stone",
+		"value": "#82c2c7ff"
+	},
+	{
+		"name": "mango mojito",
+		"value": "#d69c2fff"
+	},
+	{
+		"name": "ginger root",
+		"value": "#bfa58aff"
+	},
+	{
+		"name": "iced coffee",
+		"value": "#b18f6aff"
+	},
+	{
+		"name": "autumn blaze",
+		"value": "#d9922eff"
+	},
+	{
+		"name": "golden orange",
+		"value": "#d7942dff"
+	},
+	{
+		"name": "porcini",
+		"value": "#cca580ff"
+	},
+	{
+		"name": "iceland poppy",
+		"value": "#f4963aff"
+	},
+	{
+		"name": "papaya",
+		"value": "#fea166ff"
+	},
+	{
+		"name": "carrot curl",
+		"value": "#fe8c18ff"
+	},
+	{
+		"name": "turmeric",
+		"value": "#fe840eff"
+	},
+	{
+		"name": "tangelo",
+		"value": "#fe7e03ff"
+	},
+	{
+		"name": "fenugreek",
+		"value": "#c0916cff"
+	},
+	{
+		"name": "dusted clay",
+		"value": "#cc7357ff"
+	},
+	{
+		"name": "pastry shell",
+		"value": "#bd8c66ff"
+	},
+	{
+		"name": "blooming dahlia",
+		"value": "#eb9687ff"
+	},
+	{
+		"name": "crocus petal",
+		"value": "#b99bc5ff"
+	},
+	{
+		"name": "purple rose",
+		"value": "#b09fcaff"
+	},
+	{
+		"name": "lilac breeze",
+		"value": "#b3a0c9ff"
+	},
+	{
+		"name": "serenity",
+		"value": "#91a8d0ff"
+	},
+	{
+		"name": "crystal seas",
+		"value": "#5dafceff"
+	},
+	{
+		"name": "golden lime",
+		"value": "#9a9738ff"
+	},
+	{
+		"name": "split pea",
+		"value": "#9c9a40ff"
+	},
+	{
+		"name": "lentil sprout",
+		"value": "#aba44dff"
+	},
+	{
+		"name": "pure cashmere",
+		"value": "#ada396ff"
+	},
+	{
+		"name": "sun baked",
+		"value": "#d27f63ff"
+	},
+	{
+		"name": "peach caramel",
+		"value": "#c5733dff"
+	},
+	{
+		"name": "tomato cream",
+		"value": "#c57644ff"
+	},
+	{
+		"name": "orange tiger",
+		"value": "#f96714ff"
+	},
+	{
+		"name": "meerkat",
+		"value": "#a46f44ff"
+	},
+	{
+		"name": "exotic orange",
+		"value": "#f96531ff"
+	},
+	{
+		"name": "dragon fire",
+		"value": "#fc642dff"
+	},
+	{
+		"name": "coral quartz",
+		"value": "#f77464ff"
+	},
+	{
+		"name": "peach echo",
+		"value": "#f7786bff"
+	},
+	{
+		"name": "purple dove",
+		"value": "#98878cff"
+	},
+	{
+		"name": "sand verbena",
+		"value": "#9f90c1ff"
+	},
+	{
+		"name": "lilac gray",
+		"value": "#9896a4ff"
+	},
+	{
+		"name": "granada sky",
+		"value": "#5d81bbff"
+	},
+	{
+		"name": "tree house",
+		"value": "#988c75ff"
+	},
+	{
+		"name": "chai tea",
+		"value": "#b1832fff"
+	},
+	{
+		"name": "roasted pecan",
+		"value": "#93592bff"
+	},
+	{
+		"name": "roasted cashew",
+		"value": "#918579ff"
+	},
+	{
+		"name": "winter twig",
+		"value": "#948a7aff"
+	},
+	{
+		"name": "petrified oak",
+		"value": "#8d7960ff"
+	},
+	{
+		"name": "argan oil",
+		"value": "#8b593eff"
+	},
+	{
+		"name": "autumn maple",
+		"value": "#c46215ff"
+	},
+	{
+		"name": "sepia tint",
+		"value": "#897560ff"
+	},
+	{
+		"name": "spice route",
+		"value": "#b95b3fff"
+	},
+	{
+		"name": "scarlet ibis",
+		"value": "#f45520ff"
+	},
+	{
+		"name": "summer fig",
+		"value": "#be4b3bff"
+	},
+	{
+		"name": "moonscape",
+		"value": "#725f69ff"
+	},
+	{
+		"name": "fruit dove",
+		"value": "#ce5b78ff"
+	},
+	{
+		"name": "pink yarrow",
+		"value": "#ce3175ff"
+	},
+	{
+		"name": "toadstool",
+		"value": "#988088ff"
+	},
+	{
+		"name": "bodacious",
+		"value": "#b76ba3ff"
+	},
+	{
+		"name": "diffused orchid",
+		"value": "#9879a2ff"
+	},
+	{
+		"name": "fairy wren",
+		"value": "#9479afff"
+	},
+	{
+		"name": "sunlit allium",
+		"value": "#9787bbff"
+	},
+	{
+		"name": "sharkskin",
+		"value": "#838487ff"
+	},
+	{
+		"name": "pale iris",
+		"value": "#8895c5ff"
+	},
+	{
+		"name": "iolite",
+		"value": "#707bb4ff"
+	},
+	{
+		"name": "gray flannel",
+		"value": "#848182ff"
+	},
+	{
+		"name": "riverside",
+		"value": "#4c6a92ff"
+	},
+	{
+		"name": "quiet harbor",
+		"value": "#5a789aff"
+	},
+	{
+		"name": "lichen blue",
+		"value": "#5d89b3ff"
+	},
+	{
+		"name": "pacific coast",
+		"value": "#5480acff"
+	},
+	{
+		"name": "ibiza blue",
+		"value": "#007cb7ff"
+	},
+	{
+		"name": "navagio bay",
+		"value": "#3183a0ff"
+	},
+	{
+		"name": "barrier reef",
+		"value": "#0084a1ff"
+	},
+	{
+		"name": "guacamole",
+		"value": "#797b3aff"
+	},
+	{
+		"name": "kale",
+		"value": "#5a7247ff"
+	},
+	{
+		"name": "mayfly",
+		"value": "#65663fff"
+	},
+	{
+		"name": "twist of lime",
+		"value": "#4e632cff"
+	},
+	{
+		"name": "martini olive",
+		"value": "#716a4dff"
+	},
+	{
+		"name": "emperador",
+		"value": "#684832ff"
+	},
+	{
+		"name": "thai curry",
+		"value": "#ab6819ff"
+	},
+	{
+		"name": "honey ginger",
+		"value": "#a86217ff"
+	},
+	{
+		"name": "sugar almond",
+		"value": "#935529ff"
+	},
+	{
+		"name": "spiced apple",
+		"value": "#783937ff"
+	},
+	{
+		"name": "chili oil",
+		"value": "#8e3c36ff"
+	},
+	{
+		"name": "plum truffle",
+		"value": "#675657ff"
+	},
+	{
+		"name": "brandy brown",
+		"value": "#73362aff"
+	},
+	{
+		"name": "valiant poppy",
+		"value": "#bc322cff"
+	},
+	{
+		"name": "aura orange",
+		"value": "#b4262aff"
+	},
+	{
+		"name": "toreador",
+		"value": "#b61032ff"
+	},
+	{
+		"name": "lychee",
+		"value": "#ba0b32ff"
+	},
+	{
+		"name": "goji berry",
+		"value": "#b91228ff"
+	},
+	{
+		"name": "arctic dusk",
+		"value": "#735b6aff"
+	},
+	{
+		"name": "ephemera",
+		"value": "#6f5965ff"
+	},
+	{
+		"name": "jalapeno red",
+		"value": "#b2103cff"
+	},
+	{
+		"name": "love potion",
+		"value": "#c01352ff"
+	},
+	{
+		"name": "pink peacock",
+		"value": "#c62168ff"
+	},
+	{
+		"name": "grape kiss",
+		"value": "#7b4368ff"
+	},
+	{
+		"name": "willowherb",
+		"value": "#8e4483ff"
+	},
+	{
+		"name": "charisma",
+		"value": "#632a60ff"
+	},
+	{
+		"name": "plum jam",
+		"value": "#624076ff"
+	},
+	{
+		"name": "lavender crystal",
+		"value": "#936a98ff"
+	},
+	{
+		"name": "purple sapphire",
+		"value": "#6f4685ff"
+	},
+	{
+		"name": "chive blossom",
+		"value": "#7d5d99ff"
+	},
+	{
+		"name": "purple corallite",
+		"value": "#5a4e8fff"
+	},
+	{
+		"name": "volcanic glass",
+		"value": "#615c60ff"
+	},
+	{
+		"name": "gray blue",
+		"value": "#4d587aff"
+	},
+	{
+		"name": "blue horizon",
+		"value": "#4e6482ff"
+	},
+	{
+		"name": "iris bloom",
+		"value": "#5b609eff"
+	},
+	{
+		"name": "nebulas blue",
+		"value": "#2d62a3ff"
+	},
+	{
+		"name": "indigo bunting",
+		"value": "#006ca9ff"
+	},
+	{
+		"name": "fjord blue",
+		"value": "#007290ff"
+	},
+	{
+		"name": "hawaiian surf",
+		"value": "#0078a7ff"
+	},
+	{
+		"name": "tahitian tide",
+		"value": "#006b7eff"
+	},
+	{
+		"name": "quetzal green",
+		"value": "#006865ff"
+	},
+	{
+		"name": "granite gray",
+		"value": "#615e5fff"
+	},
+	{
+		"name": "lush meadow",
+		"value": "#006e51ff"
+	},
+	{
+		"name": "gray pinstripe",
+		"value": "#49494dff"
+	},
+	{
+		"name": "sea turtle",
+		"value": "#5e5749ff"
+	},
+	{
+		"name": "deep depths",
+		"value": "#46483cff"
+	},
+	{
+		"name": "kalamata",
+		"value": "#5f5b4cff"
+	},
+	{
+		"name": "crocodile",
+		"value": "#5d5348ff"
+	},
+	{
+		"name": "chocolate plum",
+		"value": "#3c2d2eff"
+	},
+	{
+		"name": "chocolate lab",
+		"value": "#5c3e35ff"
+	},
+	{
+		"name": "shaved chocolate",
+		"value": "#543b35ff"
+	},
+	{
+		"name": "fondue fudge",
+		"value": "#5d4236ff"
+	},
+	{
+		"name": "tiramisu",
+		"value": "#634235ff"
+	},
+	{
+		"name": "rocky road",
+		"value": "#5a3e36ff"
+	},
+	{
+		"name": "chicory coffee",
+		"value": "#4a342eff"
+	},
+	{
+		"name": "smoked paprika",
+		"value": "#6e362cff"
+	},
+	{
+		"name": "chocolate fondant",
+		"value": "#56352dff"
+	},
+	{
+		"name": "cherry mahogany",
+		"value": "#66352bff"
+	},
+	{
+		"name": "merlot",
+		"value": "#72262cff"
+	},
+	{
+		"name": "red pear",
+		"value": "#7b3539ff"
+	},
+	{
+		"name": "pickled beet",
+		"value": "#4d233dff"
+	},
+	{
+		"name": "plum caspia",
+		"value": "#61224aff"
+	},
+	{
+		"name": "winter bloom",
+		"value": "#47243bff"
+	},
+	{
+		"name": "spiced plum",
+		"value": "#6d4773ff"
+	},
+	{
+		"name": "violet indigo",
+		"value": "#3e285cff"
+	},
+	{
+		"name": "maritime blue",
+		"value": "#27293dff"
+	},
+	{
+		"name": "obsidian",
+		"value": "#3a363bff"
+	},
+	{
+		"name": "black beauty",
+		"value": "#26262aff"
+	},
+	{
+		"name": "blackened pearl",
+		"value": "#4d4b50ff"
+	},
+	{
+		"name": "odyssey gray",
+		"value": "#434452ff"
+	},
+	{
+		"name": "black onyx",
+		"value": "#2b272bff"
+	},
+	{
+		"name": "navy peony",
+		"value": "#223a5eff"
+	},
+	{
+		"name": "sargasso sea",
+		"value": "#35435aff"
+	},
+	{
+		"name": "sailor blue",
+		"value": "#0e3a53ff"
+	},
+	{
+		"name": "gibraltar sea",
+		"value": "#123850ff"
+	},
+	{
+		"name": "lapis blue",
+		"value": "#004b8dff"
+	},
+	{
+		"name": "baleine blue",
+		"value": "#155187ff"
+	},
+	{
+		"name": "galaxy blue",
+		"value": "#2a4b7cff"
+	},
+	{
+		"name": "blue opal",
+		"value": "#0f3b57ff"
+	},
+	{
+		"name": "moonlit ocean",
+		"value": "#293b4dff"
+	},
+	{
+		"name": "deep dive",
+		"value": "#29495cff"
+	},
+	{
+		"name": "crystal teal",
+		"value": "#00637cff"
+	},
+	{
+		"name": "deep lagoon",
+		"value": "#005265ff"
+	},
+	{
+		"name": "sea moss",
+		"value": "#254445ff"
+	},
+	{
+		"name": "forest biome",
+		"value": "#184a45ff"
+	},
+	{
+		"name": "rain forest",
+		"value": "#15463eff"
+	}
+]

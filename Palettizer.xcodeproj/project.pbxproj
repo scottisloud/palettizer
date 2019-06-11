@@ -7,26 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		232A070422AEA9DF002CF038 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 232A070322AEA9DF002CF038 /* Assets.xcassets */; };
+		232A070622AECCE7002CF038 /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232A070522AECCE7002CF038 /* Parser.swift */; };
 		23AB459E22A8129A00FC384E /* ColorDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AB459D22A8129A00FC384E /* ColorDetailView.swift */; };
+		23C3AEB822AED6600034CE33 /* colorList.json in Resources */ = {isa = PBXBuildFile; fileRef = 23C3AEB722AED65F0034CE33 /* colorList.json */; };
 		23FF56242289B06D00FCBE33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FF56232289B06D00FCBE33 /* AppDelegate.swift */; };
 		23FF56262289B06D00FCBE33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FF56252289B06D00FCBE33 /* ViewController.swift */; };
 		23FF56292289B06D00FCBE33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23FF56272289B06D00FCBE33 /* Main.storyboard */; };
-		23FF562B2289B06F00FCBE33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FF562A2289B06F00FCBE33 /* Assets.xcassets */; };
 		23FF562E2289B06F00FCBE33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23FF562C2289B06F00FCBE33 /* LaunchScreen.storyboard */; };
-		23FF56362289B39100FCBE33 /* colorList.json in Resources */ = {isa = PBXBuildFile; fileRef = 23FF56352289B39100FCBE33 /* colorList.json */; };
+		23FF56362289B39100FCBE33 /* ~colorList.json in Resources */ = {isa = PBXBuildFile; fileRef = 23FF56352289B39100FCBE33 /* ~colorList.json */; };
 		23FF56382289B43600FCBE33 /* PantoneColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FF56372289B43600FCBE33 /* PantoneColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		232A070322AEA9DF002CF038 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		232A070522AECCE7002CF038 /* Parser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parser.swift; sourceTree = "<group>"; };
 		23AB459D22A8129A00FC384E /* ColorDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailView.swift; sourceTree = "<group>"; };
+		23C3AEB722AED65F0034CE33 /* colorList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colorList.json; sourceTree = "<group>"; };
 		23FF56202289B06D00FCBE33 /* Palettizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Palettizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23FF56232289B06D00FCBE33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23FF56252289B06D00FCBE33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		23FF56282289B06D00FCBE33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		23FF562A2289B06F00FCBE33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23FF562D2289B06F00FCBE33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23FF562F2289B06F00FCBE33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		23FF56352289B39100FCBE33 /* colorList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colorList.json; sourceTree = "<group>"; };
+		23FF56352289B39100FCBE33 /* ~colorList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "~colorList.json"; sourceTree = "<group>"; };
 		23FF56372289B43600FCBE33 /* PantoneColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PantoneColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,13 +66,15 @@
 			children = (
 				23FF56232289B06D00FCBE33 /* AppDelegate.swift */,
 				23FF56252289B06D00FCBE33 /* ViewController.swift */,
+				232A070522AECCE7002CF038 /* Parser.swift */,
 				23AB459D22A8129A00FC384E /* ColorDetailView.swift */,
+				232A070322AEA9DF002CF038 /* Assets.xcassets */,
 				23FF56372289B43600FCBE33 /* PantoneColor.swift */,
 				23FF56272289B06D00FCBE33 /* Main.storyboard */,
-				23FF562A2289B06F00FCBE33 /* Assets.xcassets */,
 				23FF562C2289B06F00FCBE33 /* LaunchScreen.storyboard */,
 				23FF562F2289B06F00FCBE33 /* Info.plist */,
-				23FF56352289B39100FCBE33 /* colorList.json */,
+				23C3AEB722AED65F0034CE33 /* colorList.json */,
+				23FF56352289B39100FCBE33 /* ~colorList.json */,
 			);
 			path = Palettizer;
 			sourceTree = "<group>";
@@ -132,9 +138,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				23FF562E2289B06F00FCBE33 /* LaunchScreen.storyboard in Resources */,
-				23FF562B2289B06F00FCBE33 /* Assets.xcassets in Resources */,
 				23FF56292289B06D00FCBE33 /* Main.storyboard in Resources */,
-				23FF56362289B39100FCBE33 /* colorList.json in Resources */,
+				232A070422AEA9DF002CF038 /* Assets.xcassets in Resources */,
+				23C3AEB822AED6600034CE33 /* colorList.json in Resources */,
+				23FF56362289B39100FCBE33 /* ~colorList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +154,7 @@
 			files = (
 				23FF56262289B06D00FCBE33 /* ViewController.swift in Sources */,
 				23AB459E22A8129A00FC384E /* ColorDetailView.swift in Sources */,
+				232A070622AECCE7002CF038 /* Parser.swift in Sources */,
 				23FF56382289B43600FCBE33 /* PantoneColor.swift in Sources */,
 				23FF56242289B06D00FCBE33 /* AppDelegate.swift in Sources */,
 			);
