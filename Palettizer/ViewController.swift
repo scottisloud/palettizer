@@ -18,9 +18,9 @@ class ViewController: UITableViewController {
 		// SETTING UP THE UI
 		self.title = "Palettizer"
 		navigationController?.navigationBar.prefersLargeTitles = true
+		self.tableView.separatorStyle = .none
 		
 		// GET PATH AND PARSE JSON
-
 		if let url = getPath() {
 			if let data = try? Data(contentsOf: url) {
 				parse(json: data)
