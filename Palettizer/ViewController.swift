@@ -24,6 +24,7 @@ class ViewController: UITableViewController {
 		if let url = getPath() {
 			if let data = try? Data(contentsOf: url) {
 				parse(json: data)
+				sortColors(0)
 				tableView.reloadData()
 				return
 			} else {
@@ -50,6 +51,9 @@ class ViewController: UITableViewController {
 		cell.textLabel?.text = displayColor.name.capitalized
 		cell.detailTextLabel?.text = displayColor.value
 		cell.backgroundColor = backgroundColor
+
+		cell.textLabel?.textColor = cell.backgroundColor?.isDarkColor == true ? .lightText : .darkText
+		cell.detailTextLabel?.textColor = cell.backgroundColor?.isDarkColor == true ? .lightText : .darkText
 		return cell
 	}
 	
@@ -60,6 +64,19 @@ class ViewController: UITableViewController {
 			vc.selectedColorName = listedColors[indexPath.row].name.capitalized
 			
 			navigationController?.pushViewController(vc, animated: true)
+		}
+	}
+	
+	// sorts the array of colors. Ideally this will be tied to a settings toggle in navbar and the Tag of the toggle will be passed as an int. Currently tag == 1 means sort from white->black and tag == 2 means sort alpha.
+	
+	func sortColors(_ order: Int) {
+		switch order {
+		case 1:
+			listedColors.sort(by: { $0.value > $1.value })
+		case 2:
+			listedColors.sort(by: {$0.name > $1.name})
+		default:
+			break
 		}
 	}
 	
@@ -101,7 +118,19 @@ extension UIColor {
 				}
 			}
 		}
-		
 		return nil
+	}
+}
+
+//determina luminance of background color: https://stackoverflow.com/questions/47365583/determining-text-color-from-the-background-color-in-swift
+
+extension UIColor
+{
+	var isDarkColor: Bool {
+		var r, g, b, a: CGFloat
+		(r, g, b, a) = (0, 0, 0, 0)
+		self.getRed(&r, green: &g, blue: &b, alpha: &a)
+		let lum = 0.2126 * r + 0.7152 * g + 0.0722 * b
+		return  lum < 0.50 ? true : false
 	}
 }

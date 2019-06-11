@@ -8,9 +8,11 @@
 
 import Foundation
 
+
+
 struct PantoneColor: Codable {
 	var name: String
-	var value: String	
+	var value: String
 }
 
 

@@ -9,6 +9,7 @@
 import Foundation
 
 var listedColors = [PantoneColor]()
+var colorDict = [String: String]()
 
 // GET PATH OF JSON
 func getPath() -> URL? {
@@ -29,5 +30,3 @@ func parse(json: Data) {
 		print("Parser's right fucked")
 	}
 }
-
-
